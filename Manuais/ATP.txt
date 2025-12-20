@@ -1,0 +1,29 @@
+Aqui estao as regras de automatizacao de tramitacao processual que ja existem na nossa Turma Recursal:
+
+(() => {
+  const table = document.querySelector('#tableAutomatizacaoLocalizadores');
+  if (!table) return console.error('Tabela não encontrada.');
+
+  const getCell = (td) => {
+    const full = td.querySelector('div[id^="dadosCompletos_"]');
+    const sum  = td.querySelector('div[id^="dadosResumidos_"]');
+    const el = full || sum || td;
+    return (el.textContent || '').replace(/\r/g,'').trim();
+  };
+
+  const headers = [...table.querySelectorAll('thead th')].map(th => th.textContent.trim());
+  const rows = [...table.querySelectorAll('tbody tr')].map(tr => {
+    const tds = [...tr.querySelectorAll(':scope > td')];
+    return tds.map(getCell);
+  });
+
+  const csv = [headers, ...rows]
+    .map(r => r.map(v => `"${String(v).replace(/"/g,'""')}"`).join(';'))
+    .join('\n');
+
+  const blob = new Blob([csv], {type: 'text/csv;charset=utf-8;'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'eproc_automatizacoes.csv';
+  a.click();
+})();

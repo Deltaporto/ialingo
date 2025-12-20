@@ -1,0 +1,43 @@
+
+======================================================================
+RELATÓRIO DE SIMULAÇÕES
+======================================================================
+✅ PASS | TRIA-01.1: LOAS típico deve ser triado
+    Resultado conforme esperado. Todos os critérios atendidos Ações: REMOVIDO de '2.3 GAB03-TR02', ADICIONADO em '2.3 LOAS'
+✅ PASS | TRIA-01.2: Ap. Especial NÃO deve ir para LOAS
+    Resultado conforme esperado. Assunto 'Aposentadoria Especial (Art. 57/8)' não corresponde ao filtro
+✅ PASS | TRIA-01.3: Limite - menciona deficiência mas assunto é Aposentadoria
+    Resultado conforme esperado. Assunto 'Aposentadoria por Idade' não corresponde ao filtro
+✅ PASS | TRIA-02.1: Ap. Especial típico deve ser triado
+    Resultado conforme esperado. Todos os critérios atendidos Ações: REMOVIDO de '2.3 GAB03-TR02', ADICIONADO em '2.3 Ap. Especial/ATC'
+✅ PASS | TRIA-02.2: LOAS NÃO deve ir para Ap. Especial
+    Resultado conforme esperado. Assunto 'Deficiente' não corresponde ao filtro
+✅ PASS | TRIA-04.1: Auxílio-doença deve ser triado
+    Resultado conforme esperado. Todos os critérios atendidos Ações: REMOVIDO de '2.3 GAB03-TR02', ADICIONADO em '2.3 Benefício Incapacidade'
+✅ PASS | TRIA-04.2: LOAS NÃO deve ir para Incapacidade
+    Resultado conforme esperado. Assunto 'Deficiente' não corresponde ao filtro
+✅ PASS | SUSP-01.1: RVT deve ser suspenso
+    Resultado conforme esperado. Todos os critérios atendidos Ações: ADICIONADO em '2.3 tema 1.102/STF - Suspensos'
+✅ PASS | SUSP-01.2: Ap. Especial comum NÃO deve ser suspenso por RVT
+    Resultado conforme esperado. Assunto 'Aposentadoria Especial (Art. 57/8)' não corresponde ao filtro
+✅ PASS | SUSP-02.1: Vigilante deve ser suspenso
+    Resultado conforme esperado. Todos os critérios atendidos Ações: REMOVIDO de '2.3 Ap. Especial/ATC', ADICIONADO em '2.3 - Tema 1031/STJ'
+✅ PASS | SUSP-02.2: Torneiro mecânico NÃO deve ser suspenso
+    Resultado conforme esperado. Processo não está em localizador de origem ['2.3 Ap. Especial/ATC']
+✅ PASS | PRAZO-01.1: Parado 70 dias deve receber alerta
+    Resultado conforme esperado. Todos os critérios atendidos Ações: ADICIONADO em '2.3 ALERTA - Parados >60 dias'
+✅ PASS | PRAZO-01.2: Processo recente NÃO deve receber alerta
+    Resultado conforme esperado. Processo não está em localizador de origem ['2.3 LOAS', '2.3 Ap. Especial/ATC', '2.3 Ap. Idade urbana', '2.3 Benefício Incapacidade', '2.3 Pensão (RGPS)']
+✅ PASS | PRAZO-03.1: Idoso parado 35 dias deve ter prioridade
+    Resultado conforme esperado. Todos os critérios atendidos Ações: ADICIONADO em '2.3 PRIORIDADE IDOSO'
+✅ PASS | PRAZO-03.2: Jovem parado 35 dias NÃO deve ter prioridade
+    Resultado conforme esperado. Nenhuma parte ativa com idade >= 60
+✅ PASS | FILTRO.1: MS Administrativo NÃO deve ser triado para LOAS
+    Resultado conforme esperado. Assunto 'Servidor Público Civil' não corresponde ao filtro
+✅ PASS | FILTRO.2: MS Administrativo NÃO deve ser triado para Especial
+    Resultado conforme esperado. Assunto 'Servidor Público Civil' não corresponde ao filtro
+
+----------------------------------------------------------------------
+RESUMO: 17/17 testes passaram (100.0%)
+✅ Todos os testes passaram - regras prontas para implementação
+----------------------------------------------------------------------

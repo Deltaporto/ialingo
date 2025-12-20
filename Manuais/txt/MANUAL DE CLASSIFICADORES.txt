@@ -1,0 +1,173 @@
+MANUAL DE CLASSIFICADORES
+POR CONTEÚDO NA AUTOMAÇÃO
+PROCESSUAL NO EPROC
+Justiça Federal do Rio de Janeiro
+Subsecretaria de Atividades Judiciárias – SAJ
+Coordenadoria de Gestão de Sistemas Judiciários - CGSI
+1
+
+MANUAL DE CLASSIFICADORES POR CONTEÚDO NA AUTOMAÇÃO
+PROCESSUAL NO EPROC
+Introdução
+Este tutorial tem como objetivo demonstrar a aplicação e o funcionamento do
+classificador por conteúdo, recurso integrado à Automatização da Tramitação
+Processual.
+Problemas que buscam selecionar
+No tratamento de demandas judiciais, diversas automações podem ser
+realizadas com base nos dados já cadastrados no processo, como classe judicial,
+competência, evento, tipo de petição, partes, entre outros.
+A funcionalidade de automação da tramitação processual possibilita que o órgão
+judicial crie um conjunto de regras de automação utilizando diferentes critérios,
+como tipo de petição, evento, tempo e tipo de documento. A automação
+também permite adicionar detalhes às regras, como a entidade envolvida, classe
+judicial ou o assunto do processo.
+Apesar dessas opções, muitas vezes ainda é necessária a análise do conteúdo do
+documento anexado ao processo para determinar com mais precisão o fluxo
+processual adequado. Nesse contexto, o classificador por conteúdo permite que
+a unidade judicial cadastre exemplos de documentos ou filtros por palavras-
+chave, permitindo que, ao anexar um novo documento, o sistema identifique a
+similaridade entre ele e os exemplos previamente cadastrados.
+Além disso, como alternativa, é possível definir filtros baseados em palavras-
+chave ou frases que devem aparecer no documento. Essas duas opções de
+classificação por conteúdo podem ser utilizadas tanto em conjunto quanto
+separadamente.
+Com base na análise de similaridade e/ou nos filtros por palavras, juntamente
+com outros critérios cadastrados na automação da tramitação processual, o
+sistema realiza a triagem automatizada do processo.
+Os documentos analisados pelo classificador por conteúdo podem ser arquivos
+PDF anexados por usuários externos (como petições iniciais ou outras petições
+2
+
+intermediárias), ou documentos HTML gerados por usuários internos (como
+despachos, decisões, acórdãos, entre outros).
+Vale ressaltar que essa funcionalidade não abrange documentos PDF
+digitalizados, ou seja, casos em que as informações do documento são
+apresentadas como imagens. Somente os documentos PDF com texto são
+processados.
+Identificação de documentos e/ou palavras-chave nos documentos
+O primeiro passo para criar um classificador por conteúdo é selecionar pelo menos
+três documentos de exemplo. Para cada documento, é necessário registrar o
+número do processo e o sequencial do evento no qual o documento foi anexado.
+Adicionalmente, é fundamental identificar palavras-chave ou frases recorrentes
+em todos os documentos. Essas informações podem ser usadas para criar uma
+regra de filtro baseada em palavras.
+Criação do classificador
+Com o perfil de Diretor de Secretaria (Substituto) ou Supervisor de Automações,
+deve-se acessar o menu “Localizadores ”, conforme mostrado na Figura 1, e clicar
+em "Classificador por Conteúdo".
+Figura 1
+3
+
+O sistema exibirá os classificadores já criados. Cada unidade possui seus próprios
+classificadores de conteúdo, que, atualmente, não podem ser compartilhados com
+outras varas (Figura 2).
+Figura 2
+Para criar um novo classificador, devemos selecionar a opção "Novo". O sistema
+exibirá a tela de cadastramento (Figura 3).
+Figura 3
+Devemos atribuir um nome ao novo classificador, que será exibido como uma
+opção na tela de Automatização da Tramitação Processual. No nosso exemplo,
+chamaremos o classificador de "Classificador Teste".
+Para aprimorar a precisão dos classificadores, é possível cadastrar as palavras ou
+frases mais recorrentes nos documentos de exemplo. Assim, se um documento a
+4
+
+ser analisado não contiver essas palavras ou frases, o sistema o desconsidera
+automaticamente. Esse recurso é especialmente eficaz para diferenciar
+documentos muito semelhantes, mas que abordam solicitações distintas.
+É recomendável utilizar pelo menos uma palavra no campo de filtro por palavras.
+Esse filtro permite o uso de diferentes expressões, como:
+1. Aspas simples ‘..’ ou duplas “..” para frases exatas
+2. OU para indicar uma ou mais palavras/frases válidas
+3. Parênteses são usados para filtros com OU (para agrupar condições)
+4. E para indicar mais de uma palavra obrigatória
+5. Exclamação ! ou NÃO para excluir palavras que não devem aparecer
+O sistema diferencia a acentuação das palavras, mas desconsidera diferenças entre
+maiúsculas e minúsculas durante a comparação.
+Em seguida, é possível configurar a opção "tolerância", que permite definir o grau
+de similaridade entre o documento analisado e os documentos de exemplo. Por
+exemplo, ao definir uma tolerância de 5%, o documento analisado deve ser no
+máximo 5% diferente dos exemplos para que a automação seja acionada. Não é
+recomendável aumentar muito essa tolerância, para evitar que a automação seja
+disparada de forma inadequada.
+Em seguida, é possível cadastrar os documentos de exemplo de duas maneiras:
+i) Informando o número do processo e o sequencial do evento ;
+ii) Enviando um arquivo já salvo no computador.
+Dessa forma, para incluir os documentos de exemplo, devemos informar o número
+do processo, o sequencial do evento e clicar na opção "Buscar" (Figura 4).
+5
+
+Figura 4
+Em seguida, devemos selecionar o documento desejado e clicar na opção "Incluir".
+Após essa ação, o documento de exemplo será exibido mais abaixo (Figura 5).
+Figura 5
+Para concluir o cadastramento dos documentos de exemplo, é necessário repetir
+os passos para os demais documentos: informar o número do processo e o
+sequencial do evento, clicar em "Buscar", selecionar o documento e clicar em
+"Incluir". Ao final, os documentos serão exibidos na lista (Figura 6). É importante
+cadastrar pelo menos três documentos de exemplo.
+Na lista, há a opção de excluir um documento de exemplo. Vale ressaltar que ao
+excluir, o documento será removido apenas da lista de exemplos do classificador,
+sem afetar sua exibição no processo.
+Figura 6
+6
+
+Por fim, para finalizar o cadastro do classificador, deve-se clicar na opção "Salvar".
+O sistema exibirá uma mensagem de sucesso e passará a listar o classificador
+recém-criado.
+Figura 7
+Na listagem dos documentos, além das opções de editar ou excluir, também é
+possível cadastrar um filtro para os tipos de documentos que devem ser
+considerados no classificador. Ao clicar no ícone, conforme mostrado na Figura 7,
+será exibida a tela da Figura 8, onde é possível incluir os tipos de documentos a
+serem considerados. Essa mesma opção de definir os tipos de documentos também
+está disponível durante o cadastro do classificador por conteúdo.
+Se nenhum tipo de documento for informado, o sistema considerará todos os tipos
+de documentos ao executar o classificador.
+Figura 8
+Criação da regra de automação
+O uso efetivo do classificador por conteúdo ocorre quando ele é aplicado em uma
+regra de automação de localizadores.
+Assim, para criar uma regra de automação, o usuário com perfil de diretor de
+secretaria (Diretor de Secretaria - Substituto - ou Supervisor de Automações), deve
+7
+
+acessar o menu “Localizadores” > “Automatizar Tramitação Processual”.
+Na tela “Automatizar Tramitação Processual”, deve-se clicar na opção “Novo”
+(Figura 9).
+Figura 9
+Criaremos uma regra de automação para remover de um localizador e incluir em
+um localizador mais específico (Figura 10).
+Após preencher os campos, não se esqueça de clicar na opção “Salvar” para
+garantir que a nova regra seja registrada. Pronto! A regra de automação que utiliza
+o classificador por conteúdo está agora ativa.
+8
+
+Figura 10
+Área de Teste do Classificador por Conteúdo
+Após cadastrar um Classificador por Conteúdo, o sistema disponibiliza o botão
+“Área de teste” na tela de Lista de Classificadores.
+9
+
+Essa área permite verificar se o classificador de conteúdo funciona corretamente
+para um determinado documento, de acordo com as regras cadastradas.
+Para testar os classificadores, basta adicionar um ou mais arquivos. O sistema irá
+comparar esses arquivos com todos os classificadores da vara, avaliando a
+similaridade.
+É importante destacar que os arquivos carregados nesta área de teste não serão
+armazenados no sistema e não afetarão o funcionamento dos classificadores.
+Trata-se apenas de uma ferramenta para avaliar a efetividade das regras
+cadastradas.
+Figura 11
+Caso não tenham sido cadastrados documentos de exemplo, mas apenas filtros
+por palavras, nas colunas "Similaridade verificada", "Tolerância verificada" e
+"Similaridade de modelos" aparecerá a informação "Sem documentos".
+A coluna “Similaridade dos modelos” mostra o índice de similaridade entre os
+documentos de exemplo cadastrados no classificador, sem relação com o
+documento de teste.
+A coluna “Classificado por filtro por palavras? exibirá "Sim" se o documento foi
+classificado com base no critério informado, "Não" caso não tenha atendido aos
+filtros cadastrados e "Não informado" se nenhum filtro por palavras tiver sido
+definido.
+10
+

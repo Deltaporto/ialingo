@@ -1,0 +1,1259 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fluxos de Trabalho - 2ª Turma Recursal | Gabinete 3</title>
+    <style>
+        :root {
+            --primary: #1e3a5f;
+            --secondary: #2d5a87;
+            --accent: #4ecdc4;
+            --success: #27ae60;
+            --warning: #f39c12;
+            --danger: #e74c3c;
+            --light: #f8f9fa;
+            --dark: #2c3e50;
+            --gradient-1: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%);
+            --gradient-2: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%);
+            --shadow: 0 10px 40px rgba(0,0,0,0.15);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background: linear-gradient(180deg, #0f1922 0%, #1a2733 100%);
+            min-height: 100vh;
+            color: #fff;
+        }
+
+        /* Header */
+        header {
+            background: var(--gradient-1);
+            padding: 1.5rem 2rem;
+            box-shadow: var(--shadow);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .logo-icon {
+            width: 50px;
+            height: 50px;
+            background: var(--accent);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+        }
+
+        .logo h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+
+        .logo span {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        /* Navigation */
+        nav {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        nav button {
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 8px;
+            background: rgba(255,255,255,0.1);
+            color: #fff;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+        }
+
+        nav button:hover {
+            background: rgba(255,255,255,0.2);
+        }
+
+        nav button.active {
+            background: var(--accent);
+            color: var(--dark);
+        }
+
+        /* Main Content */
+        main {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        /* Stats Cards */
+        .stats-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card {
+            background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05));
+            backdrop-filter: blur(10px);
+            border-radius: 16px;
+            padding: 1.5rem;
+            border: 1px solid rgba(255,255,255,0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .stat-card.success { border-left: 4px solid var(--success); }
+        .stat-card.warning { border-left: 4px solid var(--warning); }
+        .stat-card.danger { border-left: 4px solid var(--danger); }
+        .stat-card.info { border-left: 4px solid var(--accent); }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.25rem;
+        }
+
+        .stat-label {
+            font-size: 0.85rem;
+            opacity: 0.7;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .stat-change {
+            font-size: 0.8rem;
+            margin-top: 0.5rem;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            display: inline-block;
+        }
+
+        .stat-change.positive { background: rgba(39, 174, 96, 0.2); color: var(--success); }
+        .stat-change.negative { background: rgba(231, 76, 60, 0.2); color: var(--danger); }
+
+        /* Section */
+        .section {
+            display: none;
+        }
+
+        .section.active {
+            display: block;
+            animation: fadeIn 0.5s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .section-title {
+            font-size: 1.5rem;
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .section-title::before {
+            content: '';
+            width: 4px;
+            height: 24px;
+            background: var(--accent);
+            border-radius: 2px;
+        }
+
+        /* Flow Container */
+        .flow-container {
+            background: linear-gradient(145deg, rgba(255,255,255,0.08), rgba(255,255,255,0.02));
+            border-radius: 20px;
+            padding: 2rem;
+            border: 1px solid rgba(255,255,255,0.1);
+            margin-bottom: 2rem;
+            overflow-x: auto;
+        }
+
+        /* Flow Steps */
+        .flow-horizontal {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            padding: 1rem 0;
+            min-width: max-content;
+        }
+
+        .flow-step {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.5rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .flow-step:hover {
+            transform: scale(1.05);
+        }
+
+        .flow-step:hover .step-box {
+            box-shadow: 0 0 20px var(--accent);
+        }
+
+        .step-box {
+            width: 120px;
+            height: 80px;
+            border-radius: 12px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 0.75rem;
+            text-align: center;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .step-box.entrada {
+            background: linear-gradient(135deg, #3498db, #2980b9);
+        }
+
+        .step-box.triagem {
+            background: linear-gradient(135deg, #9b59b6, #8e44ad);
+        }
+
+        .step-box.trabalho {
+            background: linear-gradient(135deg, #e67e22, #d35400);
+        }
+
+        .step-box.revisao {
+            background: linear-gradient(135deg, #f1c40f, #f39c12);
+            color: var(--dark);
+        }
+
+        .step-box.saida {
+            background: linear-gradient(135deg, #27ae60, #229954);
+        }
+
+        .step-box.alerta {
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { box-shadow: 0 0 0 0 rgba(231, 76, 60, 0.4); }
+            50% { box-shadow: 0 0 20px 10px rgba(231, 76, 60, 0); }
+        }
+
+        .step-icon {
+            font-size: 1.5rem;
+            margin-bottom: 0.25rem;
+        }
+
+        .step-name {
+            font-size: 0.75rem;
+            font-weight: 600;
+            line-height: 1.2;
+        }
+
+        .step-count {
+            font-size: 0.65rem;
+            opacity: 0.8;
+            margin-top: 0.25rem;
+        }
+
+        .flow-arrow {
+            font-size: 1.5rem;
+            color: var(--accent);
+            opacity: 0.6;
+        }
+
+        /* Detail Panel */
+        .detail-panel {
+            background: linear-gradient(145deg, rgba(78, 205, 196, 0.1), rgba(78, 205, 196, 0.05));
+            border-radius: 16px;
+            padding: 1.5rem;
+            border: 1px solid var(--accent);
+            margin-top: 1rem;
+            display: none;
+        }
+
+        .detail-panel.active {
+            display: block;
+            animation: slideDown 0.3s ease;
+        }
+
+        @keyframes slideDown {
+            from { opacity: 0; max-height: 0; }
+            to { opacity: 1; max-height: 500px; }
+        }
+
+        .detail-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+
+        .detail-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+        }
+
+        .close-btn {
+            background: none;
+            border: none;
+            color: #fff;
+            font-size: 1.5rem;
+            cursor: pointer;
+            opacity: 0.6;
+            transition: opacity 0.3s;
+        }
+
+        .close-btn:hover {
+            opacity: 1;
+        }
+
+        .detail-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+
+        .detail-item {
+            background: rgba(255,255,255,0.05);
+            padding: 1rem;
+            border-radius: 8px;
+        }
+
+        .detail-item h4 {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            opacity: 0.6;
+            margin-bottom: 0.5rem;
+        }
+
+        .detail-item p {
+            font-size: 1rem;
+        }
+
+        /* Vertical Flow */
+        .flow-vertical {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            padding: 1rem;
+        }
+
+        .flow-row {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .flow-branch {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            padding-left: 2rem;
+            border-left: 2px dashed rgba(255,255,255,0.2);
+        }
+
+        .branch-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1rem;
+            background: rgba(255,255,255,0.05);
+            border-radius: 8px;
+            font-size: 0.85rem;
+        }
+
+        .branch-count {
+            background: var(--accent);
+            color: var(--dark);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.8rem;
+        }
+
+        /* Problems Grid */
+        .problems-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .problem-card {
+            background: linear-gradient(145deg, rgba(231, 76, 60, 0.15), rgba(231, 76, 60, 0.05));
+            border-radius: 16px;
+            padding: 1.5rem;
+            border: 1px solid rgba(231, 76, 60, 0.3);
+        }
+
+        .problem-card h3 {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+            color: var(--danger);
+        }
+
+        .problem-card p {
+            font-size: 0.9rem;
+            opacity: 0.8;
+            line-height: 1.6;
+        }
+
+        .problem-impact {
+            margin-top: 1rem;
+            padding: 0.75rem;
+            background: rgba(0,0,0,0.2);
+            border-radius: 8px;
+            font-size: 0.85rem;
+        }
+
+        /* Solutions Grid */
+        .solutions-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .solution-card {
+            background: linear-gradient(145deg, rgba(39, 174, 96, 0.15), rgba(39, 174, 96, 0.05));
+            border-radius: 16px;
+            padding: 1.5rem;
+            border: 1px solid rgba(39, 174, 96, 0.3);
+            position: relative;
+        }
+
+        .priority-badge {
+            position: absolute;
+            top: -10px;
+            right: 20px;
+            background: var(--success);
+            color: #fff;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .solution-card h3 {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+            color: var(--success);
+        }
+
+        .solution-card p {
+            font-size: 0.9rem;
+            opacity: 0.8;
+            line-height: 1.6;
+        }
+
+        .impact-bar {
+            margin-top: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .impact-bar label {
+            font-size: 0.75rem;
+            opacity: 0.6;
+            min-width: 60px;
+        }
+
+        .bar-container {
+            flex: 1;
+            height: 8px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        .bar-fill {
+            height: 100%;
+            border-radius: 4px;
+            transition: width 1s ease;
+        }
+
+        .bar-fill.high { background: var(--success); }
+        .bar-fill.medium { background: var(--warning); }
+        .bar-fill.low { background: var(--danger); }
+
+        /* Timeline */
+        .timeline {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            padding-left: 2rem;
+            border-left: 3px solid var(--accent);
+        }
+
+        .timeline-item {
+            position: relative;
+            padding-left: 1.5rem;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -2.4rem;
+            top: 0.5rem;
+            width: 16px;
+            height: 16px;
+            background: var(--accent);
+            border-radius: 50%;
+            border: 3px solid #1a2733;
+        }
+
+        .timeline-period {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            opacity: 0.6;
+            margin-bottom: 0.25rem;
+        }
+
+        .timeline-content {
+            background: rgba(255,255,255,0.05);
+            padding: 1rem;
+            border-radius: 8px;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 2rem;
+            opacity: 0.5;
+            font-size: 0.85rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            nav {
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            .flow-horizontal {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .flow-arrow {
+                transform: rotate(90deg);
+            }
+
+            .step-box {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo">
+                <div class="logo-icon">⚖️</div>
+                <div>
+                    <h1>Gestão Processual</h1>
+                    <span>2ª Turma Recursal - Gabinete 3</span>
+                </div>
+            </div>
+            <nav>
+                <button class="active" onclick="showSection('overview')">📊 Visão Geral</button>
+                <button onclick="showSection('flow')">🔄 Fluxo Atual</button>
+                <button onclick="showSection('proposed')">✨ Fluxo Proposto</button>
+                <button onclick="showSection('problems')">⚠️ Problemas</button>
+                <button onclick="showSection('solutions')">✅ Soluções</button>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <!-- Overview Section -->
+        <section id="overview" class="section active">
+            <h2 class="section-title">Visão Geral do Gabinete</h2>
+            
+            <div class="stats-row">
+                <div class="stat-card info">
+                    <div class="stat-value">1.561</div>
+                    <div class="stat-label">Acervo Total</div>
+                    <div class="stat-change positive">↑ Controlado</div>
+                </div>
+                <div class="stat-card success">
+                    <div class="stat-value">131%</div>
+                    <div class="stat-label">Meta 1 - Produtividade</div>
+                    <div class="stat-change positive">✓ Superada</div>
+                </div>
+                <div class="stat-card success">
+                    <div class="stat-value">100%</div>
+                    <div class="stat-label">Meta 2 - Acervo Antigo</div>
+                    <div class="stat-change positive">✓ Atingida</div>
+                </div>
+                <div class="stat-card warning">
+                    <div class="stat-value">317</div>
+                    <div class="stat-label">Parados 31-60 dias</div>
+                    <div class="stat-change negative">⚠ Atenção</div>
+                </div>
+            </div>
+
+            <div class="flow-container">
+                <h3 style="margin-bottom: 1rem; opacity: 0.8;">📈 Distribuição do Acervo por Fase</h3>
+                <div class="flow-horizontal">
+                    <div class="flow-step" onclick="showDetail('entrada')">
+                        <div class="step-box entrada">
+                            <span class="step-icon">📥</span>
+                            <span class="step-name">Entrada</span>
+                        </div>
+                        <span class="step-count">467 processos</span>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step" onclick="showDetail('aguardando')">
+                        <div class="step-box triagem">
+                            <span class="step-icon">⏳</span>
+                            <span class="step-name">Aguardando</span>
+                        </div>
+                        <span class="step-count">540 processos</span>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step" onclick="showDetail('trabalho')">
+                        <div class="step-box trabalho">
+                            <span class="step-icon">📝</span>
+                            <span class="step-name">Em Trabalho</span>
+                        </div>
+                        <span class="step-count">300+ processos</span>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step" onclick="showDetail('conferir')">
+                        <div class="step-box revisao">
+                            <span class="step-icon">🔍</span>
+                            <span class="step-name">Para Conferir</span>
+                        </div>
+                        <span class="step-count">265 processos</span>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step" onclick="showDetail('minutados')">
+                        <div class="step-box saida">
+                            <span class="step-icon">✅</span>
+                            <span class="step-name">Minutados</span>
+                        </div>
+                        <span class="step-count">253 processos</span>
+                    </div>
+                </div>
+
+                <div id="detail-panel" class="detail-panel">
+                    <div class="detail-header">
+                        <span class="detail-title" id="detail-title">Detalhes</span>
+                        <button class="close-btn" onclick="closeDetail()">×</button>
+                    </div>
+                    <div class="detail-grid" id="detail-content"></div>
+                </div>
+            </div>
+
+            <div class="flow-container">
+                <h3 style="margin-bottom: 1rem; opacity: 0.8;">📊 Top 5 Assuntos Processuais</h3>
+                <div class="flow-vertical">
+                    <div class="flow-row">
+                        <span style="width: 200px;">Deficiente (LOAS)</span>
+                        <div class="bar-container" style="flex: 1;">
+                            <div class="bar-fill high" style="width: 100%;"></div>
+                        </div>
+                        <span class="branch-count">260</span>
+                    </div>
+                    <div class="flow-row">
+                        <span style="width: 200px;">Ap. Tempo Contribuição</span>
+                        <div class="bar-container" style="flex: 1;">
+                            <div class="bar-fill high" style="width: 90%;"></div>
+                        </div>
+                        <span class="branch-count">235</span>
+                    </div>
+                    <div class="flow-row">
+                        <span style="width: 200px;">Urbano (art. 60)</span>
+                        <div class="bar-container" style="flex: 1;">
+                            <div class="bar-fill medium" style="width: 50%;"></div>
+                        </div>
+                        <span class="branch-count">130</span>
+                    </div>
+                    <div class="flow-row">
+                        <span style="width: 200px;">Auxílio-Doença</span>
+                        <div class="bar-container" style="flex: 1;">
+                            <div class="bar-fill medium" style="width: 49%;"></div>
+                        </div>
+                        <span class="branch-count">129</span>
+                    </div>
+                    <div class="flow-row">
+                        <span style="width: 200px;">Ap. Especial</span>
+                        <div class="bar-container" style="flex: 1;">
+                            <div class="bar-fill medium" style="width: 38%;"></div>
+                        </div>
+                        <span class="branch-count">99</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Flow Section -->
+        <section id="flow" class="section">
+            <h2 class="section-title">Fluxo Atual de Trabalho</h2>
+            
+            <div class="flow-container">
+                <h3 style="margin-bottom: 1.5rem; opacity: 0.8;">🔄 Tramitação Processual Atual</h3>
+                
+                <div class="flow-horizontal" style="flex-wrap: wrap; justify-content: flex-start;">
+                    <div class="flow-step">
+                        <div class="step-box entrada">
+                            <span class="step-icon">📥</span>
+                            <span class="step-name">Distribuição</span>
+                        </div>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box entrada">
+                            <span class="step-icon">📋</span>
+                            <span class="step-name">Pet. Inicial</span>
+                        </div>
+                        <span class="step-count">467</span>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box alerta">
+                            <span class="step-icon">🤚</span>
+                            <span class="step-name">Triagem MANUAL</span>
+                        </div>
+                        <span class="step-count">❌ Gargalo</span>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box triagem">
+                            <span class="step-icon">⏳</span>
+                            <span class="step-name">Ag. Recebimento</span>
+                        </div>
+                        <span class="step-count">540</span>
+                    </div>
+                </div>
+
+                <div style="margin: 2rem 0; padding-left: 3rem;">
+                    <p style="opacity: 0.6; margin-bottom: 1rem;">↓ Classificação por Tipo de Benefício (MANUAL)</p>
+                    <div class="flow-branch">
+                        <div class="branch-item">
+                            <span>📁</span>
+                            <span>2.3 LOAS</span>
+                            <span class="branch-count">104</span>
+                        </div>
+                        <div class="branch-item">
+                            <span>📁</span>
+                            <span>2.3 Ap. Especial/ATC</span>
+                            <span class="branch-count">87</span>
+                        </div>
+                        <div class="branch-item">
+                            <span>📁</span>
+                            <span>2.3 Benefício Incapacidade</span>
+                            <span class="branch-count">104</span>
+                        </div>
+                        <div class="branch-item">
+                            <span>📁</span>
+                            <span>2.3 Pensão (RGPS)</span>
+                            <span class="branch-count">39</span>
+                        </div>
+                        <div class="branch-item">
+                            <span>📁</span>
+                            <span>... outros localizadores</span>
+                            <span class="branch-count">+50</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flow-horizontal">
+                    <div class="flow-step">
+                        <div class="step-box trabalho">
+                            <span class="step-icon">👤</span>
+                            <span class="step-name">Mesa Servidor</span>
+                        </div>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box revisao">
+                            <span class="step-icon">🔍</span>
+                            <span class="step-name">Para Conferir</span>
+                        </div>
+                        <span class="step-count">265</span>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box trabalho">
+                            <span class="step-icon">⚖️</span>
+                            <span class="step-name">Mesa Juiz</span>
+                        </div>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box saida">
+                            <span class="step-icon">✅</span>
+                            <span class="step-name">Minutados</span>
+                        </div>
+                        <span class="step-count">253</span>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box saida">
+                            <span class="step-icon">🏛️</span>
+                            <span class="step-name">Pauta/DMR</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="problems-grid" style="margin-top: 2rem;">
+                <div class="problem-card">
+                    <h3>🔴 Gargalo Principal</h3>
+                    <p>A triagem manual de 467 processos na Petição Inicial consome tempo valioso da equipe.</p>
+                    <div class="problem-impact">
+                        <strong>Impacto:</strong> ~2h/dia de trabalho manual que poderia ser automatizado
+                    </div>
+                </div>
+                <div class="problem-card">
+                    <h3>🔴 16 Automações Inativas</h3>
+                    <p>Das 17 regras de automação configuradas, 16 estão desativadas no sistema.</p>
+                    <div class="problem-impact">
+                        <strong>Impacto:</strong> Zero aproveitamento do investimento em configuração
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Proposed Section -->
+        <section id="proposed" class="section">
+            <h2 class="section-title">Fluxo Proposto (Otimizado)</h2>
+            
+            <div class="flow-container" style="background: linear-gradient(145deg, rgba(39, 174, 96, 0.1), rgba(39, 174, 96, 0.05)); border-color: rgba(39, 174, 96, 0.3);">
+                <h3 style="margin-bottom: 1.5rem; color: var(--success);">✨ Tramitação Automatizada</h3>
+                
+                <div class="flow-horizontal">
+                    <div class="flow-step">
+                        <div class="step-box entrada">
+                            <span class="step-icon">📥</span>
+                            <span class="step-name">Distribuição</span>
+                        </div>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box entrada">
+                            <span class="step-icon">📋</span>
+                            <span class="step-name">Pet. Inicial</span>
+                        </div>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box saida" style="position: relative;">
+                            <span class="step-icon">🤖</span>
+                            <span class="step-name">Triagem AUTO</span>
+                            <span style="position:absolute; top:-10px; right:-10px; background:var(--success); padding: 2px 8px; border-radius: 10px; font-size: 0.6rem;">NOVO</span>
+                        </div>
+                        <span class="step-count">✅ Automático</span>
+                    </div>
+                </div>
+
+                <div style="margin: 2rem 0; padding-left: 3rem;">
+                    <p style="color: var(--success); margin-bottom: 1rem;">↓ Classificação AUTOMÁTICA por IA</p>
+                    <div class="flow-branch" style="border-color: var(--success);">
+                        <div class="branch-item" style="background: rgba(39, 174, 96, 0.1);">
+                            <span>🤖</span>
+                            <span>"BPC" OU "LOAS" OU "deficiente"</span>
+                            <span>→</span>
+                            <span class="branch-count">2.3 LOAS</span>
+                        </div>
+                        <div class="branch-item" style="background: rgba(39, 174, 96, 0.1);">
+                            <span>🤖</span>
+                            <span>"especial" OU "insalubre"</span>
+                            <span>→</span>
+                            <span class="branch-count">2.3 Ap. Especial</span>
+                        </div>
+                        <div class="branch-item" style="background: rgba(39, 174, 96, 0.1);">
+                            <span>🤖</span>
+                            <span>"incapacidade" OU "auxílio-doença"</span>
+                            <span>→</span>
+                            <span class="branch-count">2.3 Incapacidade</span>
+                        </div>
+                        <div class="branch-item" style="background: rgba(39, 174, 96, 0.1);">
+                            <span>🤖</span>
+                            <span>"idade" E "urbana"</span>
+                            <span>→</span>
+                            <span class="branch-count">2.3 Ap. Idade</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flow-horizontal">
+                    <div class="flow-step">
+                        <div class="step-box trabalho">
+                            <span class="step-icon">👤</span>
+                            <span class="step-name">Mesa Servidor</span>
+                        </div>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box revisao">
+                            <span class="step-icon">🔍</span>
+                            <span class="step-name">Para Conferir</span>
+                        </div>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box trabalho">
+                            <span class="step-icon">⚖️</span>
+                            <span class="step-name">Mesa Juiz</span>
+                        </div>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box saida">
+                            <span class="step-icon">✅</span>
+                            <span class="step-name">Minutados</span>
+                        </div>
+                    </div>
+                    <span class="flow-arrow">→</span>
+                    <div class="flow-step">
+                        <div class="step-box saida">
+                            <span class="step-icon">🏛️</span>
+                            <span class="step-name">Julgamento</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div style="margin-top: 2rem; padding: 1rem; background: rgba(255,255,255,0.05); border-radius: 12px;">
+                    <h4 style="color: var(--accent); margin-bottom: 0.75rem;">⏰ Controle Automático de Prazos</h4>
+                    <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                        <div class="branch-item">
+                            <span>⚡</span>
+                            <span>Parado >60 dias</span>
+                            <span>→</span>
+                            <span style="background: var(--warning); color: #000; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">ALERTA</span>
+                        </div>
+                        <div class="branch-item">
+                            <span>🔴</span>
+                            <span>Parado >120 dias</span>
+                            <span>→</span>
+                            <span style="background: var(--danger); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">CRÍTICO</span>
+                        </div>
+                        <div class="branch-item">
+                            <span>👴</span>
+                            <span>Idoso >30 dias</span>
+                            <span>→</span>
+                            <span style="background: var(--accent); color: #000; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">PRIORIDADE</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="stats-row" style="margin-top: 2rem;">
+                <div class="stat-card success">
+                    <div class="stat-value">-70%</div>
+                    <div class="stat-label">Tempo de Triagem</div>
+                    <div class="stat-change positive">Estimado</div>
+                </div>
+                <div class="stat-card success">
+                    <div class="stat-value">0</div>
+                    <div class="stat-label">Erros de Classificação</div>
+                    <div class="stat-change positive">Meta</div>
+                </div>
+                <div class="stat-card success">
+                    <div class="stat-value">24/7</div>
+                    <div class="stat-label">Funcionamento</div>
+                    <div class="stat-change positive">Automático</div>
+                </div>
+                <div class="stat-card success">
+                    <div class="stat-value">5→2</div>
+                    <div class="stat-label">Loc. Parados</div>
+                    <div class="stat-change positive">Consolidado</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Problems Section -->
+        <section id="problems" class="section">
+            <h2 class="section-title">Problemas Identificados</h2>
+            
+            <div class="problems-grid">
+                <div class="problem-card">
+                    <h3>🔴 1. Triagem Manual Ineficiente</h3>
+                    <p>467 processos na "Petição Inicial" aguardando triagem manual. Não há automação ativa para distribuir por tipo de benefício.</p>
+                    <div class="problem-impact">
+                        <strong>Impacto:</strong> Atraso no início do trabalho efetivo. Servidores gastam tempo classificando manualmente.
+                    </div>
+                </div>
+                
+                <div class="problem-card">
+                    <h3>🔴 2. Localizadores Duplicados</h3>
+                    <p>5 localizadores diferentes para controlar processos "Parados":</p>
+                    <ul style="margin-top: 0.5rem; padding-left: 1rem; font-size: 0.85rem; opacity: 0.8;">
+                        <li>2.3 Parados > 150 dias (1)</li>
+                        <li>2.3 GAB3TR02 - Parados + 150 dias (11)</li>
+                        <li>2.3 GAB3TR02 - Parados + 120 e - 150 (3)</li>
+                        <li>2.3 GAB3TR02 - Parados + 90 e - 120 (15)</li>
+                        <li>2.3 Idoso paralisado há +150 dias (92)</li>
+                    </ul>
+                    <div class="problem-impact">
+                        <strong>Impacto:</strong> Confusão na gestão e dificuldade de acompanhamento
+                    </div>
+                </div>
+                
+                <div class="problem-card">
+                    <h3>🔴 3. Localizadores por Mês Acumulados</h3>
+                    <p>Existem localizadores de meses antigos com processos que nunca foram limpos:</p>
+                    <ul style="margin-top: 0.5rem; padding-left: 1rem; font-size: 0.85rem; opacity: 0.8;">
+                        <li>2.3 - novembro 2023 (3)</li>
+                        <li>2.3 - novembro 2024 (3)</li>
+                        <li>2.3 Fevereiro 2024 (3)</li>
+                        <li>2.3 abril 2024 (3)</li>
+                        <li>...e muitos outros</li>
+                    </ul>
+                    <div class="problem-impact">
+                        <strong>Impacto:</strong> Processos "perdidos" em localizadores temporários
+                    </div>
+                </div>
+                
+                <div class="problem-card">
+                    <h3>🔴 4. Regras de Automação Inativas</h3>
+                    <p>Das 17 regras mapeadas no sistema, 16 estão INATIVAS, incluindo:</p>
+                    <ul style="margin-top: 0.5rem; padding-left: 1rem; font-size: 0.85rem; opacity: 0.8;">
+                        <li>Distribuição automática por gabinete</li>
+                        <li>Triagem por tema (1.102/STF)</li>
+                        <li>Triagem por tipo de benefício</li>
+                    </ul>
+                    <div class="problem-impact">
+                        <strong>Impacto:</strong> Zero aproveitamento do potencial de automação
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Solutions Section -->
+        <section id="solutions" class="section">
+            <h2 class="section-title">Soluções Propostas</h2>
+            
+            <div class="solutions-grid">
+                <div class="solution-card">
+                    <div class="priority-badge">1ª Prioridade</div>
+                    <h3>✅ Ativar Automação de Triagem</h3>
+                    <p>Ativar as regras existentes de triagem por tipo de benefício. As regras já estão configuradas, basta ativar o switch.</p>
+                    <div class="impact-bar">
+                        <label>Impacto</label>
+                        <div class="bar-container"><div class="bar-fill high" style="width: 95%;"></div></div>
+                    </div>
+                    <div class="impact-bar">
+                        <label>Esforço</label>
+                        <div class="bar-container"><div class="bar-fill high" style="width: 15%;"></div></div>
+                    </div>
+                </div>
+
+                <div class="solution-card">
+                    <div class="priority-badge">2ª Prioridade</div>
+                    <h3>✅ Consolidar Loc. Parados</h3>
+                    <p>Reduzir de 5 para 2 localizadores principais:</p>
+                    <ul style="margin: 0.5rem 0; padding-left: 1rem; font-size: 0.85rem;">
+                        <li>2.3 ALERTA - Parados >60 dias</li>
+                        <li>2.3 CRÍTICO - Parados >120 dias</li>
+                    </ul>
+                    <div class="impact-bar">
+                        <label>Impacto</label>
+                        <div class="bar-container"><div class="bar-fill medium" style="width: 70%;"></div></div>
+                    </div>
+                    <div class="impact-bar">
+                        <label>Esforço</label>
+                        <div class="bar-container"><div class="bar-fill high" style="width: 25%;"></div></div>
+                    </div>
+                </div>
+
+                <div class="solution-card">
+                    <div class="priority-badge">3ª Prioridade</div>
+                    <h3>✅ Limpar Loc. de Meses</h3>
+                    <p>Mover processos dos localizadores antigos para os localizadores corretos por tipo de benefício e desativar os localizadores temporários.</p>
+                    <div class="impact-bar">
+                        <label>Impacto</label>
+                        <div class="bar-container"><div class="bar-fill medium" style="width: 60%;"></div></div>
+                    </div>
+                    <div class="impact-bar">
+                        <label>Esforço</label>
+                        <div class="bar-container"><div class="bar-fill medium" style="width: 45%;"></div></div>
+                    </div>
+                </div>
+
+                <div class="solution-card">
+                    <div class="priority-badge">4ª Prioridade</div>
+                    <h3>✅ Fluxo Simplificado</h3>
+                    <p>Implementar fluxo linear com 7 fases claras:</p>
+                    <p style="font-family: monospace; font-size: 0.75rem; margin-top: 0.5rem; padding: 0.5rem; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        ENTRADA → TRIAGEM → MESA → CONFERIR → JUIZ → MINUTADO → PAUTA
+                    </p>
+                    <div class="impact-bar">
+                        <label>Impacto</label>
+                        <div class="bar-container"><div class="bar-fill high" style="width: 90%;"></div></div>
+                    </div>
+                    <div class="impact-bar">
+                        <label>Esforço</label>
+                        <div class="bar-container"><div class="bar-fill medium" style="width: 55%;"></div></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flow-container" style="margin-top: 2rem;">
+                <h3 style="margin-bottom: 1.5rem; opacity: 0.8;">📅 Cronograma de Implementação</h3>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-period">Esta Semana</div>
+                        <div class="timeline-content">
+                            <strong>Ação Imediata:</strong> Ativar regras de automação existentes (já cadastradas, só ativar o switch)
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-period">Próximas 2 Semanas</div>
+                        <div class="timeline-content">
+                            <strong>Curto Prazo:</strong> Consolidar localizadores de "Parados" e limpar localizadores de meses antigos
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-period">Próximo Mês</div>
+                        <div class="timeline-content">
+                            <strong>Médio Prazo:</strong> Implementar fluxo simplificado e treinar equipe no novo fluxo
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Análise de Gestão Processual | 2ª Turma Recursal - Gabinete 3 | Gerado em 19/12/2025</p>
+    </footer>
+
+    <script>
+        function showSection(sectionId) {
+            // Hide all sections
+            document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+            // Show selected section
+            document.getElementById(sectionId).classList.add('active');
+            // Update nav buttons
+            document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+
+        function showDetail(type) {
+            const panel = document.getElementById('detail-panel');
+            const title = document.getElementById('detail-title');
+            const content = document.getElementById('detail-content');
+            
+            const details = {
+                entrada: {
+                    title: '📥 Entrada - Petição Inicial',
+                    items: [
+                        { label: 'Localizador', value: '2.3 GAB03-TR02' },
+                        { label: 'Quantidade', value: '467 processos' },
+                        { label: 'Status', value: 'Aguardando triagem' },
+                        { label: 'Ação Recomendada', value: 'Ativar automação de triagem' }
+                    ]
+                },
+                aguardando: {
+                    title: '⏳ Aguardando Recebimento',
+                    items: [
+                        { label: 'Localizador', value: '2.3 Aguardando recebimento' },
+                        { label: 'Quantidade', value: '540 processos' },
+                        { label: 'Status', value: 'Maior concentração do acervo' },
+                        { label: 'Observação', value: 'Fluxo natural de espera' }
+                    ]
+                },
+                trabalho: {
+                    title: '📝 Em Trabalho',
+                    items: [
+                        { label: 'Localizadores', value: 'Mesas dos servidores' },
+                        { label: 'Quantidade', value: '~300 processos distribuídos' },
+                        { label: 'Status', value: 'Em elaboração de minutas' },
+                        { label: 'Próximo Passo', value: 'Enviar para conferência' }
+                    ]
+                },
+                conferir: {
+                    title: '🔍 Para Conferir',
+                    items: [
+                        { label: 'Localizador', value: '2.3 - para conferir' },
+                        { label: 'Quantidade', value: '265 processos' },
+                        { label: 'Status', value: 'Aguardando revisão' },
+                        { label: 'Responsável', value: 'Chefia do Gabinete' }
+                    ]
+                },
+                minutados: {
+                    title: '✅ Minutados',
+                    items: [
+                        { label: 'Localizador', value: '2.3 Minutados' },
+                        { label: 'Quantidade', value: '253 processos' },
+                        { label: 'Status', value: 'Prontos para julgamento' },
+                        { label: 'Próximo Passo', value: 'Incluir em pauta' }
+                    ]
+                }
+            };
+
+            const data = details[type];
+            title.textContent = data.title;
+            content.innerHTML = data.items.map(item => `
+                <div class="detail-item">
+                    <h4>${item.label}</h4>
+                    <p>${item.value}</p>
+                </div>
+            `).join('');
+            
+            panel.classList.add('active');
+        }
+
+        function closeDetail() {
+            document.getElementById('detail-panel').classList.remove('active');
+        }
+
+        // Animate bars on load
+        document.addEventListener('DOMContentLoaded', () => {
+            const bars = document.querySelectorAll('.bar-fill');
+            bars.forEach(bar => {
+                const width = bar.style.width;
+                bar.style.width = '0';
+                setTimeout(() => bar.style.width = width, 100);
+            });
+        });
+    </script>
+</body>
+</html>

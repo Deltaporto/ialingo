@@ -6,6 +6,33 @@ Este guia consolida as diretrizes dos manuais do eproc para criação de regras 
 
 ---
 
+## Estado Atual do Sistema (Dez/2025)
+
+| Recurso | Quantidade |
+|---------|------------|
+| **Regras de Automação** | 17 regras cadastradas |
+| **Classificadores por Conteúdo** | 1 ativo |
+| **Localizadores Disponíveis** | 513 |
+
+### Classificador Ativo: Embargos de Declaração
+
+```
+Filtro: (embargos de declaração OU embargos declaratórios) E (omissão OU contradição OU obscuridade OU erro material)
+Tolerância: 5%
+```
+
+---
+
+## URLs de Acesso Rápido
+
+| Recurso | Ação no eproc |
+|---------|---------------|
+| Lista de Automações | `acao=automatizar_localizadores` |
+| Editar Regra | `acao=automatizar_localizadores_alterar&id_controle_localizador_sistema=XXX` |
+| Classificadores por Conteúdo | `acao=inteligencia_artificial/classificador_conteudo/listar` |
+
+---
+
 ## Conceitos Fundamentais
 
 ### 1. Localizadores
@@ -36,6 +63,16 @@ Recurso de IA que analisa o conteúdo dos documentos anexados:
 | `()` | Agrupar condições | `(rural OU urbana) E idade` |
 
 > O sistema diferencia acentuação, mas ignora maiúsculas/minúsculas.
+
+---
+
+## Interface do Sistema
+
+### Tela de Automação de Localizadores
+![Lista de regras de automação](docs/images/eproc_automacao_lista.png)
+
+### Tela de Classificadores por Conteúdo
+![Lista de classificadores](docs/images/eproc_classificadores.png)
 
 ---
 
@@ -109,5 +146,6 @@ flowchart TD
 
 ## Referências
 
-- [LocalizadoresOrgao-2025-12-17.csv](file:///c:/Users/Casa/Documents/Trabalho/TR/Gestao-inteligente/Manuais/LocalizadoresOrgao-2025-12-17-17-46-6.csv) - Lista completa de localizadores
-- Manual de Classificadores por Conteúdo (convertido em `Manuais/txt/`)
+- [LocalizadoresOrgao-2025-12-17.csv](Manuais/LocalizadoresOrgao-2025-12-17-17-46-6.csv) - Lista completa de localizadores
+- Manual de Classificadores por Conteúdo (`Manuais/txt/`)
+- Manual de Automatização de Localizadores (`Manuais/`)

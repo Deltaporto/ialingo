@@ -13,8 +13,6 @@ Este guia consolida as diretrizes dos manuais do eproc para criação de regras 
 | **Regras de Automação** | 17 regras cadastradas |
 | **Classificadores por Conteúdo** | 1 ativo |
 | **Localizadores Disponíveis** | 513 |
-| **Assuntos Disponíveis** | 2.382 (159 previdenciários, 9 assistenciais) |
-
 
 ### Classificador Ativo: Embargos de Declaração
 
@@ -149,7 +147,5 @@ flowchart TD
 ## Referências
 
 - [LocalizadoresOrgao-2025-12-17.csv](Manuais/LocalizadoresOrgao-2025-12-17-17-46-6.csv) - Lista completa de localizadores
-- [ASSUNTOS_PREVIDENCIARIO_ASSISTENCIAL.md](Manuais/ASSUNTOS_PREVIDENCIARIO_ASSISTENCIAL.md) - Lista de assuntos para automação
 - Manual de Classificadores por Conteúdo (`Manuais/txt/`)
 - Manual de Automatização de Localizadores (`Manuais/`)
-

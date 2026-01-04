@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gabinete 2.3 - Visão Geral do Sistema</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --secondary: #3498db;
+            --accent: #e74c3c;
+            --light: #ecf0f1;
+            --dark: #2c3e50;
+            --success: #27ae60;
+            --warning: #f1c40f;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+
+        header {
+            background-color: var(--primary);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        header p {
+            margin: 1rem 0 0;
+            opacity: 0.8;
+            font-size: 1.1rem;
+        }
+
+        nav {
+            background: #34495e;
+            padding: 0.5rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 1rem 1.5rem;
+            display: inline-block;
+            transition: 0.3s;
+            font-weight: 500;
+        }
+
+        nav a:hover,
+        nav a.active {
+            background-color: var(--secondary);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+            background: white;
+            margin-top: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        section {
+            display: none;
+            animation: fadeIn 0.5s;
+        }
+
+        section.active {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        h2 {
+            border-bottom: 2px solid var(--light);
+            padding-bottom: 10px;
+            color: var(--primary);
+            margin-top: 0;
+        }
+
+        h3 {
+            color: var(--secondary);
+            margin-top: 2rem;
+        }
+
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .card {
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            padding: 1.5rem;
+            transition: transform 0.2s;
+            background: #fff;
+            border-left: 4px solid var(--secondary);
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .card h4 {
+            margin-top: 0;
+            color: var(--dark);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .card p {
+            font-size: 0.9rem;
+            color: #666;
+            margin-bottom: 0.5rem;
+        }
+
+        .tag {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: bold;
+            background: #eee;
+            color: #555;
+        }
+
+        /* Localizer Colors */
+        .loc-triagem {
+            border-left-color: #9b59b6;
+        }
+
+        .loc-assunto {
+            border-left-color: #3498db;
+        }
+
+        .loc-mesa {
+            border-left-color: #e67e22;
+        }
+
+        .loc-prazo {
+            border-left-color: #c0392b;
+        }
+
+        .loc-pauta {
+            border-left-color: #27ae60;
+        }
+
+        .loc-suspenso {
+            border-left-color: #7f8c8d;
+        }
+
+        .concept-box {
+            background: #e8f6f3;
+            border-left: 5px solid #1abc9c;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            border-radius: 4px;
+        }
+
+        .concept-title {
+            font-weight: bold;
+            color: #16a085;
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .diagram-container {
+            background: #fff;
+            padding: 20px;
+            border: 1px solid #eee;
+            margin: 20px 0;
+            text-align: center;
+            border-radius: 8px;
+            box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.02);
+        }
+
+        .diagram-container img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 4rem;
+            padding: 2rem;
+            color: #7f8c8d;
+            font-size: 0.9rem;
+            border-top: 1px solid #eee;
+        }
+    </style>
+    <script>
+        function showTab(id) {
+            document.querySelectorAll('section').forEach(s => s.classList.remove('active'));
+            document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
+            document.getElementById(id).classList.add('active');
+            document.getElementById('link-' + id).classList.add('active');
+        }
+    </script>
+</head>
+
+<body>
+
+    <header>
+        <h1>Gabinete 3º Relator - Gestão Eproc</h1>
+        <p>Documentação Viva da Estrutura de Automação e Fluxos</p>
+    </header>
+
+    <nav>
+        <a href="#" id="link-estrutura" onclick="showTab('estrutura')" class="active">🏛️ Estrutura (Tags)</a>
+        <a href="#" id="link-fluxos" onclick="showTab('fluxos')">🔄 Fluxos Visuais</a>
+        <a href="#" id="link-regras" onclick="showTab('regras')">🤖 Lógica do Robô</a>
+    </nav>
+
+    <div class="container">
+
+        <!-- ABA 1: ESTRUTURA -->
+        <section id="estrutura" class="active">
+            <div class="concept-box">
+                <div class="concept-title">💡 Conceito Central: Localizadores são Etiquetas (TAGS)</div>
+                Esqueça a ideia de "pastas". Um processo aqui não "muda de lugar", ele **ganha crachás**.
+                <br>
+                Exemplo real: Um processo pode ter 3 etiquetas ao mesmo tempo:
+                <br>
+                `2.3 ASSUNTO - LOAS` (O que é) + `2.3 MESA - Assessor João` (Quem cuida) + `2.3 PRAZO - Urgente`
+                (Prioridade).
+            </div>
+
+            <h2>Nível 1: Recepção e Triagem</h2>
+            <div class="card-grid">
+                <div class="card loc-triagem">
+                    <h4>🔵 2.3 TRIAGEM - Geral</h4>
+                    <p>Recebimento padrão de todos os recursos.</p>
+                </div>
+                <div class="card loc-triagem">
+                    <h4>🔴 2.3 TRIAGEM - Urgentes</h4>
+                    <p>Tutelas e Liminares (Prioridade Máxima).</p>
+                </div>
+                <div class="card loc-triagem">
+                    <h4>🟣 2.3 TRIAGEM - Embargos</h4>
+                    <p>Embargos de Declaração.</p>
+                </div>
+                <div class="card loc-triagem">
+                    <h4>🟠 2.3 TRIAGEM - Agravo Interno</h4>
+                    <p>Decisões monocráticas ou admissibilidade.</p>
+                </div>
+                <div class="card loc-triagem">
+                    <h4>🔷 2.3 TRIAGEM - Retratação/Volta</h4>
+                    <p>Retorno de TNU/TRU para juízo de retratação.</p>
+                </div>
+            </div>
+
+            <h2>Nível 2: Acervo (Identidade Fixa)</h2>
+            <div class="card-grid">
+                <div class="card loc-assunto">
+                    <h4>📋 Aposentadoria</h4>
+                </div>
+                <div class="card loc-assunto">
+                    <h4>📋 LOAS/BPC</h4>
+                </div>
+                <div class="card loc-assunto">
+                    <h4>📋 Auxílio-Doença</h4>
+                </div>
+                <div class="card loc-assunto">
+                    <h4>📋 Pensão por Morte</h4>
+                </div>
+                <div class="card loc-assunto">
+                    <h4>📋 Outros Previd.</h4>
+                </div>
+            </div>
+
+            <h2>Nível 6: Semáforo de Prazos</h2>
+            <div class="card-grid">
+                <div class="card loc-prazo">
+                    <h4>🟢 Regular</h4>
+                    <p>0 a 90 dias</p>
+                </div>
+                <div class="card loc-prazo">
+                    <h4>🟡 Atenção</h4>
+                    <p>91 a 110 dias</p>
+                </div>
+                <div class="card loc-prazo">
+                    <h4>🟠 Urgente</h4>
+                    <p>111 a 119 dias</p>
+                </div>
+                <div class="card loc-prazo">
+                    <h4>🔴 Conclusão Auto</h4>
+                    <p>+120 dias</p>
+                </div>
+                <div class="card loc-prazo">
+                    <h4>🚨 Prioridade Idoso</h4>
+                    <p>+150 dias de acervo</p>
+                </div>
+                <div class="card loc-prazo" style="border-left-color: #f1c40f;">
+                    <h4>⚠️ ALERTA - Ag. Recebimento</h4>
+                    <p>Gargalo (>30 dias parados na origem)</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- ABA 2: FLUXOS -->
+        <section id="fluxos">
+            <h2>1. Fluxo Padrão (Caminho Feliz)</h2>
+            <div class="diagram-container">
+                <img src="https://mermaid.ink/img/Z3JhcGggVEQKICAgIEFbIlByb2Nlc3NvIGNoZWdhIl0gLS0+IEJ7IlB1dG9tYcOnw6NvIn0KICAgIEIgLS0+IENbIjIuMyBUUklBR0VNIC0gR2VyYWwiXQogICAgQyAtLT58Q2xhc3NpZmljYcOnw6NvfCBEeyJBc3N1bnRvPyJ9CiAgICAKICAgIEQgLS0+fEFwb3NlbnRhZG9yaWF8IEUxWyIyLjMgQVNTVU5UTyAtIEFwb3NlbnRhZG9yaWEiXQogICAgRCAtLT58TE9BU3wgRTJbIjIuMyBBU1NVTlRPIC0gTE9BUy9CUEMiXQogICAgCiAgICBFMSAtLT4gRnsiVGVtcG8gZGVjb3JyaWRvIn0KICAgIAogICAgRiAtLT58MC05MCBkaWFzfCBHMVsiKyAyLjMgUFJBWk8gLSBSZWd1bGFyIl0KICAgIEYgLS0+fDkxLTExMHwgRzJbIisgMi4zIFBSQVpPIC0gQXRlbsOnw6NvIl0KICAgIEYgLS0+fDExMS0xMTl8IEczWyIrIDIuMyBQUkFaTyAtIFVyZ2VudGUiXQogICAgCiAgICBHMyAtLT4gSHsiRGlzdHJpYnVpcj8ifQogICAgCiAgICBIIC0tPn5TaW18IElbIisgMi4zIE1FU0EgLSBBc3Nlc3NvciJdCiAgICBJIC0tPnxNQU5Uw4lNIEFzc3VudG98IEpbIjIuMyBBU1NVTlRPICsgPGJyLz4yLjMgTUVTQSAtIEFzc3VudG8iXQogICAgCiAgICBKIC0tPnxNaW51dGFkb3wgS1siKyAyLjMgR0FCSU5FVEUgLSBNaW51dGFkb3M8YnIvPihSZW1vdmUgTWVzYSkiXQogICAgSyAtLT58QXByb3ZhZG98IExbIisgMi4zIEdBQklORVRFIC0gUHJvbnRvIFBhdXRhIl0KICAgIAogICAgTCAtLT4gTlsiKyAyLjMgUEFVVEEgLSBTZXNzw6NvIFtEYXRhXSJdCiAgICBOIC0tPnxKdWxnYWRvfCBvWyIyLjMgUEFVVEEgLSBKdWxnYWRvcyJdCiAgICBPLS0+IFBbIlNBSSBETyBHQUJJTkVURSJdCg=="
+                    alt="Fluxo Padrão">
+            </div>
+
+            <h2>2. Fluxo de Incidentes e Retornos</h2>
+            <div class="diagram-container">
+                <img src="https://mermaid.ink/img/Z3JhcGggVEQKICAgIEFbIlByb3RvY29sby9SZXRvcm5vIl0gLS0+IEJ7IlRpcbzPyJ9CiAgICAKICAgIEIgLS0+fEFncmF2b3wgQ1siMi4zIFRSSUFHRU0gLSBBZ3Jhdm8gSW50ZXJmYWNlIl0KICAgIEIgLS0+fFJldG9ybm8gVE5VfCBEWyIyLjMgVFJJQUdFTSAtIFJldHJhdGHDp8Ojby9Wb2x0YSJdCiAgICAKICAgIEMgLS0+IEV7Ik9yaWdlbT8ifQogICAgRSAtLT58TW9ub2NyYXRpY2F8IEZbIk1lc2EgUmVsYXRvciJdCiAgICBFIC0tPn5BZG1pc3NpYmlsaWRhZGV8IEY6CiAgICAKICAgIEQgLS0+IEdbIk1lc2EgUmVsYXRvciJdCiAgICBHIC0tPiBKeyJKdcOtem8gZGUgUmV0cmF0YcOnw6NvPyJ9CiAgICAKICAgIEggLS0+fE1hbnTDqW0gRGVjaXPDozN8IElbIlZvdG8gQ29uZmlybWFuZG8iXQogICAgSCAtLT58UmV0cmF0YS1zZXwgSlsiTm92byBWb3RvIl0K"
+                    alt="Fluxo Incidentes">
+            </div>
+        </section>
+
+        <!-- ABA 3: REGRAS -->
+        <section id="regras">
+            <div class="concept-box">
+                <div class="concept-title">🧠 Como o Robô Pensa</div>
+                Os diagramas abaixo mostram a lógica exata programada no eproc.
+            </div>
+
+            <h3>Lógica de Triagem (Árvore de Decisão)</h3>
+            <div class="diagram-container">
+                <img src="https://mermaid.ink/img/Z3JhcGggVEQKICAgIEluw61jaW9bIkNoZWdhZGEgZG8gUHJvY2Vzc28iXSAtLT4gUTF7IsOJIEFncmF2byBJbnRlcm5vPyJ9CiAgICAKICAgIFExIC0tIFNpbSAoUmVncmEgNykgLS0+IEQxWyIyLjMgVFJJQUdFTSAtIEFncmF2byBJbnRlcm5vIl0KICAgIFExIC0tIE7Do28gLS0+IFEyeyLDiSBSZXRvcm5vL1JldHJhdGHDp8Ojbz8ifQogICAgCiAgICBRMiAtLSBTaW0gKFJlZ3JhIDgpIC0tPiBEMlsiMi4zIFRSSUFHRU0gLSBSZXRyYXRhw6fDo28vVm9sdGEiXQogICAgUTIgLS0gTsOjbyAtLT4gRTN7IsOJIEVtYmFyZ28gRGVjbGFyYcOnw6NvPyJ9CiAgICAKICAgIFFTIC0tIFNpbSAoUmVncmEgNikgLS0+IEQzWyIyLjMgVFJJQUdFTSAtIEVtYmFyZ29zIl0KICAgIFFTIC0tIE7Do28gLS0+IFE0eyJQYWxhdnJhcy1jaGF2ZTogPGJyLz4nVXJnZW50ZScsICdMaW1pbmFyJz8ifQogICAgCiAgICBRNCAtLSBTaW0gKFJlZ3JhIDUpIC0tPiBENFsi4oXMIDIuMyBUUklBR0VNIC0gVXJnZW50ZXMiXQogICAgRTQgLS0gTsOjbyAtLT4gUTV7IkFuw6FsaXNlIGRvIEFTU1VOVE8ifQogICAgCiAgICBRNSAtLSBMT0FTL0JQQyAoUmVncmEgMykgLS0+IEQ1WyIyLjMgQVNTVU5UTyAtIExPQVMiXQogICAgUTUgLS0gQXBvc2VudGFkb3JpYSAoUmVncmEgMikgLS0+IEQ2WyIyLjMgQVNTVU5UTyAtIEFwb3NlbnRhZG9yaWEiXQogICAgUTUgLS0gUGVuc8OjbyAoUmVncmEgNCkgLS0+IEQ3WyIyLjMgQVNTVU5UTyAtIFBlbnPDozM="
+                    alt="Lógica Triagem">
+            </div>
+
+            <h3>O "Relógio" do Prazo</h3>
+            <div class="diagram-container">
+                <img src="https://mermaid.ink/img/c3RhdGVEaWFncmFtLXYyCiAgICBbKl0gLS0+IFJlZ3VsYXI6IERpYSAwCiAgICBSZWd1bGFyIC0tPiBBdGVuw6fDo286IDkwIGRpYXMgKFJlZ3JhIDkpCiAgICBub3RlIHJpZ2h0IG9mIEF0ZW7Dh8OjbwogICAgICAgIPCfn6EgQWxlcnRhIEFtYXJlbG8KICAgIGVuZCBub3RlCiAgICAKICAgIEF0ZW7Dh8OjbyAtLT4gVXJnZW50ZTogMTEwIGRpYXMgKFJlZ3JhIDEwKQogICAgbm90ZSByaWdodCBvZiBVcmdlbnRlCiAgICAgICAg8J+foCBBbGVydGEgTGFyYW5qYQogICAgZW5kIG5vdGUKICAgIAogICAgVXJnZW50ZSAtLT4gQ29uY2x1c8Ojb0F1dG86IDEyMCBkaWFzIChSZWdyYSAxMSkKICAgIG5vdGUgcmlnaHQgb2YgQ29uY2x1c8Ojb0F1dG8KICAgICAgICDwn5S0IEFicmUgQ29uY2x1c8OjbyBTb3ppbmhvCiAgICBlbmQgbm90ZQogICAgCiAgICBDb25jbHVzw6NvQXV0byAtLT4gWypdCg=="
+                    alt="Relógio Prazos">
+            </div>
+
+            <h3>Suspensão por Temas (Monitoramento Paralelo)</h3>
+            <div class="diagram-container">
+                <img src="https://mermaid.ink/img/CmdyYXBoIFRECiAgICBBWyJNb25pdG9yYW1lbnRvIENvbnTDrW51byJdIC0tPiBCeyJEZXRlY3RvdSBUZW1hIFJlcGV0aXRpdm8/In0KICAgIAogICAgQiAtLSBUZW1hIDEwMzEgU1RKIC0tPiBDWyLij7jvuI8gMi4zIFNVU1BFTlNPIC0gVGVtYSAxMDMxIl0KICAgIEIgLS0gVGVtYSAxMTAyIFNURiAtLT4gRFsi4o+477iPIDIuMyBTVVNQRU5TTyAtIFRlbWEgMTEwMiJdCiAgICBCIC0tIFRlbWEgMTEyNCBTVEogLS0+IEVbIuKPuO+4jyAyLjMgU1VNUEVOU08gLSBUZW1hIDExMjQiXQogICAgCiAgICCBDICYgRCAmIEUgLS0+IEZbIkHDp8OjbyBBdXRvbSDoXRpY2E6Il0KICAgIEIgLS0+IEBbIjEuIEFESUNJT05BIGV0aXF1ZXRhICdTVVNQRU5TTyciXQogICAgQiAtLT4gSFsiMi4gUkVNT1ZFIGV0aXF1ZXRhcyBkZSAnUFJBWk8nIl0KICAgIEIgLS0+IElbIjMuIE1BTlTDpermIGV0aXF1ZXRhIGRlICdBU1NVTlRPJyJdCg=="
+                    alt="Lógica Suspensão">
+            </div>
+        </section>
+
+    </div>
+
+    <footer>
+        Gerado automaticamente por Assistente de Gestão Inteligente - 28/12/2025
+    </footer>
+
+</body>
+
+</html>

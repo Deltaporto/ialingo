@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Regras de Automação - Eproc Gabinete 2.3</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 20px;
+        }
+
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+    </style>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true, theme: 'neutral' });
+    </script>
+</head>
+
+<body>
+    <h1>Lógica do Robô - Gabinete 2.3</h1>
+
+    <h2>1. Lógica de Triagem (Árvore de Decisão)</h2>
+    <div class="mermaid">
+        graph TD
+        Início[Chegada do Processo] --> Q1{É Agravo Interno?}
+
+        Q1 -- Sim (Regra 7) --> D1[2.3 TRIAGEM - Agravo Interno]
+        Q1 -- Não --> Q2{É Retorno/Retratação?}
+
+        Q2 -- Sim (Regra 8) --> D2[2.3 TRIAGEM - Retratação/Volta]
+        Q2 -- Não --> Q3{É Embargo Declaração?}
+
+        Q3 -- Sim (Regra 6) --> D3[2.3 TRIAGEM - Embargos]
+        Q3 -- Não --> Q4{Palavras-chave: <br />'Urgente', 'Liminar'?}
+
+        Q4 -- Sim (Regra 5) --> D4[❗ 2.3 TRIAGEM - Urgentes]
+        Q4 -- Não --> Q5{Análise do ASSUNTO}
+
+        Q5 -- LOAS/BPC (Regra 3) --> D5[2.3 ASSUNTO - LOAS]
+        Q5 -- Aposentadoria (Regra 2) --> D6[2.3 ASSUNTO - Aposentadoria]
+        Q5 -- Pensão (Regra 4) --> D7[2.3 ASSUNTO - Pensão]
+        Q5 -- Incapacidade (Regra 4.1) --> D8[2.3 ASSUNTO - Auxílio-Doença]
+
+        Q5 -- Outros --> D9[⚪ 2.3 TRIAGEM - Geral]
+    </div>
+
+    <h2>2. O "Relógio" do Prazo</h2>
+    <div class="mermaid">
+        stateDiagram-v2
+        [*] --> Regular: Dia 0
+        Regular --> Atenção: 90 dias (Regra 9)
+        note right of Atenção: 🟡 Alerta Amarelo
+
+        Atenção --> Urgente: 110 dias (Regra 10)
+        note right of Urgente: 🟠 Alerta Laranja
+
+        Urgente --> ConclusãoAuto: 120 dias (Regra 11)
+        note right of ConclusãoAuto: 🔴 Abre Conclusão Sozinho
+
+        ConclusãoAuto --> [*]
+    </div>
+
+    <h2>3. Lógica de Suspensão (Paralela)</h2>
+    <div class="mermaid">
+        graph TD
+        A[Monitoramento Contínuo] --> B{Detectou Tema Repetitivo?}
+
+        B -- Tema 1031 STJ --> C[⏸️ 2.3 SUSPENSO - Tema 1031]
+        B -- Tema 1102 STF --> D[⏸️ 2.3 SUSPENSO - Tema 1102]
+        B -- Tema 1124 STJ --> E[⏸️ 2.3 SUSPENSO - Tema 1124]
+
+        C & D & E --> F[Ação Automática:]
+        F --> G[1. ADICIONA etiqueta 'SUSPENSO']
+        F --> H[2. REMOVE etiquetas de 'PRAZO']
+        F --> I[3. MANTÉM etiqueta de 'ASSUNTO']
+    </div>
+</body>
+
+</html>

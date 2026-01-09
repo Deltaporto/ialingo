@@ -1,0 +1,3080 @@
+
+--- FILE: docs\gabinete\inspecoes\7_RELCORREICAO4.pdf ---
+GABINETE DA CORREGEDORIA
+SETOR DE CORREIÇÃO
+Período de Correição: 10/02/2025 a 14/02/2025
+Processo: 5000083-59.2025.4.02.0000
+Unidade: 2ª Turma Recursal - 3º Gabinete (RJ)
+Juiz Titular: Dr. RAFAEL ASSIS ALVES
+1 ATOS PREPARATÓRIOS E METODOLOGIA DE
+TRABALHO (ART. 48, I, CNCR)
+A correição ordinária foi realizada na 2ª Turma Recursal – Gabinete do 3º Juiz Relator (RJ), no
+período entre 10/02/2025 e 14/02/2025, a partir de levantamentos realizados (i) no questionário pré-
+correição, (ii) nas informações obtidas da última correição e da última inspeção judicial realizadas
+na unidade, bem como (iii) nos mapas estatísticos disponíveis no sistema de processamento de
+dados da Justiça Federal da 2ª Região, observando-se o que preceituam a Resolução nº 496/2006, do
+Conselho da Justiça Federal, os artigos 45 e seguintes da Consolidação de Normas da Corregedoria
+Regional da Justiça Federal da 2ª Região (CNCR) e a Portaria nº TRF2-PTC-2024/00194.
+Na abertura e no encerramento dos trabalhos foram lavradas atas, nos termos do art. 46, § 2º, da
+CNCR.
+Foram devidamente cientificados o Conselho da Justiça Federal, a Procuradoria-Regional da
+Fazenda Nacional da 2ª Região, a Advocacia Geral da União da 2ª Região, a Defensoria Pública da
+União, a Ordem dos Advogados do Brasil, o Ministério Público Federal e, por intermédio do
+sistema SIGA, a Direção do Foro correlato (DIRFO) e a Coordenadoria dos Juizados Especiais
+Federais (evento 1), conforme o estabelecido no art. 2º, XI, da Portaria nº TRF2-PTC-2024/00194,
+da Corregedoria Regional da Justiça Federal da 2º Região.
+O Procurador da República Dr. Fábio Seghese foi designado para acompanhar os trabalhos desta
+correição (Portaria PRRJ nº 40, de 13 de janeiro de 2025), mas não apresentou qualquer pedido,
+crítica ou sugestão.
+Não houve designação de representantes da AGU, DPU, PFN, OAB ou da Coordenadoria dos
+Juizados Especiais Federais para acompanhar os trabalhos desta correição ordinária.
+Os dados estatísticos constantes deste relatório foram extraídos das ferramentas disponíveis no site
+desta Corregedoria, pelo Núcleo de Estatísticas deste Tribunal – NUEST, em 06/02/2025.
+2 CARACTERÍSTICAS DA UNIDADE (ART. 48, II,
+CNCR)
+Nome da Unidade:
+2ª Turma Recursal - 3º Gabinete (RJ)
+Data de instalação:
+“20/08/2012”
+Competência:
+“Desde 03/12/2018, a 2ª Turma Recursal tem competência em matéria previdenciária e assistencial
+(RGPS/LOAS), nos termos do art. 11 da Resolução n.º TRF-RSP-201800050, bem assim para os
+processos que tenham por objeto seguro-desemprego”.
+Auxílios prestados e recebidos nos últimos 12 meses:
+1
+“Em razão de a unidade ter sido incluída no Plano de Acompanhamento Especial (PAE), da
+Corregedoria-Geral da Justiça Federal da 2.ª Região, nos termos da Portaria n.º TRF2-PTC-
+2024/000298, de 28 de novembro de 2024, foi disponibilizado o auxílio por 2 (servidores) do
+Grupo de Servidores de Apoio (GSA), com início em janeiro de 2025, nos termos da Portaria SEI
+COR/TRF2 n.º 25, de 12 de dezembro de 2024. Impende, contudo, assinalar que esses dois
+servidores não possuem experiência na confecção de minutas de decisões e/ou relatórios/votos.
+Demais disso, um dos servidores não possui formação jurídica. Por fim, é relevante consignar que
+a servidora disponibilizada encontra-se em gozo de férias, de modo que o seu auxílio ao Gabinete
+somente terá início no dia 04/02/2025”.
+2.1 JUIZ FEDERAL TITULAR
+Nome
+RAFAEL ASSIS ALVES
+Tempo de atuação na unidade:
+Desde 10/09/2024 (ATO n.º TRF2-ATC-2024/00201, de 9 de setembro de 2024)
+Afastamentos superiores a 15 dias nos últimos 12 meses, especificando o período e o
+fundamento, conforme o caso:
+“Não houve afastamento do magistrado por período superior a 15 (quinze) dias nos últimos 12
+(doze) meses”.
+Períodos de substituição, em férias de outro magistrado:
+“O magistrado não substituiu outro magistrado no gozo de férias”.
+Modalidade de trabalho adotada pelo Magistrado no Juízo:
+“O magistrado realiza as suas atividades presencialmente durante 3 (três) dias na semana e,
+remotamente, durante 2 (dois) dias”.
+Modalidade de atendimento aos advogados e procuradores:
+“O atendimento aos advogados/procuradores é realizado presencial e virtualmente. Nesse último
+caso, por meio de telefone, e-mail e aplicativo Zoom”.
+2.2 JUIZ FEDERAL SUBSTITUTO
+Não há.
+Fonte: questionário pré-correição e sistema JuiWeb.
+2
+3 SERVIDORES E ESTAGIÁRIOS (ART. 48, II,
+CNCR)
+Quadro comparativo entre a última e a presente correição relativo à quantidade de cargos prevista
+na lotação e a quantidade efetivamente existente de analistas judiciários, técnicos judiciários (área
+administrativa e segurança e transportes), requisitados ou outros:
+Técnicos
+Analistas Técnicos Requisitados ou Total de
+Período Judiciários de Quadro Previsto
+Judiciários Judiciários outros Servidores
+Segurança
+Última Correição 2 1 0 0 3 3
+Atualmente 2 1 0 1 4 4
+Servidores em teletrabalho:
+No momento, não há servidor em teletrabalho.
+Servidores sem vínculo com o serviço público:
+“Não há, na unidade, servidores sem vínculo com o serviço público”.
+Servidores em auxílio ou requisitados:
+“Há 1 (uma) servidora requisitada do Tribunal Regional Federal da 2.ª Região: Larissa Figueiredo
+Coelho Maia, Analista Judiciária, Área Judiciária, para ocupar o cargo em comissão de Chefe de
+Gabinete de Turma Recursal (CJ1), e 2 (dois) servidores do Grupo de Servidores de Apoio (GSA),
+cedidos provisoriamente pela Corregedoria-Geral da Justiça Federal da 2.ª Região para prestarem
+auxílio: Alexandre Rocha do Nascimento, Técnico Judiciário, Área Administrativa, e Brenda
+Bazilio Aguilar Marques de Oliveira, Técnica Judiciária, Área Administrativa”.
+Estagiários:
+São previstos para a unidade 4 (quatro) estagiários de nível superior, havendo 3 (três) efetivamente
+lotados. Não há previsão de estagiários de nível médio.
+Fonte: questionário pré-correição.
+4 METAS DO CNJ (ART. 48, III, CNCR)
+4.1 RESUMO
+Cumprimento em Cumprimento em Cumprimento em Qtde de Processos
+Metas
+2023 2024 2025 (até 5/2/2025) Pendentes (2025)
+3
+Cumprimento em Cumprimento em Cumprimento em Qtde de Processos
+Metas
+2023 2024 2025 (até 5/2/2025) Pendentes (2025)
+Meta 1 89,74% 36,89% 168,31% -
+Meta 2 – 1º e 2º Graus – Faixa 1
+Distribuídos até 31/12/2018 (2023) Não há acervo alvo Não há acervo alvo Não há acervo alvo -
+Distribuídos até 31/12/2015 (2024)
+Distribuídos até 31/12/2009 (2025)
+Meta 2 - 1º e 2º Graus – Faixa 2
+Distribuídos em 2019 (2023) Não há acervo alvo Não há acervo alvo Não há acervo alvo -
+Distribuídos até 31/12/2020 (2024)
+Distribuídos até 31/12/2021 (2025)
+Meta 2 - JEF e TR
+Distribuídos até 31/12/2020 (2023) 100% 99,76% 100% -
+Distribuídos até 31/12/2021 (2024)
+Distribuídos até 31/12/2022 (2025)
+Meta 3 0% 29,24% 0% -
+Meta 5 100% - - -
+Meta 10/ Meta 6 Não há acervo alvo Não há acervo alvo Não há acervo alvo -
+: igual ou acima de 100% : entre 80% e 100% : entre 70% e 80% : abaixo de 70%
+4.2 ANÁLISE ESPECÍFICA
+4.2.1 Meta 1
+Meta 1 de 2023: julgar quantidade maior de processos de conhecimento do que os distribuídos
+no ano corrente, excluídos os suspensos e sobrestados no ano corrente.
+A unidade cumpriu 89,74% da Meta 1, com 1.823 processos distribuídos (distribuição ajustada) e
+1.635 processos julgados.
+Meta 1 de 2024: julgar quantidade maior de processos de conhecimento do que os distribuídos
+no ano corrente, excluídos os suspensos e sobrestados no ano corrente.
+A unidade cumpriu 36,89% da Meta 1, com 1.854 processos distribuídos (distribuição ajustada) e
+684 processos julgados.
+Meta 1 de 2025: julgar quantidade maior de processos de conhecimento do que os distribuídos
+de 20/12/2024 a 19/12/2025, excluídos os suspensos e sobrestados de 20/12/2024 a 19/12/2025.
+Até a data da verificação, a unidade cumpriu 168,31% da Meta 1, com 142 processos distribuídos
+(distribuição ajustada) e 239 processos julgados.
+4
+Fonte: Portal do Núcleo de Estatísticas do TRF2, em 05/02/2024.
+4.2.2 Meta 2
+Meta 2 de 2023 para o 1º e 2º graus: identificar e julgar, até 31/12 do ano corrente, 100% dos
+processos distribuídos até 31/12/2018 e 85% dos processos distribuídos em 2019.
+Distribuídos até 31/12/2018: Não há processos no acervo alvo.
+Distribuídos em 2019: Não há processos no acervo alvo.
+Meta 2 de 2023 para os Juizados Especiais Federais e Turmas Recursais: identificar e julgar,
+até 31/12/2023, 100% dos processos distribuídos até 31/12/2020.
+5
+A unidade cumpriu 100% da Meta 2.
+Meta 2 de 2024 para o 1º e 2º graus: identificar e julgar, até 31/12/2024, todos os processos
+pendentes de julgamento há 9 anos (2015) e 85% dos processos distribuídos até 31/12/2020.
+Pendentes de julgamento há 9 anos (2015): Não há processos no acervo alvo.
+Distribuídos até 31/12/2020: Não há processos no acervo alvo.
+Meta 2 de 2024 para os Juizados Especiais Federais e Turmas Recursais: identificar e julgar,
+até 31/12/2024, 100% dos processos distribuídos até 31/12/2021.
+A unidade cumpriu 99,76% da Meta 2. Constava 1 (um) processo pendente ao tempo do
+fechamento da meta.
+Meta 2 de 2025 para o 1º e 2º graus: identificar e julgar, até 31/12/2025, todos os processos
+pendentes de julgamento há 16 anos (2009) e 85% dos processos distribuídos até 31/12/2021.
+Pendentes de julgamento há 16 anos (2009): Não há processos no acervo alvo.
+Distribuídos até 31/12/2021: Não há processos no acervo alvo.
+Meta 2 de 2025 para os Juizados Especiais Federais e Turmas Recursais: identificar e julgar,
+até 31/12/2025, 100% dos processos distribuídos até 31/12/2022.
+Até a data da verificação, a unidade cumpriu 100% da Meta 2.
+6
+4.2.3 Meta 3
+Meta 3 de 2023: Alcançar o percentual mínimo de 8% no Índice de Conciliação do Justiça em
+Números.
+A unidade cumpriu 0% da Meta 3.
+Meta 3 de 2024: Aumentar o Índice de Conciliação do Justiça em Números em 0,5 ponto
+percentual em relação a 2023.
+A unidade cumpriu 29,24% da Meta 3.
+Meta 3 de 2025: Aumentar o Índice de Conciliação do Justiça em Números em 0,5 ponto
+percentual em relação ao biênio 2023/2024.
+Até a data da verificação, a unidade cumpriu 0% da Meta 3.
+Fonte: Portal do Núcleo de Estatísticas do TRF2, em 05/02/2024.
+7
+4.2.4 Meta 5 - Reduzir a taxa de congestionamento
+Meta 5 de 2023 - Reduzir em 0,5 ponto percentual a taxa de congestionamento líquida, exceto
+execuções fiscais, em relação a 2022:
+A unidade atingiu 100% da Meta 5.
+Meta 5 de 2024 - Reduzir em 0,5 ponto percentual a taxa de congestionamento líquida, exceto
+execuções fiscais, em relação a 2023:
+O cálculo ainda não foi disponibilizado pelo Núcleo de Estatísticas deste Tribunal.
+Meta 5 de 2025 - Reduzir em 0,5 ponto percentual a taxa de congestionamento líquida, exceto
+execuções fiscais, em relação a 2024:
+O cálculo ainda não foi disponibilizado pelo Núcleo de Estatísticas deste Tribunal.
+4.2.5 Meta 10 - Impulsionar os Processos de Ações Ambientais
+Meta 10 de 2023: identificar e julgar, no ano corrente, 30% dos processos que tenham por
+objeto matéria ambiental distribuídos até 31/12/2022.
+Não há processos no acervo alvo.
+Meta 10 de 2024: identificar e julgar, no ano corrente, 30% dos processos que tenham por
+objeto matéria ambiental, 30% dos processos relacionados aos direitos das comunidades
+indígenas e 30% dos processos relacionados aos direitos das comunidades quilombolas,
+distribuídos até 31/12/2023.
+Não há processos no acervo alvo.
+8
+4.2.6 Meta 6 – Priorizar os julgamentos de ações ambientais
+Meta 6 de 2025: identificar e julgar, até 31/12/2025, 35% dos processos que tenham por objeto
+matéria ambiental, distribuídos até 31/12/2024.
+Não há processos no acervo alvo.
+4.3 SUGESTÕES - METAS DO CNJ
+a) Manter a estratégia de gestão e as rotinas de trabalho, a fim de obter o cumprimento total das
+Metas Nacionais do CNJ para o ano de 2025 (item 4.2).
+5 AÇÕES E SITUAÇÕES SUJEITAS À
+VERIFICAÇÃO OBRIGATÓRIA (ART. 48, IV,
+CNCR)
+5.1 RESUMO
+Não há ações sujeitas à verificação obrigatória.
+5.2 ANÁLISE ESPECÍFICA
+5.2.1 Ação Civil Pública
+Não há.
+5.2.2 Ação Popular
+Não há.
+5.2.3 Mandado de Segurança Coletivo
+Não há.
+5.2.4 Ações de Improbidade Administrativa
+Não há.
+5.2.5 Ações que Versem Sobre Interesses Metaindividuais
+Não há.
+5.2.6 Ações Criminais com Réu Preso
+Não há.
+5.2.7 Tribunal do Júri
+Não há.
+9
+5.2.8 COVID-19
+Não há.
+Fonte: Portal do Núcleo de Estatísticas do TRF2, em 05/02/2024.
+6 EVOLUÇÃO DO ACERVO (ART.48, CNCR)
+6.1 RESUMO
+Quantitativo de Processos por Acervo. Fonte: Painel de Indicadores (5/2/2025)
+Tempo médio de
+Acervo Quantitativo
+tramitação
+Ativos 1.951 295 Dias
+Suspensos 206 1564 Dias
+Inquéritos 0 0 Dias
+Total 2.157 417 Dias
+6.2 SÉRIE HISTÓRICA
+10
+7 PROCESSOS SUSPENSOS (ART. 48, V, CNCR)
+7.1 RESUMO
+Quantitativo de Processos Suspensos por Motivo. Fonte: Relatório NUEST (05/02/2025)
+Motivo Quantidade
+Aguarda decisão da instância superior 172
+Por decisão judicial 4
+Recurso Repetitivo 16
+Repercussão Geral 14
+Amostragem de Processos Suspensos por Motivo. Fonte: Painel de Indicadores (05/02/2025)
+Tema de
+Processo
+A
+D
+u
+a
+tu
+ta
+a ç
+d
+ã
+a
+o Su
+D
+s
+a
+p
+t
+e
+a
+n
+d
+s
+a
+ã o
+Motivo
+Re
+G
+p
+e
+e
+r
+r
+a
+c
+l
+u
+o
+ss
+u
+ã o
+R
+O
+ec
+b
+o
+se
+m
+rv
+en
+aç
+d
+ã
+a
+o
+çã
+-
+o
+Repetitivo
+1 50068963920234025120 20/11/2023 5/2/2025 Recurso Repetitivo 1124 (Tema STJ) Em conformidade.
+2 50453938220234025101 19/4/2023 5/2/2025 Recurso Repetitivo 1124 (Tema STJ) Em conformidade.
+3 50574512020234025101 16/5/2023 5/2/2025 Recurso Repetitivo 1124 (Tema STJ) Em conformidade.
+4 50013131820234025106 10/4/2023 23/1/2025 Repercussão Geral 1271 (Tema STF) Em conformidade.
+5 50072652120224025103 29/9/2022 22/1/2025 Recurso Repetitivo 1124 (Tema STJ) Em conformidade.
+Processo suspenso para
+aguardar a
+apresentação de
+6 50974030620234025101 18/9/2023 6/12/2023 Por decisão judicial Não há cálculos pela
+Contadoria (evento 22).
+Em conformidade.
+7 50186203420224025101 21/3/2022 24/10/2023
+A
+su
+g
+p
+u
+e
+a
+ri
+r
+o
+d
+r
+a decisão da instância
+1209 (Tema STF) Em conformidade.
+8 50000709820214025109 19/1/2021 4/7/2023
+A
+su
+g
+p
+u
+e
+a
+ri
+r
+o
+d
+r
+a decisão da instância
+1124 (Tema STJ) Em conformidade.
+9 50010769520204025103 19/2/2020 25/3/2022
+A
+su
+g
+p
+u
+e
+a
+ri
+r
+o
+d
+r
+a decisão da instância
+1124 (Tema STJ) Em conformidade.
+10 50014454120204025119 1/12/2020 25/3/2022
+A
+su
+g
+p
+u
+e
+a
+ri
+r
+o
+d
+r
+a decisão da instância
+1124 (Tema STJ) Em conformidade.
+11
+8 PRODUÇÃO DE ATOS JUDICIAIS (ART. 48, V,
+CNCR)
+8.1 PRODUTIVIDADE
+8.1.1 Produtividade nos Últimos 12 Meses
+8.1.2 Série Histórica da Produtividade
+12
+8.2 SESSÃO DE JULGAMENTO E AUDIÊNCIAS
+8.2.1 Número de Sessões de Julgamento Agendadas e Realizadas
+“Em 2024, foram realizadas 23 (vinte e três) sessões de julgamento. Em janeiro de 2025, há 07
+sessões de julgamento designadas entre 18/02/2025 e 17/06/2025”.
+8.2.2 Controle da Inclusão, Adiamento e Retirada de Pauta de Processos
+“O controle da inclusão dos processos em pauta de julgamento é feito pela Chefia de Gabinete, por
+meio da guia, constante do sistema EProc, denominada cronograma de sessões de julgamento”, na
+qual há a fixação das datas limites para inclusão em pauta. Até a data limite, os processos já
+minutados, revisados pelo Magistrado e inseridos no localizador “GAG-SESSÃO ORDINÁRIA”,
+acrescido da data da sessão de julgamento respectiva, são pautados. O controle e lançamentos dos
+eventos de adiamento e retirada de pauta são efetuados pela Secretaria - Seção de Julgamento (TR-
+SJU). Se, no entanto, a determinação de retirada de pauta ocorrer previamente à sessão, a Chefia
+de Gabinete promove o controle, efetuando o respectivo lançamento no sistema, com intimação das
+partes acerca da decisão que determinou a retirada”.
+8.2.3 Intervalo de Tempo Médio entre o Pedido de Dia/Inclusão em Pauta e a Realização da
+Sessão de Julgamento
+“O intervalo de tempo médio entre o pedido de dia/inclusão em pauta e a realização da sessão de
+julgamento é de aproximadamente 20 (vinte) dias corridos”.
+8.2.4 Utilização de Registro Audiovisual de Sessões de Julgamento
+“O registro audiovisual das sessões de julgamento fica a cargo da Secretaria, especificamente do
+setor TR-SJU”.
+8.2.5 Detecção de Falhas no Registro Audiovisual de Sessões de Julgamento
+“O registro audiovisual das sessões de julgamento fica a cargo da Secretaria, especificamente do
+setor TR-SJU”.
+8.2.6 Audiência de Custódia Realizada em Plantão
+“A unidade não realizou, nos últimos 12 (doze) meses, nenhuma audiência de custódia em
+plantão”.
+8.2.7 Audiência de Forma Remota
+"A unidade não detém competência para realizar audiências de instrução”.
+Fonte: questionário pré-correição.
+13
+9 ACERVO CONCLUSO E CUMPRIMENTO DE
+PRAZOS (ART. 48, V, CNCR)
+9.1 ACERVO CONCLUSO
+9.2 PROCESSOS COM CONCLUSÃO VENCIDA
+Não há processos com conclusão vencida.
+9.2.1 Conclusos para Despacho ou Decisão por Mais de 60 Dias, Exceto Execuções Fiscais
+(art. 57, I, “a”, CNCR)
+Não há processos nessa situação.
+9.2.2 Execuções Fiscais Conclusas para Despacho ou Decisão há Mais de 120 Dias (art. 57, I,
+“b”, CNCR)
+Não há processos nessa situação.
+9.2.3 Conclusos para Sentença ou Julgamento em Sessão, por Mais de 150 Dias, Exceto
+Juizados Especiais e Execuções Fiscais (art. 57, II, “a”, CNCR)
+Não há processos nessa situação.
+9.2.4 Conclusos para Sentença há Mais de 120 Dias, no Caso de Juizados e Varas Federais
+de Execução Fiscal (art. 57, I, “b” e II, § 1º, CNCR)
+Não há processos nessa situação.
+14
+9.3 PROCESSOS PARADOS NÃO CONCLUSOS
+9.3.1 Processos Parados na Secretaria há Mais de 60 Dias, das Classes Cíveis, Criminais e
+Juizados Especiais (art. 57, I, “c”, CNCR)
+No momento da análise, existiam 954 processos nessa situação, listados abaixo.
+Listagem dos processos parados na secretaria há mais de 60 dias, das classes cíveis, criminais e Juizados Especiais.
+Fonte: Painel de Indicadores (5/2/2025)
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+1 00451765220154025151 5/5/2015 16/10/2024 RECURSO CÍVEL Titular 80
+2 00530194220184025158 10/4/2018 8/1/2024 RECURSO CÍVEL Titular 349
+3 00533764820154025151 22/5/2015 1/10/2024 RECURSO CÍVEL Titular 95
+4 00654642120154025151 22/6/2015 24/9/2024 RECURSO CÍVEL Titular 102
+5 00718142520154025151 3/7/2015 16/10/2024 RECURSO CÍVEL Titular 80
+6 00792130820154025151 20/7/2015 16/10/2024 RECURSO CÍVEL Titular 80
+7 00819014020154025151 27/7/2015 24/9/2024 RECURSO CÍVEL Titular 102
+8 00821465120154025151 27/7/2015 24/9/2024 RECURSO CÍVEL Titular 102
+9 00822426620154025151 27/7/2015 24/9/2024 RECURSO CÍVEL Titular 102
+10 00848088520154025151 3/8/2015 1/10/2024 RECURSO CÍVEL Titular 95
+11 00848469720154025151 3/8/2015 24/9/2024 RECURSO CÍVEL Titular 102
+12 00862481920154025151 5/8/2015 15/10/2024 RECURSO CÍVEL Titular 81
+13 00880176220154025151 12/8/2015 24/9/2024 RECURSO CÍVEL Titular 102
+14 00883813420154025151 12/8/2015 16/10/2024 RECURSO CÍVEL Titular 80
+15
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+15 01068000520154025151 31/8/2015 1/10/2024 RECURSO CÍVEL Titular 95
+16 01079849320154025151 1/9/2015 16/10/2024 RECURSO CÍVEL Titular 80
+17 01230909520154025151 1/10/2015 24/9/2024 RECURSO CÍVEL Titular 102
+18 01860621220174025158 27/9/2017 9/7/2024 RECURSO CÍVEL Titular 179
+19 50000112720234025114 5/1/2023 24/4/2024 RECURSO CÍVEL Titular 255
+20 50000326920244025113 12/1/2024 29/7/2024 RECURSO CÍVEL Titular 159
+21 50000351520244025116 6/1/2024 3/7/2024 RECURSO CÍVEL Titular 185
+22 50000492620244025107 5/1/2024 24/9/2024 RECURSO CÍVEL Titular 102
+23 50000554520244025103 8/1/2024 11/10/2024 RECURSO CÍVEL Titular 85
+24 50000681720244025112 10/1/2024 8/5/2024 RECURSO CÍVEL Titular 241
+25 50000770720234025114 16/1/2023 31/7/2024 RECURSO CÍVEL Titular 157
+26 50000837120244025116 10/1/2024 10/9/2024 RECURSO CÍVEL Titular 116
+27 50000855320244025112 11/1/2024 5/8/2024 RECURSO CÍVEL Titular 152
+28 50000945220234025111 31/1/2023 31/7/2024 RECURSO CÍVEL Titular 157
+29 50000977920244025108 11/1/2024 31/10/2024 RECURSO CÍVEL Titular 65
+30 50001057120244025103 11/1/2024 24/9/2024 RECURSO CÍVEL Titular 102
+31 50001064120244025108 12/1/2024 15/10/2024 RECURSO CÍVEL Titular 81
+32 50001221420234025113 25/1/2023 19/3/2024 RECURSO CÍVEL Titular 291
+33 50001389820234025102 10/1/2023 2/10/2024 RECURSO CÍVEL Titular 94
+34 50001539720244025113 5/2/2024 22/10/2024 RECURSO CÍVEL Titular 74
+35 50001593220234025116 19/1/2023 5/8/2024 RECURSO CÍVEL Titular 152
+36 50001613220234025106 24/1/2023 26/9/2024 RECURSO CÍVEL Titular 100
+37 50001756120244025112 19/1/2024 14/10/2024 RECURSO CÍVEL Titular 82
+38 50001773420244025111 19/2/2024 13/10/2024 RECURSO CÍVEL Titular 83
+39 50001774420234025119 2/2/2023 6/9/2024 RECURSO CÍVEL Titular 120
+40 50001824120244025116 18/1/2024 2/9/2024 RECURSO CÍVEL Titular 124
+41 50001882520224025114 3/2/2022 25/1/2024 RECURSO CÍVEL Titular 345
+42 50001902120244025115 31/1/2024 29/7/2024 RECURSO CÍVEL Titular 159
+43 50001964620244025109 22/2/2024 23/10/2024 RECURSO CÍVEL Titular 73
+44 50002007420244025112 22/1/2024 6/8/2024 RECURSO CÍVEL Titular 151
+45 50002020820234025103 12/1/2023 15/2/2024 RECURSO CÍVEL Titular 324
+16
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+46 50002096420234025114 3/2/2023 23/7/2024 RECURSO CÍVEL Titular 165
+47 50002104620234025115 30/1/2023 18/6/2024 RECURSO CÍVEL Titular 200
+48 50002294620234025117 16/1/2023 8/10/2024 RECURSO CÍVEL Titular 88
+49 50002342520244025120 23/1/2024 18/10/2024 RECURSO CÍVEL Titular 78
+50 50002381620244025103 18/1/2024 29/6/2024 RECURSO CÍVEL Titular 189
+51 50002387420244025116 23/1/2024 23/10/2024 RECURSO CÍVEL Titular 73
+52 50002449620244025111 28/2/2024 30/10/2024 RECURSO CÍVEL Titular 66
+53 50002760420244025111 5/3/2024 30/10/2024 RECURSO CÍVEL Titular 66
+54 50002796320234025120 24/1/2023 26/8/2024 RECURSO CÍVEL Titular 131
+55 50002797420244025105 7/2/2024 17/8/2024 RECURSO CÍVEL Titular 140
+56 50002827020224025114 11/2/2022 3/6/2024 RECURSO CÍVEL Titular 215
+57 50002935820244025105 8/2/2024 29/7/2024 RECURSO CÍVEL Titular 159
+58 50002981820224025116 7/2/2022 29/2/2024 RECURSO CÍVEL Titular 310
+59 50003023620234025111 8/3/2023 7/3/2024 RECURSO CÍVEL Titular 303
+60 50003069820224025114 15/2/2022 29/9/2024 RECURSO CÍVEL Titular 97
+61 50003099820234025120 25/1/2023 10/4/2024 RECURSO CÍVEL Titular 269
+62 50003253320244025115 20/2/2024 26/9/2024 RECURSO CÍVEL Titular 100
+63 50003432720234025103 18/1/2023 19/3/2024 RECURSO CÍVEL Titular 291
+64 50003462720244025109 15/3/2024 29/10/2024 RECURSO CÍVEL Titular 67
+65 50003533120244025105 19/2/2024 25/6/2024 RECURSO CÍVEL Titular 193
+66 50003668220244025120 30/1/2024 22/7/2024 RECURSO CÍVEL Titular 166
+67 50003715220244025105 21/2/2024 15/10/2024 RECURSO CÍVEL Titular 81
+68 50003770520234025102 19/1/2023 2/8/2024 RECURSO CÍVEL Titular 155
+69 50003811520234025111 20/3/2023 11/6/2024 RECURSO CÍVEL Titular 207
+70 50003861820244025106 26/2/2024 20/8/2024 RECURSO CÍVEL Titular 137
+71 50003862720244025103 24/1/2024 14/8/2024 RECURSO CÍVEL Titular 143
+72 50003964420244025112 2/2/2024 14/8/2024 RECURSO CÍVEL Titular 143
+73 50003968620204025111 14/5/2020 18/6/2024 RECURSO CÍVEL Titular 200
+74 50003989320244025118 23/1/2024 1/11/2024 RECURSO CÍVEL Titular 64
+75 50004006620244025117 23/1/2024 13/9/2024 RECURSO CÍVEL Titular 113
+76 50004010220244025101 4/1/2024 5/7/2024 RECURSO CÍVEL Titular 183
+17
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+77 50004019120234025115 15/2/2023 6/8/2024 RECURSO CÍVEL Titular 151
+78 50004231520244025116 2/2/2024 18/10/2024 RECURSO CÍVEL Titular 78
+79 50004382320244025103 25/1/2024 20/9/2024 RECURSO CÍVEL Titular 106
+80 50004420420224025112 10/2/2022 29/1/2024 RECURSO CÍVEL Titular 341
+81 50004481020234025101 5/1/2023 11/10/2024 RECURSO CÍVEL Titular 85
+82 50004483120244025115 4/3/2024 9/9/2024 RECURSO CÍVEL Titular 117
+83 50004483720244025113 17/3/2024 22/10/2024 RECURSO CÍVEL Titular 74
+84 50004484020244025112 6/2/2024 23/7/2024 RECURSO CÍVEL Titular 165
+85 50004501920244025109 4/4/2024 1/10/2024 RECURSO CÍVEL Titular 95
+86 50004502520244025107 7/2/2024 9/10/2024 RECURSO CÍVEL Titular 87
+87 50004591820234025108 1/2/2023 25/6/2024 RECURSO CÍVEL Titular 193
+88 50004637320234025102 23/1/2023 11/1/2024 RECURSO CÍVEL Titular 349
+89 50004692820244025108 1/2/2024 14/10/2024 RECURSO CÍVEL Titular 82
+90 50004890720244025112 8/2/2024 26/9/2024 RECURSO CÍVEL Titular 100
+91 50004953520244025105 5/3/2024 22/10/2024 RECURSO CÍVEL Titular 74
+92 50004965420234025105 28/2/2023 26/1/2024 RECURSO CÍVEL Titular 344
+93 50004977520244025114 13/3/2024 30/9/2024 RECURSO CÍVEL Titular 96
+94 50004997520244025104 31/1/2024 2/8/2024 RECURSO CÍVEL Titular 155
+95 50005062820244025117 26/1/2024 2/10/2024 RECURSO CÍVEL Titular 94
+96 50005073120244025111 17/4/2024 29/10/2024 RECURSO CÍVEL Titular 67
+97 50005118620244025105 6/3/2024 15/8/2024 RECURSO CÍVEL Titular 142
+98 50005208520234025104 27/1/2023 3/9/2024 RECURSO CÍVEL Titular 123
+99 50005245220244025116 7/2/2024 22/7/2024 RECURSO CÍVEL Titular 166
+100 50005290720244025106 11/3/2024 30/7/2024 RECURSO CÍVEL Titular 158
+101 50005350820244025108 5/2/2024 28/8/2024 RECURSO CÍVEL Titular 129
+102 50005414020234025111 5/4/2023 16/9/2024 RECURSO CÍVEL Titular 110
+103 50005464420234025117 30/1/2023 23/10/2024 RECURSO CÍVEL Titular 73
+104 50005575120244025113 1/4/2024 28/10/2024 RECURSO CÍVEL Titular 68
+105 50005707520234025116 17/2/2023 11/7/2024 RECURSO CÍVEL Titular 177
+106 50005714820234025120 7/2/2023 14/3/2024 RECURSO CÍVEL Titular 296
+107 50005747820244025116 9/2/2024 21/10/2024 RECURSO CÍVEL Titular 75
+18
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+108 50005769120234025113 21/3/2023 9/7/2024 RECURSO CÍVEL Titular 179
+109 50005854120234025117 31/1/2023 16/5/2024 RECURSO CÍVEL Titular 233
+110 50005877120244025118 29/1/2024 9/10/2024 RECURSO CÍVEL Titular 87
+111 50005914420244025107 22/2/2024 23/7/2024 RECURSO CÍVEL Titular 165
+112 50006008920224025102 1/2/2022 6/8/2024 RECURSO CÍVEL Titular 151
+113 50006059220244025118 29/1/2024 26/9/2024 RECURSO CÍVEL Titular 100
+114 50006126420224025115 15/3/2022 5/3/2024 RECURSO CÍVEL Titular 305
+115 50006234620244025108 8/2/2024 25/10/2024 RECURSO CÍVEL Titular 71
+116 50006265420224025113 1/4/2022 3/4/2024 RECURSO CÍVEL Titular 276
+117 50006358220234025112 17/2/2023 1/4/2024 RECURSO CÍVEL Titular 278
+118 50006377120224025117 29/1/2022 30/9/2024 RECURSO CÍVEL Titular 96
+119 50006507520234025104 1/2/2023 23/1/2024 RECURSO CÍVEL Titular 347
+120 50006582520234025113 29/3/2023 17/6/2024 RECURSO CÍVEL Titular 201
+121 50006605820244025113 16/4/2024 10/9/2024 RECURSO CÍVEL Titular 116
+122 50006669520244025103 2/2/2024 11/10/2024 RECURSO CÍVEL Titular 85
+123 50006872920244025117 5/2/2024 22/7/2024 RECURSO CÍVEL Titular 166
+124 50006987320244025112 27/2/2024 24/7/2024 RECURSO CÍVEL Titular 164
+125 50007029520244025117 6/2/2024 1/8/2024 RECURSO CÍVEL Titular 156
+126 50007122720234025101 6/1/2023 6/2/2024 RECURSO CÍVEL Titular 333
+127 50007214420234025115 22/3/2023 26/2/2024 RECURSO CÍVEL Titular 313
+128 50007420720244025108 19/2/2024 22/7/2024 RECURSO CÍVEL Titular 166
+129 50007440520234025110 25/1/2023 29/4/2024 RECURSO CÍVEL Titular 250
+130 50007454620214025114 7/4/2021 23/7/2024 RECURSO CÍVEL Titular 165
+131 50007603820234025116 5/3/2023 2/7/2024 RECURSO CÍVEL Titular 186
+132 50007707820244025106 1/4/2024 9/10/2024 RECURSO CÍVEL Titular 87
+133 50007750720234025116 6/3/2023 18/7/2024 RECURSO CÍVEL Titular 170
+134 50007852320244025114 15/4/2024 20/8/2024 RECURSO CÍVEL Titular 137
+135 50007932820234025116 6/3/2023 25/3/2024 RECURSO CÍVEL Titular 285
+136 50008028020244025107 5/3/2024 2/10/2024 RECURSO CÍVEL Titular 94
+137 50008045020244025107 5/3/2024 18/6/2024 RECURSO CÍVEL Titular 200
+138 50008278520234025121 2/2/2023 8/8/2024 RECURSO CÍVEL Titular 149
+19
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+139 50008295820234025120 22/2/2023 8/10/2024 RECURSO CÍVEL Titular 88
+140 50008535820244025118 6/2/2024 5/11/2024 RECURSO CÍVEL Titular 60
+141 50008547320244025108 23/2/2024 17/9/2024 RECURSO CÍVEL Titular 109
+142 50008560720244025120 26/2/2024 12/8/2024 RECURSO CÍVEL Titular 145
+143 50008754920244025108 23/2/2024 16/7/2024 RECURSO CÍVEL Titular 172
+144 50008833520244025105 17/4/2024 30/10/2024 RECURSO CÍVEL Titular 66
+145 50009271320224025109 26/5/2022 19/9/2024 RECURSO CÍVEL Titular 107
+146 50009505220244025120 1/3/2024 17/6/2024 RECURSO CÍVEL Titular 201
+147 50009702720204025106 8/6/2020 2/5/2024 RECURSO CÍVEL Titular 247
+148 50009718320234025113 19/4/2023 6/7/2024 RECURSO CÍVEL Titular 182
+149 50009881220244025105 30/4/2024 15/8/2024 RECURSO CÍVEL Titular 142
+150 50009891020234025112 14/3/2023 15/5/2024 RECURSO CÍVEL Titular 234
+151 50010002620244025105 2/5/2024 15/10/2024 RECURSO CÍVEL Titular 81
+152 50010076720244025121 15/2/2024 25/9/2024 RECURSO CÍVEL Titular 101
+153 50010080320244025105 3/5/2024 5/11/2024 RECURSO CÍVEL Titular 60
+154 50010134320204025112 7/4/2020 7/8/2024 RECURSO CÍVEL Titular 150
+155 50010226320244025112 16/3/2024 27/8/2024 RECURSO CÍVEL Titular 130
+156 50010235420244025110 30/1/2024 2/7/2024 RECURSO CÍVEL Titular 186
+157 50010238920224025121 7/2/2022 17/6/2024 RECURSO CÍVEL Titular 201
+158 50010270320244025107 20/3/2024 20/9/2024 RECURSO CÍVEL Titular 106
+159 50010274320234025105 3/4/2023 1/3/2024 RECURSO CÍVEL Titular 309
+160 50010304020244025112 18/3/2024 6/8/2024 RECURSO CÍVEL Titular 151
+161 50010310720244025118 10/2/2024 4/10/2024 RECURSO CÍVEL Titular 92
+162 50010513820234025116 20/3/2023 6/8/2024 RECURSO CÍVEL Titular 151
+163 50010577520234025106 24/3/2023 29/4/2024 RECURSO CÍVEL Titular 250
+164 50010609120234025118 9/2/2023 28/3/2024 RECURSO CÍVEL Titular 282
+165 50010704120234025117 15/2/2023 28/6/2024 RECURSO CÍVEL Titular 190
+166 50010894920244025105 13/5/2024 25/10/2024 RECURSO CÍVEL Titular 71
+167 50010901320244025112 20/3/2024 15/10/2024 RECURSO CÍVEL Titular 81
+168 50010964720244025103 21/2/2024 8/10/2024 RECURSO CÍVEL Titular 88
+169 50010972420234025117 15/2/2023 4/4/2024 RECURSO CÍVEL Titular 275
+20
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+170 50011015220234025120 8/3/2023 14/5/2024 RECURSO CÍVEL Titular 235
+171 50011036420234025106 28/3/2023 22/4/2024 RECURSO CÍVEL Titular 257
+172 50011072520244025120 8/3/2024 20/8/2024 RECURSO CÍVEL Titular 137
+173 50011083120244025113 18/6/2024 5/11/2024 RECURSO CÍVEL Titular 60
+174 50011102320234025117 16/2/2023 2/7/2024 RECURSO CÍVEL Titular 186
+175 50011113520234025108 10/3/2023 24/6/2024 RECURSO CÍVEL Titular 194
+176 50011149620234025105 6/4/2023 17/6/2024 RECURSO CÍVEL Titular 201
+177 50011152320244025113 19/6/2024 25/10/2024 RECURSO CÍVEL Titular 71
+178 50011160520244025114 22/5/2024 22/10/2024 RECURSO CÍVEL Titular 74
+179 50011231320234025120 8/3/2023 18/10/2024 RECURSO CÍVEL Titular 78
+180 50011467720234025113 20/4/2023 14/12/2023 RECURSO CÍVEL Titular 355
+181 50011488720224025111 31/8/2022 31/7/2024 RECURSO CÍVEL Titular 157
+182 50011531220224025111 31/8/2022 31/7/2024 RECURSO CÍVEL Titular 157
+183 50011560920234025118 10/2/2023 1/5/2024 RECURSO CÍVEL Titular 248
+184 50011682220244025107 28/3/2024 29/10/2024 RECURSO CÍVEL Titular 67
+185 50011787220244025105 21/5/2024 17/9/2024 RECURSO CÍVEL Titular 109
+186 50011925020244025107 1/4/2024 21/10/2024 RECURSO CÍVEL Titular 75
+187 50011990620194025111 7/10/2019 19/2/2024 RECURSO CÍVEL Titular 320
+188 50012219520234025120 12/3/2023 30/9/2024 RECURSO CÍVEL Titular 96
+189 50012311820224025107 1/4/2022 6/7/2024 RECURSO CÍVEL Titular 182
+190 50012506520244025103 26/2/2024 26/10/2024 RECURSO CÍVEL Titular 70
+191 50012549020244025107 5/4/2024 27/9/2024 RECURSO CÍVEL Titular 99
+192 50012692620244025118 21/2/2024 3/9/2024 RECURSO CÍVEL Titular 123
+193 50012747820244025108 12/3/2024 29/10/2024 RECURSO CÍVEL Titular 67
+194 50012779620214025121 27/2/2021 19/7/2024 RECURSO CÍVEL Titular 169
+195 50012944520244025116 22/3/2024 13/8/2024 RECURSO CÍVEL Titular 144
+196 50012986820224025111 27/9/2022 1/7/2024 RECURSO CÍVEL Titular 187
+197 50013067620214025112 1/4/2021 2/7/2024 RECURSO CÍVEL Titular 186
+198 50013166520224025119 29/6/2022 23/8/2024 RECURSO CÍVEL Titular 134
+199 50013232820244025106 21/5/2024 30/8/2024 RECURSO CÍVEL Titular 127
+200 50013241320244025106 21/5/2024 22/10/2024 RECURSO CÍVEL Titular 74
+21
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+201 50013296620234025107 8/4/2023 18/6/2024 RECURSO CÍVEL Titular 200
+202 50013373120234025111 21/6/2023 30/8/2024 RECURSO CÍVEL Titular 127
+203 50013431720234025118 16/2/2023 17/4/2024 RECURSO CÍVEL Titular 262
+204 50013614020244025106 24/5/2024 25/10/2024 RECURSO CÍVEL Titular 71
+205 50013628720224025108 30/3/2022 17/8/2024 RECURSO CÍVEL Titular 140
+206 50013656520244025110 8/2/2024 15/10/2024 RECURSO CÍVEL Titular 81
+207 50013752420244025106 27/5/2024 16/8/2024 RECURSO CÍVEL Titular 141
+208 50014090920234025114 21/4/2023 29/10/2024 RECURSO CÍVEL Titular 67
+209 50014186420244025104 15/3/2024 2/7/2024 RECURSO CÍVEL Titular 186
+210 50014304020224025107 14/4/2022 19/3/2024 RECURSO CÍVEL Titular 291
+211 50014436820244025107 19/4/2024 24/9/2024 RECURSO CÍVEL Titular 102
+212 50014461520234025121 23/2/2023 3/10/2024 RECURSO CÍVEL Titular 93
+213 50014537020244025121 28/2/2024 2/9/2024 RECURSO CÍVEL Titular 124
+214 50014540920244025104 18/3/2024 4/10/2024 RECURSO CÍVEL Titular 92
+215 50014697820244025103 1/3/2024 5/11/2024 RECURSO CÍVEL Titular 60
+216 50014709720234025103 27/2/2023 5/6/2024 RECURSO CÍVEL Titular 213
+217 50014894820244025110 12/2/2024 27/8/2024 RECURSO CÍVEL Titular 130
+218 50014947020244025110 12/2/2024 2/8/2024 RECURSO CÍVEL Titular 155
+219 50014948820244025104 19/3/2024 15/10/2024 RECURSO CÍVEL Titular 81
+220 50015632420234025115 11/5/2023 5/3/2024 RECURSO CÍVEL Titular 305
+221 50015774520224025114 24/6/2022 26/2/2024 RECURSO CÍVEL Titular 313
+222 50015914620244025118 29/2/2024 9/10/2024 RECURSO CÍVEL Titular 87
+223 50016016120224025118 11/2/2022 16/4/2024 RECURSO CÍVEL Titular 263
+224 50016093120234025109 21/6/2023 23/2/2024 RECURSO CÍVEL Titular 316
+225 50016200520244025116 10/4/2024 26/9/2024 RECURSO CÍVEL Titular 100
+226 50016238720244025106 20/6/2024 14/10/2024 RECURSO CÍVEL Titular 82
+227 50016330520224025106 14/6/2022 9/5/2024 RECURSO CÍVEL Titular 240
+228 50016415520224025114 30/6/2022 24/4/2024 RECURSO CÍVEL Titular 255
+229 50016702520244025118 4/3/2024 14/10/2024 RECURSO CÍVEL Titular 82
+230 50016870620244025104 26/3/2024 16/9/2024 RECURSO CÍVEL Titular 110
+231 50016952020234025103 4/3/2023 6/7/2024 RECURSO CÍVEL Titular 182
+22
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+232 50017139820244025105 23/7/2024 24/9/2024 RECURSO CÍVEL Titular 102
+233 50017155720234025120 30/3/2023 6/2/2024 RECURSO CÍVEL Titular 333
+234 50017185420234025106 17/4/2023 2/9/2024 RECURSO CÍVEL Titular 124
+235 50017201520234025109 5/7/2023 13/5/2024 RECURSO CÍVEL Titular 236
+236 50017209420234025115 29/5/2023 23/9/2024 RECURSO CÍVEL Titular 103
+237 50017395520224025109 20/10/2022 18/6/2024 RECURSO CÍVEL Titular 200
+238 50017477020244025106 1/7/2024 30/9/2024 RECURSO CÍVEL Titular 96
+239 50017540920224025114 12/7/2022 12/7/2024 RECURSO CÍVEL Titular 176
+240 50017570920234025120 31/3/2023 25/6/2024 RECURSO CÍVEL Titular 193
+241 50017690220224025106 29/6/2022 9/2/2024 RECURSO CÍVEL Titular 330
+242 50017776320244025120 9/4/2024 4/10/2024 RECURSO CÍVEL Titular 92
+243 50017924120244025117 19/3/2024 2/10/2024 RECURSO CÍVEL Titular 94
+244 50018153920234025111 15/9/2023 30/10/2024 RECURSO CÍVEL Titular 66
+245 50018231620234025111 18/9/2023 30/8/2024 RECURSO CÍVEL Titular 127
+246 50018254520214025114 9/6/2021 19/7/2024 RECURSO CÍVEL Titular 169
+247 50018303320224025114 20/7/2022 29/10/2024 RECURSO CÍVEL Titular 67
+248 50018434720224025109 7/11/2022 2/3/2024 RECURSO CÍVEL Titular 308
+249 50018534520234025113 9/7/2023 23/7/2024 RECURSO CÍVEL Titular 165
+250 50018632820194025114 31/7/2019 24/4/2024 RECURSO CÍVEL Titular 255
+251 50018775420244025108 5/4/2024 10/5/2024 RECURSO CÍVEL Titular 239
+252 50018815520244025120 15/4/2024 15/10/2024 RECURSO CÍVEL Titular 81
+253 50019032220244025118 8/3/2024 26/8/2024 RECURSO CÍVEL Titular 131
+254 50019172520224025102 25/3/2022 30/4/2024 RECURSO CÍVEL Titular 249
+255 50019173020244025110 26/2/2024 9/8/2024 RECURSO CÍVEL Titular 148
+256 50019248920244025120 17/4/2024 22/10/2024 RECURSO CÍVEL Titular 74
+257 50019328020214025117 25/3/2021 18/12/2023 RECURSO CÍVEL Titular 351
+258 50019380720234025121 8/3/2023 24/7/2024 RECURSO CÍVEL Titular 164
+259 50019428720224025118 18/2/2022 10/5/2024 RECURSO CÍVEL Titular 239
+260 50019458420224025104 21/3/2022 16/5/2024 RECURSO CÍVEL Titular 233
+261 50019518420244025116 30/4/2024 30/9/2024 RECURSO CÍVEL Titular 96
+262 50019548220234025113 20/7/2023 17/6/2024 RECURSO CÍVEL Titular 201
+23
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+263 50019720220244025103 14/3/2024 19/8/2024 RECURSO CÍVEL Titular 138
+264 50019769820224025106 19/7/2022 9/7/2024 RECURSO CÍVEL Titular 179
+265 50019828120224025114 3/8/2022 27/2/2024 RECURSO CÍVEL Titular 312
+266 50020030220234025121 9/3/2023 19/9/2024 RECURSO CÍVEL Titular 107
+267 50020225920234025104 20/3/2023 18/10/2024 RECURSO CÍVEL Titular 78
+268 50020327620234025113 28/7/2023 28/5/2024 RECURSO CÍVEL Titular 221
+269 50020379820234025113 28/7/2023 16/8/2024 RECURSO CÍVEL Titular 141
+270 50020673620234025113 1/8/2023 29/4/2024 RECURSO CÍVEL Titular 250
+271 50020800420244025112 22/5/2024 24/9/2024 RECURSO CÍVEL Titular 102
+272 50020810820234025117 22/3/2023 29/10/2024 RECURSO CÍVEL Titular 67
+273 50020811320244025104 16/4/2024 17/9/2024 RECURSO CÍVEL Titular 109
+274 50020900920234025104 21/3/2023 7/2/2024 RECURSO CÍVEL Titular 332
+275 50021006820244025120 26/4/2024 30/9/2024 RECURSO CÍVEL Titular 96
+276 50021051720244025112 22/5/2024 30/9/2024 RECURSO CÍVEL Titular 96
+277 50021245320204025115 18/12/2020 26/1/2024 RECURSO CÍVEL Titular 344
+278 50021329520224025103 30/3/2022 4/3/2024 RECURSO CÍVEL Titular 306
+279 50021349820234025113 10/8/2023 13/6/2024 RECURSO CÍVEL Titular 205
+280 50021354020244025116 10/5/2024 10/9/2024 RECURSO CÍVEL Titular 116
+281 50021389320224025106 2/8/2022 1/3/2024 RECURSO CÍVEL Titular 309
+282 50021421120234025102 17/3/2023 25/7/2024 RECURSO CÍVEL Titular 163
+283 50021516820224025114 19/8/2022 3/6/2024 RECURSO CÍVEL Titular 215
+284 50021608920244025104 18/4/2024 9/10/2024 RECURSO CÍVEL Titular 87
+285 50021731020234025109 13/9/2023 9/7/2024 RECURSO CÍVEL Titular 179
+286 50021776620224025114 22/8/2022 31/7/2024 RECURSO CÍVEL Titular 157
+287 50022081920224025104 28/3/2022 25/10/2024 RECURSO CÍVEL Titular 71
+288 50022707420234025120 20/4/2023 8/5/2024 RECURSO CÍVEL Titular 241
+289 50022812720234025113 30/8/2023 2/9/2024 RECURSO CÍVEL Titular 124
+290 50022951120234025113 31/8/2023 31/10/2024 RECURSO CÍVEL Titular 65
+291 50023031520234025104 27/3/2023 18/6/2024 RECURSO CÍVEL Titular 200
+292 50023108320234025111 29/11/2023 30/10/2024 RECURSO CÍVEL Titular 66
+293 50023173720214025114 6/7/2021 19/8/2024 RECURSO CÍVEL Titular 138
+24
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+294 50023236420234025117 28/3/2023 2/9/2024 RECURSO CÍVEL Titular 124
+295 50023251520244025112 6/6/2024 9/10/2024 RECURSO CÍVEL Titular 87
+296 50023274620234025103 23/3/2023 6/7/2024 RECURSO CÍVEL Titular 182
+297 50023398120244025117 9/4/2024 3/10/2024 RECURSO CÍVEL Titular 93
+298 50023571920214025114 8/7/2021 23/10/2024 RECURSO CÍVEL Titular 73
+299 50023685020224025102 7/4/2022 3/10/2024 RECURSO CÍVEL Titular 93
+300 50023893120244025110 8/3/2024 12/8/2024 RECURSO CÍVEL Titular 145
+301 50023959120224025115 4/10/2022 3/4/2024 RECURSO CÍVEL Titular 276
+302 50024125020244025118 22/3/2024 13/8/2024 RECURSO CÍVEL Titular 144
+303 50024159020234025101 16/1/2023 9/7/2024 RECURSO CÍVEL Titular 179
+304 50024452520234025102 23/3/2023 2/8/2024 RECURSO CÍVEL Titular 155
+305 50024552420234025117 31/3/2023 18/6/2024 RECURSO CÍVEL Titular 200
+306 50024620720234025120 27/4/2023 8/5/2024 RECURSO CÍVEL Titular 241
+307 50024720820234025102 24/3/2023 16/8/2024 RECURSO CÍVEL Titular 141
+308 50024762420234025109 31/10/2023 21/6/2024 RECURSO CÍVEL Titular 197
+309 50024785420244025110 11/3/2024 23/9/2024 RECURSO CÍVEL Titular 103
+310 50024965420244025117 15/4/2024 16/9/2024 RECURSO CÍVEL Titular 110
+311 50025047320244025103 2/4/2024 2/8/2024 RECURSO CÍVEL Titular 155
+312 50025147220244025118 26/3/2024 5/11/2024 RECURSO CÍVEL Titular 60
+313 50025173020244025117 16/4/2024 23/9/2024 RECURSO CÍVEL Titular 103
+314 50025366420234025119 2/10/2023 29/8/2024 RECURSO CÍVEL Titular 128
+315 50025506620234025113 3/10/2023 8/7/2024 RECURSO CÍVEL Titular 180
+316 50025617720234025119 5/10/2023 5/9/2024 RECURSO CÍVEL Titular 121
+317 50025708820224025114 4/10/2022 18/4/2024 RECURSO CÍVEL Titular 261
+318 50026015320234025121 22/3/2023 19/9/2024 RECURSO CÍVEL Titular 107
+319 50026302620244025103 5/4/2024 21/10/2024 RECURSO CÍVEL Titular 75
+320 50026443820234025105 14/6/2023 25/3/2024 RECURSO CÍVEL Titular 285
+321 50026593420244025117 20/4/2024 22/10/2024 RECURSO CÍVEL Titular 74
+322 50026632020234025113 18/10/2023 24/9/2024 RECURSO CÍVEL Titular 102
+323 50026914320224025106 20/9/2022 18/6/2024 RECURSO CÍVEL Titular 200
+324 50027004720234025113 21/10/2023 2/8/2024 RECURSO CÍVEL Titular 155
+25
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+325 50027013220234025113 22/10/2023 9/8/2024 RECURSO CÍVEL Titular 148
+326 50027167720234025120 10/5/2023 9/8/2024 RECURSO CÍVEL Titular 148
+327 50027228420234025120 10/5/2023 6/7/2024 RECURSO CÍVEL Titular 182
+328 50027356120244025116 11/6/2024 4/10/2024 RECURSO CÍVEL Titular 92
+329 50027363120244025121 8/4/2024 18/9/2024 RECURSO CÍVEL Titular 108
+330 50027622320234025102 31/3/2023 1/10/2024 RECURSO CÍVEL Titular 95
+331 50027679420234025118 24/3/2023 15/2/2024 RECURSO CÍVEL Titular 324
+332 50027946720244025110 19/3/2024 19/8/2024 RECURSO CÍVEL Titular 138
+333 50027980320214025113 3/12/2021 2/5/2024 RECURSO CÍVEL Titular 247
+334 50027982520244025104 15/5/2024 30/10/2024 RECURSO CÍVEL Titular 66
+335 50028018620244025101 17/1/2024 7/10/2024 RECURSO CÍVEL Titular 89
+336 50028040320224025104 15/4/2022 10/6/2024 RECURSO CÍVEL Titular 208
+337 50028234220234025114 6/9/2023 31/7/2024 RECURSO CÍVEL Titular 157
+338 50028294920234025114 6/9/2023 29/10/2024 RECURSO CÍVEL Titular 67
+339 50028398920244025104 16/5/2024 22/10/2024 RECURSO CÍVEL Titular 74
+340 50028583620224025114 9/11/2022 26/1/2024 RECURSO CÍVEL Titular 344
+341 50028900720234025114 14/9/2023 29/10/2024 RECURSO CÍVEL Titular 67
+342 50029109120244025104 20/5/2024 30/9/2024 RECURSO CÍVEL Titular 96
+343 50029168120234025121 28/3/2023 18/6/2024 RECURSO CÍVEL Titular 200
+344 50029180820234025103 5/4/2023 22/2/2024 RECURSO CÍVEL Titular 317
+345 50029239320244025103 16/4/2024 22/10/2024 RECURSO CÍVEL Titular 74
+346 50029423020234025105 6/7/2023 6/2/2024 RECURSO CÍVEL Titular 333
+347 50029463620244025104 21/5/2024 14/8/2024 RECURSO CÍVEL Titular 143
+348 50029594220234025113 17/11/2023 9/10/2024 RECURSO CÍVEL Titular 87
+349 50029932620234025110 10/3/2023 14/6/2024 RECURSO CÍVEL Titular 204
+350 50030083420244025118 10/4/2024 9/10/2024 RECURSO CÍVEL Titular 87
+351 50030264920244025120 10/6/2024 25/10/2024 RECURSO CÍVEL Titular 71
+352 50030289220234025107 6/6/2023 14/8/2024 RECURSO CÍVEL Titular 143
+353 50030316020224025114 30/11/2022 30/10/2024 RECURSO CÍVEL Titular 66
+354 50030359720224025114 30/11/2022 29/10/2024 RECURSO CÍVEL Titular 67
+355 50030441420214025108 2/6/2021 4/11/2024 RECURSO CÍVEL Titular 61
+26
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+356 50030454020234025104 12/4/2023 30/1/2024 RECURSO CÍVEL Titular 340
+357 50030908920244025110 26/3/2024 25/9/2024 RECURSO CÍVEL Titular 101
+358 50030986420224025101 21/1/2022 4/7/2024 RECURSO CÍVEL Titular 184
+359 50031050820224025117 20/4/2022 18/6/2024 RECURSO CÍVEL Titular 200
+360 50031245620224025103 9/5/2022 15/3/2024 RECURSO CÍVEL Titular 295
+361 50031397920234025106 31/5/2023 28/2/2024 RECURSO CÍVEL Titular 311
+362 50031653720244025108 7/6/2024 25/10/2024 RECURSO CÍVEL Titular 71
+363 50031683820234025104 13/4/2023 5/3/2024 RECURSO CÍVEL Titular 305
+364 50031733120214025104 3/5/2021 2/2/2024 RECURSO CÍVEL Titular 337
+365 50031785520234025113 15/12/2023 27/8/2024 RECURSO CÍVEL Titular 130
+366 50032049520244025120 19/6/2024 17/9/2024 RECURSO CÍVEL Titular 109
+367 50032385520234025104 14/4/2023 5/3/2024 RECURSO CÍVEL Titular 305
+368 50032441120234025121 4/4/2023 27/9/2024 RECURSO CÍVEL Titular 99
+369 50032446020224025116 1/10/2022 29/10/2024 RECURSO CÍVEL Titular 67
+370 50032547320234025115 27/10/2023 28/5/2024 RECURSO CÍVEL Titular 221
+371 50033250220234025107 28/6/2023 11/5/2024 RECURSO CÍVEL Titular 238
+372 50033273020234025120 6/6/2023 24/9/2024 RECURSO CÍVEL Titular 102
+373 50033312120234025103 14/4/2023 23/4/2024 RECURSO CÍVEL Titular 256
+374 50033471720244025110 1/4/2024 28/10/2024 RECURSO CÍVEL Titular 68
+375 50033553720234025107 30/6/2023 2/10/2024 RECURSO CÍVEL Titular 94
+376 50033727720224025117 29/4/2022 5/9/2024 RECURSO CÍVEL Titular 121
+377 50033897020234025120 9/6/2023 7/6/2024 RECURSO CÍVEL Titular 211
+378 50034192620234025114 6/11/2023 29/10/2024 RECURSO CÍVEL Titular 67
+379 50034256620234025103 17/4/2023 28/5/2024 RECURSO CÍVEL Titular 221
+380 50034451520234025117 17/4/2023 6/10/2024 RECURSO CÍVEL Titular 90
+381 50034564920244025104 17/6/2024 19/8/2024 RECURSO CÍVEL Titular 138
+382 50034603220234025101 19/1/2023 22/4/2024 RECURSO CÍVEL Titular 257
+383 50034796020224025105 30/11/2022 3/2/2024 RECURSO CÍVEL Titular 336
+384 50034913520224025118 29/3/2022 14/6/2024 RECURSO CÍVEL Titular 204
+385 50035000220234025105 23/8/2023 26/1/2024 RECURSO CÍVEL Titular 344
+386 50035289420244025117 26/5/2024 13/9/2024 RECURSO CÍVEL Titular 113
+27
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+387 50035346820234025107 12/7/2023 10/7/2024 RECURSO CÍVEL Titular 178
+388 50035450620234025105 28/8/2023 1/3/2024 RECURSO CÍVEL Titular 309
+389 50035456420234025118 6/4/2023 4/10/2024 RECURSO CÍVEL Titular 92
+390 50035735720224025121 18/4/2022 13/6/2024 RECURSO CÍVEL Titular 205
+391 50035742620234025115 6/12/2023 15/3/2024 RECURSO CÍVEL Titular 295
+392 50035977220234025114 24/11/2023 30/10/2024 RECURSO CÍVEL Titular 66
+393 50036210820244025101 22/1/2024 18/8/2024 RECURSO CÍVEL Titular 139
+394 50037015820234025116 19/5/2023 26/1/2024 RECURSO CÍVEL Titular 344
+395 50037332320244025118 2/5/2024 29/10/2024 RECURSO CÍVEL Titular 67
+396 50037381820234025106 24/7/2023 9/5/2024 RECURSO CÍVEL Titular 240
+397 50037421320234025120 26/6/2023 25/6/2024 RECURSO CÍVEL Titular 193
+398 50037442220234025107 27/7/2023 3/8/2024 RECURSO CÍVEL Titular 154
+399 50038152520224025118 6/4/2022 8/2/2024 RECURSO CÍVEL Titular 331
+400 50038172420244025118 6/5/2024 1/10/2024 RECURSO CÍVEL Titular 95
+401 50038409520234025120 29/6/2023 4/9/2024 RECURSO CÍVEL Titular 122
+402 50038722120234025114 28/12/2023 19/10/2024 RECURSO CÍVEL Titular 77
+403 50038794620234025103 19/4/2023 13/7/2024 RECURSO CÍVEL Titular 175
+404 50038820720234025101 21/1/2023 16/10/2024 RECURSO CÍVEL Titular 80
+405 50039170720234025120 3/7/2023 2/2/2024 RECURSO CÍVEL Titular 337
+406 50039226820234025107 7/8/2023 2/3/2024 RECURSO CÍVEL Titular 308
+407 50039512120234025107 9/8/2023 26/3/2024 RECURSO CÍVEL Titular 284
+408 50040292120234025105 5/10/2023 13/7/2024 RECURSO CÍVEL Titular 175
+409 50040752220234025101 23/1/2023 7/8/2024 RECURSO CÍVEL Titular 150
+410 50040829620234025106 22/8/2023 26/2/2024 RECURSO CÍVEL Titular 313
+411 50040887820244025103 25/5/2024 31/7/2024 RECURSO CÍVEL Titular 157
+412 50040954820214025112 16/7/2021 16/10/2024 RECURSO CÍVEL Titular 80
+413 50041366620224025116 1/12/2022 11/7/2024 RECURSO CÍVEL Titular 177
+414 50041409620234025107 22/8/2023 15/10/2024 RECURSO CÍVEL Titular 81
+415 50042291920234025108 14/6/2023 21/5/2024 RECURSO CÍVEL Titular 228
+416 50042751120234025107 29/8/2023 16/7/2024 RECURSO CÍVEL Titular 172
+417 50043295820244025101 24/1/2024 26/9/2024 RECURSO CÍVEL Titular 100
+28
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+418 50043714520224025112 24/10/2022 18/6/2024 RECURSO CÍVEL Titular 200
+419 50043780220244025101 24/1/2024 29/5/2024 RECURSO CÍVEL Titular 220
+420 50044024920234025106 15/9/2023 16/4/2024 RECURSO CÍVEL Titular 263
+421 50044177320234025120 26/7/2023 21/2/2024 RECURSO CÍVEL Titular 318
+422 50044201320224025104 11/5/2022 26/3/2024 RECURSO CÍVEL Titular 284
+423 50044974920234025116 29/6/2023 3/6/2024 RECURSO CÍVEL Titular 215
+424 50045307220234025105 20/11/2023 10/9/2024 RECURSO CÍVEL Titular 116
+425 50045392920224025118 28/4/2022 26/10/2024 RECURSO CÍVEL Titular 70
+426 50045435020234025112 27/7/2023 9/8/2024 RECURSO CÍVEL Titular 148
+427 50045649620234025121 17/4/2023 27/9/2024 RECURSO CÍVEL Titular 99
+428 50045875420234025117 24/4/2023 2/10/2024 RECURSO CÍVEL Titular 94
+429 50046042320234025107 20/9/2023 10/7/2024 RECURSO CÍVEL Titular 178
+430 50046297720214025116 25/8/2021 4/7/2024 RECURSO CÍVEL Titular 184
+431 50046432020234025107 21/9/2023 12/7/2024 RECURSO CÍVEL Titular 176
+432 50046491220234025112 2/8/2023 9/7/2024 RECURSO CÍVEL Titular 179
+433 50046541920234025117 25/4/2023 31/7/2024 RECURSO CÍVEL Titular 157
+434 50046587020244025101 25/1/2024 12/7/2024 RECURSO CÍVEL Titular 176
+435 50046907620234025112 3/8/2023 7/5/2024 RECURSO CÍVEL Titular 242
+436 50047557020244025101 26/1/2024 18/9/2024 RECURSO CÍVEL Titular 108
+437 50047705720204025108 18/12/2020 6/9/2024 RECURSO CÍVEL Titular 120
+438 50048250720224025118 5/5/2022 22/2/2024 RECURSO CÍVEL Titular 317
+439 50048764820224025108 12/10/2022 3/7/2024 RECURSO CÍVEL Titular 185
+440 50048788420234025107 5/10/2023 16/9/2024 RECURSO CÍVEL Titular 110
+441 50049014920224025112 2/12/2022 23/10/2024 RECURSO CÍVEL Titular 73
+442 50049108620234025108 13/7/2023 17/9/2024 RECURSO CÍVEL Titular 109
+443 50049264920234025105 20/12/2023 30/7/2024 RECURSO CÍVEL Titular 158
+444 50049273120234025106 27/10/2023 26/1/2024 RECURSO CÍVEL Titular 344
+445 50049825120244025104 22/8/2024 15/10/2024 RECURSO CÍVEL Titular 81
+446 50050009420234025108 18/7/2023 30/8/2024 RECURSO CÍVEL Titular 127
+447 50050070920204025103 16/10/2020 22/8/2024 RECURSO CÍVEL Titular 135
+448 50050241320234025112 17/8/2023 5/2/2024 RECURSO CÍVEL Titular 334
+29
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+449 50050408320224025117 22/6/2022 29/2/2024 RECURSO CÍVEL Titular 310
+450 50050412020214025112 25/8/2021 24/10/2024 RECURSO CÍVEL Titular 72
+451 50050416820224025117 22/6/2022 26/2/2024 RECURSO CÍVEL Titular 313
+452 50050464720234025120 23/8/2023 13/8/2024 RECURSO CÍVEL Titular 144
+453 50050542020244025110 14/5/2024 4/10/2024 RECURSO CÍVEL Titular 92
+454 50050813820224025121 7/6/2022 5/8/2024 RECURSO CÍVEL Titular 152
+455 50051187720224025117 24/6/2022 22/10/2024 RECURSO CÍVEL Titular 74
+456 50051264220224025121 8/6/2022 21/6/2024 RECURSO CÍVEL Titular 197
+457 50051341220234025112 23/8/2023 28/10/2024 RECURSO CÍVEL Titular 68
+458 50052057820224025102 22/7/2022 1/10/2024 RECURSO CÍVEL Titular 95
+459 50053266020234025106 4/12/2023 2/5/2024 RECURSO CÍVEL Titular 247
+460 50053638720234025106 8/12/2023 15/7/2024 RECURSO CÍVEL Titular 173
+461 50054054820234025103 16/5/2023 13/6/2024 RECURSO CÍVEL Titular 205
+462 50054327720234025120 11/9/2023 23/7/2024 RECURSO CÍVEL Titular 165
+463 50054357420234025106 15/12/2023 7/6/2024 RECURSO CÍVEL Titular 211
+464 50054872820234025120 12/9/2023 5/6/2024 RECURSO CÍVEL Titular 213
+465 50055013620234025112 13/9/2023 9/9/2024 RECURSO CÍVEL Titular 117
+466 50055084320234025107 15/11/2023 13/6/2024 RECURSO CÍVEL Titular 205
+467 50055101020234025108 10/8/2023 5/7/2024 RECURSO CÍVEL Titular 183
+468 50055499120244025101 30/1/2024 15/10/2024 RECURSO CÍVEL Titular 81
+469 50056040720224025103 4/8/2022 21/6/2024 RECURSO CÍVEL Titular 197
+470 50056200920234025108 16/8/2023 1/10/2024 RECURSO CÍVEL Titular 95
+471 50056313320224025121 28/6/2022 2/8/2024 RECURSO CÍVEL Titular 155
+472 50056336920234025120 19/9/2023 9/9/2024 RECURSO CÍVEL Titular 117
+473 50056487720234025107 27/11/2023 15/10/2024 RECURSO CÍVEL Titular 81
+474 50056589420234025116 26/8/2023 3/5/2024 RECURSO CÍVEL Titular 246
+475 50056894420234025107 29/11/2023 16/9/2024 RECURSO CÍVEL Titular 110
+476 50057396220224025121 30/6/2022 17/7/2024 RECURSO CÍVEL Titular 171
+477 50057838020234025110 13/4/2023 21/6/2024 RECURSO CÍVEL Titular 197
+478 50057846620224025121 4/7/2022 21/6/2024 RECURSO CÍVEL Titular 197
+479 50058018320234025116 31/8/2023 29/5/2024 RECURSO CÍVEL Titular 220
+30
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+480 50058037220224025121 4/7/2022 16/10/2024 RECURSO CÍVEL Titular 80
+481 50058234420234025116 1/9/2023 11/7/2024 RECURSO CÍVEL Titular 177
+482 50058613920214025112 28/9/2021 26/1/2024 RECURSO CÍVEL Titular 344
+483 50058944320234025117 30/5/2023 26/9/2024 RECURSO CÍVEL Titular 100
+484 50058961620234025116 6/9/2023 5/11/2024 RECURSO CÍVEL Titular 60
+485 50059064820234025120 29/9/2023 12/8/2024 RECURSO CÍVEL Titular 145
+486 50059389220234025107 14/12/2023 6/8/2024 RECURSO CÍVEL Titular 151
+487 50060202620234025107 19/12/2023 20/9/2024 RECURSO CÍVEL Titular 106
+488 50060246320234025107 19/12/2023 15/10/2024 RECURSO CÍVEL Titular 81
+489 50060489220224025118 6/6/2022 28/8/2024 RECURSO CÍVEL Titular 129
+490 50060520420234025116 15/9/2023 18/7/2024 RECURSO CÍVEL Titular 170
+491 50060822720234025120 10/10/2023 19/8/2024 RECURSO CÍVEL Titular 138
+492 50060844820234025103 31/5/2023 11/4/2024 RECURSO CÍVEL Titular 268
+493 50060997220234025117 5/6/2023 11/4/2024 RECURSO CÍVEL Titular 268
+494 50061136320214025105 24/11/2021 6/2/2024 RECURSO CÍVEL Titular 333
+495 50061241020224025121 15/7/2022 29/7/2024 RECURSO CÍVEL Titular 159
+496 50061492320224025121 15/7/2022 15/7/2024 RECURSO CÍVEL Titular 173
+497 50061769620234025112 18/10/2023 20/9/2024 RECURSO CÍVEL Titular 106
+498 50061812020244025101 1/2/2024 17/7/2024 RECURSO CÍVEL Titular 171
+499 50061857720224025117 1/8/2022 22/4/2024 RECURSO CÍVEL Titular 257
+500 50062021320224025118 9/6/2022 11/4/2024 RECURSO CÍVEL Titular 268
+501 50062143020224025117 2/8/2022 18/3/2024 RECURSO CÍVEL Titular 292
+502 50062340220234025112 20/10/2023 9/7/2024 RECURSO CÍVEL Titular 179
+503 50062450720234025120 18/10/2023 30/7/2024 RECURSO CÍVEL Titular 158
+504 50062823420234025120 19/10/2023 17/9/2024 RECURSO CÍVEL Titular 109
+505 50062956420224025121 20/7/2022 11/10/2024 RECURSO CÍVEL Titular 85
+506 50063014920234025117 9/6/2023 19/6/2024 RECURSO CÍVEL Titular 199
+507 50063078320234025108 16/9/2023 20/9/2024 RECURSO CÍVEL Titular 106
+508 50063096820234025103 6/6/2023 30/1/2024 RECURSO CÍVEL Titular 340
+509 50063476020224025121 21/7/2022 2/8/2024 RECURSO CÍVEL Titular 155
+510 50063572420234025104 30/5/2023 14/6/2024 RECURSO CÍVEL Titular 204
+31
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+511 50063841020234025103 8/6/2023 28/6/2024 RECURSO CÍVEL Titular 190
+512 50064191620234025120 25/10/2023 29/10/2024 RECURSO CÍVEL Titular 67
+513 50064469620234025120 26/10/2023 23/10/2024 RECURSO CÍVEL Titular 73
+514 50064926520214025117 10/6/2021 2/9/2024 RECURSO CÍVEL Titular 124
+515 50065145520234025117 15/6/2023 8/5/2024 RECURSO CÍVEL Titular 241
+516 50065451720234025104 5/6/2023 16/7/2024 RECURSO CÍVEL Titular 172
+517 50065535520234025116 9/10/2023 10/5/2024 RECURSO CÍVEL Titular 239
+518 50065735820234025112 8/11/2023 27/5/2024 RECURSO CÍVEL Titular 222
+519 50066029620234025116 11/10/2023 17/5/2024 RECURSO CÍVEL Titular 232
+520 50066196320224025118 22/6/2022 15/7/2024 RECURSO CÍVEL Titular 173
+521 50066548020234025120 7/11/2023 16/9/2024 RECURSO CÍVEL Titular 110
+522 50066629720224025118 23/6/2022 12/4/2024 RECURSO CÍVEL Titular 267
+523 50066706520224025121 1/8/2022 21/6/2024 RECURSO CÍVEL Titular 197
+524 50066992320234025108 29/9/2023 27/9/2024 RECURSO CÍVEL Titular 99
+525 50068228920214025108 25/10/2021 16/7/2024 RECURSO CÍVEL Titular 172
+526 50068527720234025101 2/2/2023 17/7/2024 RECURSO CÍVEL Titular 171
+527 50068925320234025103 26/6/2023 21/6/2024 RECURSO CÍVEL Titular 197
+528 50069549020234025104 21/6/2023 28/10/2024 RECURSO CÍVEL Titular 68
+529 50069570620234025117 28/6/2023 5/8/2024 RECURSO CÍVEL Titular 152
+530 50069583620234025102 19/5/2023 23/10/2024 RECURSO CÍVEL Titular 73
+531 50069589120234025116 26/10/2023 9/5/2024 RECURSO CÍVEL Titular 240
+532 50069824120224025121 10/8/2022 19/1/2024 RECURSO CÍVEL Titular 349
+533 50070201320224025102 22/9/2022 2/8/2024 RECURSO CÍVEL Titular 155
+534 50070453520234025120 27/11/2023 12/6/2024 RECURSO CÍVEL Titular 206
+535 50070929720224025102 23/9/2022 22/3/2024 RECURSO CÍVEL Titular 288
+536 50071166120234025112 8/12/2023 19/8/2024 RECURSO CÍVEL Titular 138
+537 50071236520234025108 19/10/2023 16/4/2024 RECURSO CÍVEL Titular 263
+538 50071382220234025112 12/12/2023 6/8/2024 RECURSO CÍVEL Titular 151
+539 50071506620234025102 24/5/2023 2/10/2024 RECURSO CÍVEL Titular 94
+540 50071514020224025117 31/8/2022 26/7/2024 RECURSO CÍVEL Titular 162
+541 50071561620234025121 28/4/2023 15/7/2024 RECURSO CÍVEL Titular 173
+32
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+542 50071679120224025117 1/9/2022 3/9/2024 RECURSO CÍVEL Titular 123
+543 50072108220234025120 4/12/2023 24/9/2024 RECURSO CÍVEL Titular 102
+544 50072145820234025108 23/10/2023 29/7/2024 RECURSO CÍVEL Titular 159
+545 50072162820234025108 23/10/2023 23/7/2024 RECURSO CÍVEL Titular 165
+546 50072185620234025121 2/5/2023 2/9/2024 RECURSO CÍVEL Titular 124
+547 50073368620234025103 7/7/2023 19/3/2024 RECURSO CÍVEL Titular 291
+548 50073440920234025121 4/5/2023 1/4/2024 RECURSO CÍVEL Titular 278
+549 50073787520224025102 4/10/2022 26/4/2024 RECURSO CÍVEL Titular 253
+550 50073988720234025116 17/11/2023 11/6/2024 RECURSO CÍVEL Titular 207
+551 50074022720234025116 17/11/2023 10/6/2024 RECURSO CÍVEL Titular 208
+552 50075356320234025118 19/5/2023 1/5/2024 RECURSO CÍVEL Titular 248
+553 50075996420234025121 10/5/2023 5/9/2024 RECURSO CÍVEL Titular 121
+554 50076256720204025121 22/10/2020 14/5/2024 RECURSO CÍVEL Titular 235
+555 50076360420214025108 6/12/2021 8/2/2024 RECURSO CÍVEL Titular 331
+556 50076628920234025121 11/5/2023 22/2/2024 RECURSO CÍVEL Titular 317
+557 50076815220234025103 17/7/2023 26/6/2024 RECURSO CÍVEL Titular 192
+558 50077278420234025121 12/5/2023 23/8/2024 RECURSO CÍVEL Titular 134
+559 50077322420234025116 5/12/2023 18/9/2024 RECURSO CÍVEL Titular 108
+560 50077416220224025102 18/10/2022 19/10/2024 RECURSO CÍVEL Titular 77
+561 50077990820224025121 2/9/2022 22/8/2024 RECURSO CÍVEL Titular 135
+562 50077998620234025116 7/12/2023 1/10/2024 RECURSO CÍVEL Titular 95
+563 50078018020234025108 20/11/2023 24/9/2024 RECURSO CÍVEL Titular 102
+564 50078023520234025118 24/5/2023 28/5/2024 RECURSO CÍVEL Titular 221
+565 50078213120244025110 18/7/2024 13/9/2024 RECURSO CÍVEL Titular 113
+566 50078425120224025118 26/7/2022 18/4/2024 RECURSO CÍVEL Titular 261
+567 50078481520234025121 15/5/2023 22/3/2024 RECURSO CÍVEL Titular 288
+568 50078656120214025108 15/12/2021 16/8/2024 RECURSO CÍVEL Titular 141
+569 50078969720244025101 8/2/2024 9/9/2024 RECURSO CÍVEL Titular 117
+570 50079058420234025104 21/7/2023 4/4/2024 RECURSO CÍVEL Titular 275
+571 50079585320234025108 27/11/2023 30/4/2024 RECURSO CÍVEL Titular 249
+572 50079676420224025103 21/10/2022 23/2/2024 RECURSO CÍVEL Titular 316
+33
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+573 50080457620234025118 30/5/2023 12/3/2024 RECURSO CÍVEL Titular 298
+574 50080837020224025103 26/10/2022 2/5/2024 RECURSO CÍVEL Titular 247
+575 50080873120234025117 26/7/2023 11/10/2024 RECURSO CÍVEL Titular 85
+576 50080885520234025104 27/7/2023 24/7/2024 RECURSO CÍVEL Titular 164
+577 50081067920234025103 25/7/2023 6/2/2024 RECURSO CÍVEL Titular 333
+578 50081103320214025121 23/6/2021 4/5/2024 RECURSO CÍVEL Titular 245
+579 50081116220234025116 28/12/2023 12/7/2024 RECURSO CÍVEL Titular 176
+580 50081146920224025110 8/9/2022 8/4/2024 RECURSO CÍVEL Titular 271
+581 50081448320224025117 4/10/2022 20/6/2024 RECURSO CÍVEL Titular 198
+582 50081872520234025104 1/8/2023 29/7/2024 RECURSO CÍVEL Titular 159
+583 50082103420204025117 9/11/2020 7/2/2024 RECURSO CÍVEL Titular 332
+584 50082271020234025103 27/7/2023 25/2/2024 RECURSO CÍVEL Titular 314
+585 50082366920234025103 27/7/2023 27/10/2024 RECURSO CÍVEL Titular 69
+586 50082588220234025118 2/6/2023 9/5/2024 RECURSO CÍVEL Titular 240
+587 50082772120194025121 24/9/2019 6/5/2024 RECURSO CÍVEL Titular 243
+588 50082811320224025102 9/11/2022 30/4/2024 RECURSO CÍVEL Titular 249
+589 50083166420224025104 4/10/2022 12/6/2024 RECURSO CÍVEL Titular 206
+590 50083196820224025120 23/8/2022 29/4/2024 RECURSO CÍVEL Titular 250
+591 50083790420234025121 26/5/2023 14/8/2024 RECURSO CÍVEL Titular 143
+592 50083977120224025117 14/10/2022 29/7/2024 RECURSO CÍVEL Titular 159
+593 50084278620244025101 15/2/2024 18/8/2024 RECURSO CÍVEL Titular 139
+594 50084389820234025118 7/6/2023 11/8/2024 RECURSO CÍVEL Titular 146
+595 50085137020234025108 19/12/2023 18/6/2024 RECURSO CÍVEL Titular 200
+596 50085204520214025104 29/6/2021 29/7/2024 RECURSO CÍVEL Titular 159
+597 50086077020224025102 22/11/2022 12/6/2024 RECURSO CÍVEL Titular 206
+598 50086376820234025103 8/8/2023 30/4/2024 RECURSO CÍVEL Titular 249
+599 50086799720224025121 29/9/2022 2/8/2024 RECURSO CÍVEL Titular 155
+600 50086929620224025121 30/9/2022 27/7/2024 RECURSO CÍVEL Titular 161
+601 50087960820234025104 22/8/2023 26/4/2024 RECURSO CÍVEL Titular 253
+602 50088281320234025104 23/8/2023 18/10/2024 RECURSO CÍVEL Titular 78
+603 50088372120234025121 7/6/2023 16/8/2024 RECURSO CÍVEL Titular 141
+34
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+604 50088836720234025102 15/7/2023 19/10/2024 RECURSO CÍVEL Titular 77
+605 50088897120234025103 15/8/2023 21/6/2024 RECURSO CÍVEL Titular 197
+606 50088966320234025103 15/8/2023 22/8/2024 RECURSO CÍVEL Titular 135
+607 50089017720224025117 1/11/2022 21/6/2024 RECURSO CÍVEL Titular 197
+608 50089389220224025121 7/10/2022 14/5/2024 RECURSO CÍVEL Titular 235
+609 50089442820234025101 10/2/2023 9/7/2024 RECURSO CÍVEL Titular 179
+610 50089468620234025104 28/8/2023 21/6/2024 RECURSO CÍVEL Titular 197
+611 50089532720234025121 12/6/2023 30/10/2024 RECURSO CÍVEL Titular 66
+612 50089646820234025117 18/8/2023 3/9/2024 RECURSO CÍVEL Titular 123
+613 50089987720224025117 5/11/2022 14/8/2024 RECURSO CÍVEL Titular 143
+614 50090307020224025121 11/10/2022 11/3/2024 RECURSO CÍVEL Titular 299
+615 50090480620224025117 8/11/2022 29/7/2024 RECURSO CÍVEL Titular 159
+616 50090537920234025121 14/6/2023 4/4/2024 RECURSO CÍVEL Titular 275
+617 50090897820234025103 21/8/2023 2/7/2024 RECURSO CÍVEL Titular 186
+618 50091204420234025121 15/6/2023 12/8/2024 RECURSO CÍVEL Titular 145
+619 50091705820224025104 4/11/2022 15/4/2024 RECURSO CÍVEL Titular 264
+620 50091822120224025121 17/10/2022 7/3/2024 RECURSO CÍVEL Titular 303
+621 50092342920224025117 17/11/2022 29/7/2024 RECURSO CÍVEL Titular 159
+622 50092447820234025104 8/9/2023 14/6/2024 RECURSO CÍVEL Titular 204
+623 50092539520234025118 28/6/2023 30/8/2024 RECURSO CÍVEL Titular 127
+624 50093001420234025104 12/9/2023 10/9/2024 RECURSO CÍVEL Titular 116
+625 50093013620224025103 7/12/2022 12/9/2024 RECURSO CÍVEL Titular 114
+626 50093267020234025117 29/8/2023 13/6/2024 RECURSO CÍVEL Titular 205
+627 50093488620224025110 11/10/2022 8/10/2024 RECURSO CÍVEL Titular 88
+628 50094066520224025118 5/9/2022 5/3/2024 RECURSO CÍVEL Titular 305
+629 50094214220234025104 16/9/2023 13/8/2024 RECURSO CÍVEL Titular 144
+630 50094543520234025103 30/8/2023 11/9/2024 RECURSO CÍVEL Titular 115
+631 50094685020224025104 17/11/2022 26/2/2024 RECURSO CÍVEL Titular 313
+632 50094742620234025103 30/8/2023 26/7/2024 RECURSO CÍVEL Titular 162
+633 50095179120224025104 21/11/2022 6/5/2024 RECURSO CÍVEL Titular 243
+634 50095396420234025121 27/6/2023 30/7/2024 RECURSO CÍVEL Titular 158
+35
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+635 50095447420224025104 21/11/2022 7/2/2024 RECURSO CÍVEL Titular 332
+636 50096067220224025118 11/9/2022 9/10/2024 RECURSO CÍVEL Titular 87
+637 50096099320234025117 5/9/2023 9/5/2024 RECURSO CÍVEL Titular 240
+638 50096353320234025104 25/9/2023 5/8/2024 RECURSO CÍVEL Titular 152
+639 50096481520224025121 1/11/2022 8/8/2024 RECURSO CÍVEL Titular 149
+640 50097019320224025121 3/11/2022 26/3/2024 RECURSO CÍVEL Titular 284
+641 50097047120234025102 4/8/2023 15/5/2024 RECURSO CÍVEL Titular 234
+642 50097449320234025121 1/7/2023 21/6/2024 RECURSO CÍVEL Titular 197
+643 50097805020234025117 11/9/2023 7/10/2024 RECURSO CÍVEL Titular 89
+644 50097929820224025117 7/12/2022 27/8/2024 RECURSO CÍVEL Titular 130
+645 50097956120234025103 12/9/2023 21/6/2024 RECURSO CÍVEL Titular 197
+646 50098414220224025117 8/12/2022 29/5/2024 RECURSO CÍVEL Titular 220
+647 50098452120224025104 30/11/2022 29/5/2024 RECURSO CÍVEL Titular 220
+648 50098596320224025117 8/12/2022 1/3/2024 RECURSO CÍVEL Titular 309
+649 50098835420234025118 13/7/2023 13/7/2024 RECURSO CÍVEL Titular 175
+650 50099177120234025104 4/10/2023 6/9/2024 RECURSO CÍVEL Titular 120
+651 50099285820234025118 14/7/2023 26/9/2024 RECURSO CÍVEL Titular 100
+652 50099372320234025117 15/9/2023 19/9/2024 RECURSO CÍVEL Titular 107
+653 50099695020224025121 10/11/2022 22/2/2024 RECURSO CÍVEL Titular 317
+654 50099896120234025103 15/9/2023 24/10/2024 RECURSO CÍVEL Titular 72
+655 50100276520224025117 15/12/2022 21/6/2024 RECURSO CÍVEL Titular 197
+656 50100779120224025117 16/12/2022 22/10/2024 RECURSO CÍVEL Titular 74
+657 50100897120234025117 19/9/2023 20/8/2024 RECURSO CÍVEL Titular 137
+658 50101324220224025117 19/12/2022 4/9/2024 RECURSO CÍVEL Titular 122
+659 50102129120224025121 18/11/2022 30/8/2024 RECURSO CÍVEL Titular 127
+660 50102268420224025118 27/9/2022 23/2/2024 RECURSO CÍVEL Titular 316
+661 50102455620234025118 21/7/2023 6/6/2024 RECURSO CÍVEL Titular 212
+662 50102594020234025118 22/7/2023 6/2/2024 RECURSO CÍVEL Titular 333
+663 50102836820234025118 24/7/2023 21/8/2024 RECURSO CÍVEL Titular 136
+664 50103117020224025118 28/9/2022 26/6/2024 RECURSO CÍVEL Titular 192
+665 50103389520224025104 18/12/2022 26/1/2024 RECURSO CÍVEL Titular 344
+36
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+666 50103954020234025117 25/9/2023 26/8/2024 RECURSO CÍVEL Titular 131
+667 50104282720234025118 27/7/2023 9/7/2024 RECURSO CÍVEL Titular 179
+668 50104415120224025121 26/11/2022 31/5/2024 RECURSO CÍVEL Titular 218
+669 50104737620234025103 28/9/2023 21/6/2024 RECURSO CÍVEL Titular 197
+670 50105039120224025121 29/11/2022 19/9/2024 RECURSO CÍVEL Titular 107
+671 50105069720224025104 23/12/2022 27/6/2024 RECURSO CÍVEL Titular 191
+672 50105149520234025118 31/7/2023 23/10/2024 RECURSO CÍVEL Titular 73
+673 50105424220224025104 27/12/2022 7/2/2024 RECURSO CÍVEL Titular 332
+674 50105542220234025104 26/10/2023 16/5/2024 RECURSO CÍVEL Titular 233
+675 50105562620224025104 28/12/2022 16/7/2024 RECURSO CÍVEL Titular 172
+676 50105603220234025103 29/9/2023 17/9/2024 RECURSO CÍVEL Titular 109
+677 50105956920224025121 1/12/2022 24/6/2024 RECURSO CÍVEL Titular 194
+678 50106128020234025118 1/8/2023 14/10/2024 RECURSO CÍVEL Titular 82
+679 50106462020214025120 16/7/2021 10/9/2024 RECURSO CÍVEL Titular 116
+680 50106552020234025117 29/9/2023 29/4/2024 RECURSO CÍVEL Titular 250
+681 50106560520234025117 29/9/2023 29/10/2024 RECURSO CÍVEL Titular 67
+682 50106864020234025117 29/9/2023 29/8/2024 RECURSO CÍVEL Titular 128
+683 50107028820234025118 3/8/2023 11/7/2024 RECURSO CÍVEL Titular 177
+684 50107158720234025118 3/8/2023 9/10/2024 RECURSO CÍVEL Titular 87
+685 50107448220234025104 3/11/2023 20/8/2024 RECURSO CÍVEL Titular 137
+686 50108314120234025103 8/10/2023 1/10/2024 RECURSO CÍVEL Titular 95
+687 50108449220234025118 7/8/2023 6/2/2024 RECURSO CÍVEL Titular 333
+688 50108590920234025103 9/10/2023 25/10/2024 RECURSO CÍVEL Titular 71
+689 50109248120224025121 14/12/2022 29/4/2024 RECURSO CÍVEL Titular 250
+690 50109505720234025117 5/10/2023 6/10/2024 RECURSO CÍVEL Titular 90
+691 50109660820234025118 9/8/2023 14/6/2024 RECURSO CÍVEL Titular 204
+692 50109977320234025103 11/10/2023 13/6/2024 RECURSO CÍVEL Titular 205
+693 50110025020234025118 10/8/2023 16/4/2024 RECURSO CÍVEL Titular 263
+694 50110062420224025118 18/10/2022 2/2/2024 RECURSO CÍVEL Titular 337
+695 50110849820244025101 27/2/2024 9/10/2024 RECURSO CÍVEL Titular 87
+696 50110969520234025118 14/8/2023 25/10/2024 RECURSO CÍVEL Titular 71
+37
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+697 50111413020224025120 20/11/2022 29/7/2024 RECURSO CÍVEL Titular 159
+698 50111757420234025118 15/8/2023 28/8/2024 RECURSO CÍVEL Titular 129
+699 50111783220234025117 16/10/2023 30/9/2024 RECURSO CÍVEL Titular 96
+700 50111943420234025101 17/2/2023 23/9/2024 RECURSO CÍVEL Titular 103
+701 50112574220224025118 25/10/2022 17/1/2024 RECURSO CÍVEL Titular 349
+702 50112951020244025110 13/9/2024 30/10/2024 RECURSO CÍVEL Titular 66
+703 50113731420234025118 20/8/2023 15/10/2024 RECURSO CÍVEL Titular 81
+704 50113744420234025103 22/10/2023 13/8/2024 RECURSO CÍVEL Titular 144
+705 50113795520224025118 27/10/2022 26/4/2024 RECURSO CÍVEL Titular 253
+706 50115448520244025101 28/2/2024 12/10/2024 RECURSO CÍVEL Titular 84
+707 50115492720224025118 2/11/2022 2/8/2024 RECURSO CÍVEL Titular 155
+708 50115550320234025117 26/10/2023 9/9/2024 RECURSO CÍVEL Titular 117
+709 50115896320234025121 21/8/2023 25/9/2024 RECURSO CÍVEL Titular 101
+710 50116161620224025110 20/12/2022 15/10/2024 RECURSO CÍVEL Titular 81
+711 50116165520234025118 25/8/2023 21/8/2024 RECURSO CÍVEL Titular 136
+712 50116993320214025121 13/8/2021 9/2/2024 RECURSO CÍVEL Titular 330
+713 50117477220234025104 11/12/2023 19/8/2024 RECURSO CÍVEL Titular 138
+714 50117718620224025120 15/12/2022 9/4/2024 RECURSO CÍVEL Titular 270
+715 50118266020234025101 23/2/2023 15/8/2024 RECURSO CÍVEL Titular 142
+716 50118287920234025117 3/11/2023 16/7/2024 RECURSO CÍVEL Titular 172
+717 50118797820234025121 29/8/2023 6/2/2024 RECURSO CÍVEL Titular 333
+718 50118896220224025120 19/12/2022 20/3/2024 RECURSO CÍVEL Titular 290
+719 50119122820234025102 22/9/2023 23/10/2024 RECURSO CÍVEL Titular 73
+720 50119555920234025103 7/11/2023 29/5/2024 RECURSO CÍVEL Titular 220
+721 50119954720234025101 24/2/2023 12/7/2024 RECURSO CÍVEL Titular 176
+722 50120058220234025104 18/12/2023 24/7/2024 RECURSO CÍVEL Titular 164
+723 50120496220234025117 10/11/2023 8/8/2024 RECURSO CÍVEL Titular 149
+724 50120624920234025121 1/9/2023 19/9/2024 RECURSO CÍVEL Titular 107
+725 50120997620234025121 1/9/2023 9/8/2024 RECURSO CÍVEL Titular 148
+726 50121170920234025118 6/9/2023 30/8/2024 RECURSO CÍVEL Titular 127
+727 50121563020234025110 31/5/2023 31/1/2024 RECURSO CÍVEL Titular 339
+38
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+728 50121569420234025121 4/9/2023 17/9/2024 RECURSO CÍVEL Titular 109
+729 50121615220234025110 31/5/2023 24/6/2024 RECURSO CÍVEL Titular 194
+730 50121929620234025102 28/9/2023 19/10/2024 RECURSO CÍVEL Titular 77
+731 50122176120234025118 11/9/2023 6/8/2024 RECURSO CÍVEL Titular 151
+732 50122574320234025118 12/9/2023 14/5/2024 RECURSO CÍVEL Titular 235
+733 50122967420224025118 24/11/2022 19/4/2024 RECURSO CÍVEL Titular 260
+734 50123450820234025110 2/6/2023 2/2/2024 RECURSO CÍVEL Titular 337
+735 50124063920234025118 15/9/2023 3/9/2024 RECURSO CÍVEL Titular 123
+736 50124264720244025101 1/3/2024 26/8/2024 RECURSO CÍVEL Titular 131
+737 50124514320234025118 16/9/2023 26/7/2024 RECURSO CÍVEL Titular 162
+738 50124682720234025103 21/11/2023 3/9/2024 RECURSO CÍVEL Titular 123
+739 50124934320234025102 5/10/2023 19/10/2024 RECURSO CÍVEL Titular 77
+740 50125046920234025103 22/11/2023 15/10/2024 RECURSO CÍVEL Titular 81
+741 50125371720234025117 29/11/2023 17/6/2024 RECURSO CÍVEL Titular 201
+742 50125438920214025118 6/8/2021 24/8/2024 RECURSO CÍVEL Titular 133
+743 50125467320234025118 19/9/2023 19/6/2024 RECURSO CÍVEL Titular 199
+744 50125824220234025110 9/6/2023 13/3/2024 RECURSO CÍVEL Titular 297
+745 50126683420234025103 27/11/2023 15/10/2024 RECURSO CÍVEL Titular 81
+746 50127117420234025101 27/2/2023 8/10/2024 RECURSO CÍVEL Titular 88
+747 50127313120244025101 4/3/2024 28/10/2024 RECURSO CÍVEL Titular 68
+748 50127605520234025121 21/9/2023 10/9/2024 RECURSO CÍVEL Titular 116
+749 50127625120244025101 4/3/2024 24/7/2024 RECURSO CÍVEL Titular 164
+750 50127723220234025101 27/2/2023 12/9/2024 RECURSO CÍVEL Titular 114
+751 50127724020214025121 31/8/2021 1/3/2024 RECURSO CÍVEL Titular 309
+752 50128158620214025117 5/11/2021 28/6/2024 RECURSO CÍVEL Titular 190
+753 50128424320234025103 29/11/2023 4/9/2024 RECURSO CÍVEL Titular 122
+754 50128983120234025118 27/9/2023 27/9/2024 RECURSO CÍVEL Titular 99
+755 50129901220234025117 13/12/2023 23/9/2024 RECURSO CÍVEL Titular 103
+756 50130135220234025118 29/9/2023 3/8/2024 RECURSO CÍVEL Titular 154
+757 50130485720234025103 6/12/2023 13/8/2024 RECURSO CÍVEL Titular 144
+758 50130819020234025121 29/9/2023 15/7/2024 RECURSO CÍVEL Titular 173
+39
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+759 50131395020234025103 7/12/2023 1/10/2024 RECURSO CÍVEL Titular 95
+760 50131831520234025121 3/10/2023 30/10/2024 RECURSO CÍVEL Titular 66
+761 50132477920234025103 11/12/2023 24/9/2024 RECURSO CÍVEL Titular 102
+762 50133382720234025118 9/10/2023 12/7/2024 RECURSO CÍVEL Titular 176
+763 50134327220234025118 11/10/2023 31/8/2024 RECURSO CÍVEL Titular 126
+764 50134487120234025103 15/12/2023 8/10/2024 RECURSO CÍVEL Titular 88
+765 50134799120234025103 17/12/2023 27/8/2024 RECURSO CÍVEL Titular 130
+766 50135192820234025118 16/10/2023 17/4/2024 RECURSO CÍVEL Titular 262
+767 50136010720234025103 20/12/2023 11/10/2024 RECURSO CÍVEL Titular 85
+768 50136013320214025117 30/11/2021 19/9/2024 RECURSO CÍVEL Titular 107
+769 50136289020234025102 1/11/2023 2/10/2024 RECURSO CÍVEL Titular 94
+770 50136338120244025101 6/3/2024 6/8/2024 RECURSO CÍVEL Titular 151
+771 50138206020224025101 1/3/2022 3/9/2024 RECURSO CÍVEL Titular 123
+772 50139619120234025118 26/10/2023 30/6/2024 RECURSO CÍVEL Titular 188
+773 50139999420234025121 24/10/2023 9/7/2024 RECURSO CÍVEL Titular 179
+774 50140796720234025118 27/10/2023 6/9/2024 RECURSO CÍVEL Titular 120
+775 50141902520214025117 17/12/2021 1/10/2024 RECURSO CÍVEL Titular 95
+776 50142529120234025118 1/11/2023 7/9/2024 RECURSO CÍVEL Titular 119
+777 50143792920234025118 7/11/2023 3/9/2024 RECURSO CÍVEL Titular 123
+778 50143970420234025101 4/3/2023 7/6/2024 RECURSO CÍVEL Titular 211
+779 50144600220234025110 13/7/2023 6/2/2024 RECURSO CÍVEL Titular 333
+780 50146053420234025118 13/11/2023 16/10/2024 RECURSO CÍVEL Titular 80
+781 50148747320234025118 22/11/2023 22/10/2024 RECURSO CÍVEL Titular 74
+782 50149725820234025118 24/11/2023 22/10/2024 RECURSO CÍVEL Titular 74
+783 50149907920234025118 24/11/2023 14/9/2024 RECURSO CÍVEL Titular 112
+784 50149923720224025101 7/3/2022 3/4/2024 RECURSO CÍVEL Titular 276
+785 50150574420234025118 27/11/2023 18/7/2024 RECURSO CÍVEL Titular 170
+786 50150828120234025110 26/7/2023 16/4/2024 RECURSO CÍVEL Titular 263
+787 50151397520234025118 29/11/2023 14/10/2024 RECURSO CÍVEL Titular 82
+788 50151595720234025121 28/11/2023 28/9/2024 RECURSO CÍVEL Titular 98
+789 50153587920234025121 5/12/2023 2/9/2024 RECURSO CÍVEL Titular 124
+40
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+790 50156116720234025121 13/12/2023 23/8/2024 RECURSO CÍVEL Titular 134
+791 50156956820234025121 15/12/2023 27/9/2024 RECURSO CÍVEL Titular 99
+792 50157521520244025101 14/3/2024 14/8/2024 RECURSO CÍVEL Titular 143
+793 50158646420234025118 20/12/2023 1/10/2024 RECURSO CÍVEL Titular 95
+794 50158732620234025118 20/12/2023 5/7/2024 RECURSO CÍVEL Titular 183
+795 50158821220234025110 8/8/2023 26/3/2024 RECURSO CÍVEL Titular 284
+796 50159633420234025118 26/12/2023 28/9/2024 RECURSO CÍVEL Titular 98
+797 50161056220234025110 13/8/2023 12/8/2024 RECURSO CÍVEL Titular 145
+798 50161891020214025118 1/10/2021 8/7/2024 RECURSO CÍVEL Titular 180
+799 50163784120234025110 17/8/2023 19/3/2024 RECURSO CÍVEL Titular 291
+800 50165931020244025101 18/3/2024 26/9/2024 RECURSO CÍVEL Titular 100
+801 50166729320234025110 24/8/2023 23/3/2024 RECURSO CÍVEL Titular 287
+802 50166867720234025110 24/8/2023 30/1/2024 RECURSO CÍVEL Titular 340
+803 50167285620234025101 12/3/2023 3/9/2024 RECURSO CÍVEL Titular 123
+804 50167542020244025101 19/3/2024 20/8/2024 RECURSO CÍVEL Titular 137
+805 50170472420234025101 13/3/2023 9/5/2024 RECURSO CÍVEL Titular 240
+806 50177099020204025101 21/3/2020 6/5/2024 RECURSO CÍVEL Titular 243
+807 50177237420204025101 21/3/2020 7/5/2024 RECURSO CÍVEL Titular 242
+808 50177979620234025110 18/9/2023 26/3/2024 RECURSO CÍVEL Titular 284
+809 50179531420234025101 15/3/2023 13/5/2024 RECURSO CÍVEL Titular 236
+810 50182658720234025101 16/3/2023 7/8/2024 RECURSO CÍVEL Titular 150
+811 50185461620234025110 29/9/2023 16/7/2024 RECURSO CÍVEL Titular 172
+812 50186751420244025101 26/3/2024 12/8/2024 RECURSO CÍVEL Titular 145
+813 50190826520214025120 14/12/2021 4/4/2024 RECURSO CÍVEL Titular 275
+814 50194177320234025101 20/3/2023 26/7/2024 RECURSO CÍVEL Titular 162
+815 50195022520244025101 28/3/2024 20/10/2024 RECURSO CÍVEL Titular 76
+816 50198834020234025110 25/10/2023 6/2/2024 RECURSO CÍVEL Titular 333
+817 50201131220234025101 22/3/2023 9/7/2024 RECURSO CÍVEL Titular 179
+818 50202293520214025118 16/12/2021 11/9/2024 RECURSO CÍVEL Titular 115
+819 50205667720234025110 7/11/2023 18/10/2024 RECURSO CÍVEL Titular 78
+820 50211374120244025101 3/4/2024 25/9/2024 RECURSO CÍVEL Titular 101
+41
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+821 50214527620234025110 23/11/2023 17/4/2024 RECURSO CÍVEL Titular 262
+822 50221594420234025110 7/12/2023 4/9/2024 RECURSO CÍVEL Titular 122
+823 50223750520234025110 13/12/2023 26/8/2024 RECURSO CÍVEL Titular 131
+824 50224010320234025110 13/12/2023 11/6/2024 RECURSO CÍVEL Titular 207
+825 50224758420234025101 28/3/2023 4/10/2024 RECURSO CÍVEL Titular 92
+826 50225388220234025110 15/12/2023 10/9/2024 RECURSO CÍVEL Titular 116
+827 50230274920234025101 29/3/2023 19/9/2024 RECURSO CÍVEL Titular 107
+828 50232709020234025101 29/3/2023 2/10/2024 RECURSO CÍVEL Titular 94
+829 50236083020244025101 12/4/2024 20/9/2024 RECURSO CÍVEL Titular 106
+830 50239628920234025101 31/3/2023 13/8/2024 RECURSO CÍVEL Titular 144
+MANDADO DE SEGURANÇA TR
+831 50239885320244025101 15/4/2024 25/4/2024 Titular 254
+CÍVEL
+832 50253936120234025101 4/4/2023 6/9/2024 RECURSO CÍVEL Titular 120
+833 50289329820244025101 3/5/2024 24/9/2024 RECURSO CÍVEL Titular 102
+834 50297963920244025101 7/5/2024 16/9/2024 RECURSO CÍVEL Titular 110
+835 50302695920234025101 11/4/2023 11/7/2024 RECURSO CÍVEL Titular 177
+836 50303039720244025101 8/5/2024 2/10/2024 RECURSO CÍVEL Titular 94
+837 50307571420234025101 12/4/2023 19/7/2024 RECURSO CÍVEL Titular 169
+838 50316818820244025101 14/5/2024 15/10/2024 RECURSO CÍVEL Titular 81
+839 50322477120234025101 12/4/2023 23/8/2024 RECURSO CÍVEL Titular 134
+840 50343779720244025101 23/5/2024 20/9/2024 RECURSO CÍVEL Titular 106
+841 50355993720234025101 17/4/2023 19/7/2024 RECURSO CÍVEL Titular 169
+842 50431711020244025101 25/6/2024 15/10/2024 RECURSO CÍVEL Titular 81
+843 50450875020224025101 14/6/2022 10/4/2024 RECURSO CÍVEL Titular 269
+844 50477417320234025101 20/4/2023 23/7/2024 RECURSO CÍVEL Titular 165
+845 50479931320224025101 27/6/2022 19/8/2024 RECURSO CÍVEL Titular 138
+846 50506918920224025101 5/7/2022 16/5/2024 RECURSO CÍVEL Titular 233
+847 50508587220234025101 26/4/2023 26/3/2024 RECURSO CÍVEL Titular 284
+848 50515142920234025101 27/4/2023 21/6/2024 RECURSO CÍVEL Titular 197
+849 50517290520234025101 27/4/2023 9/10/2024 RECURSO CÍVEL Titular 87
+850 50519932220234025101 28/4/2023 10/4/2024 RECURSO CÍVEL Titular 269
+851 50528385420234025101 2/5/2023 28/10/2024 RECURSO CÍVEL Titular 68
+42
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+852 50550816820234025101 9/5/2023 22/10/2024 RECURSO CÍVEL Titular 74
+853 50574702620234025101 16/5/2023 21/6/2024 RECURSO CÍVEL Titular 197
+854 50595523020234025101 18/5/2023 15/10/2024 RECURSO CÍVEL Titular 81
+855 50604784520224025101 10/8/2022 5/8/2024 RECURSO CÍVEL Titular 152
+856 50607890220234025101 23/5/2023 13/6/2024 RECURSO CÍVEL Titular 205
+857 50613424920234025101 24/5/2023 31/7/2024 RECURSO CÍVEL Titular 157
+858 50617357120234025101 25/5/2023 10/9/2024 RECURSO CÍVEL Titular 116
+859 50627654420234025101 29/5/2023 18/9/2024 RECURSO CÍVEL Titular 108
+860 50637033920234025101 31/5/2023 26/3/2024 RECURSO CÍVEL Titular 284
+861 50638500220224025101 23/8/2022 15/3/2024 RECURSO CÍVEL Titular 295
+862 50648621720234025101 5/6/2023 27/8/2024 RECURSO CÍVEL Titular 130
+863 50652120520234025101 6/6/2023 15/8/2024 RECURSO CÍVEL Titular 142
+864 50653353720224025101 28/8/2022 18/9/2024 RECURSO CÍVEL Titular 108
+865 50666359720234025101 12/6/2023 14/8/2024 RECURSO CÍVEL Titular 143
+866 50671771820234025101 14/6/2023 27/9/2024 RECURSO CÍVEL Titular 99
+867 50689292520234025101 20/6/2023 13/8/2024 RECURSO CÍVEL Titular 144
+868 50692575220234025101 20/6/2023 6/8/2024 RECURSO CÍVEL Titular 151
+869 50695104020234025101 21/6/2023 5/3/2024 RECURSO CÍVEL Titular 305
+870 50695468220234025101 21/6/2023 13/6/2024 RECURSO CÍVEL Titular 205
+871 50697226120234025101 22/6/2023 20/9/2024 RECURSO CÍVEL Titular 106
+872 50700127620234025101 22/6/2023 9/9/2024 RECURSO CÍVEL Titular 117
+873 50708744720234025101 26/6/2023 30/7/2024 RECURSO CÍVEL Titular 158
+874 50729212820224025101 20/9/2022 23/8/2024 RECURSO CÍVEL Titular 134
+875 50732590220224025101 21/9/2022 3/10/2024 RECURSO CÍVEL Titular 93
+876 50734264820244025101 18/9/2024 18/9/2024 PETIÇÃO TR CÍVEL Titular 108
+877 50743624420224025101 26/9/2022 25/3/2024 RECURSO CÍVEL Titular 285
+878 50746029620234025101 5/7/2023 12/8/2024 RECURSO CÍVEL Titular 145
+879 50751407720234025101 7/7/2023 21/2/2024 RECURSO CÍVEL Titular 318
+880 50756993420234025101 10/7/2023 6/9/2024 RECURSO CÍVEL Titular 120
+881 50781417020234025101 18/7/2023 7/2/2024 RECURSO CÍVEL Titular 332
+882 50790830520234025101 20/7/2023 12/3/2024 RECURSO CÍVEL Titular 298
+43
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+RECURSO DE MEDIDA CAUTELAR
+883 50803467220234025101 25/7/2023 18/6/2024 Titular 200
+CÍVEL
+884 50807428320224025101 18/10/2022 11/9/2024 RECURSO CÍVEL Titular 115
+885 50808570720224025101 19/10/2022 15/8/2024 RECURSO CÍVEL Titular 142
+886 50816296720224025101 21/10/2022 6/8/2024 RECURSO CÍVEL Titular 151
+887 50822506420224025101 25/10/2022 12/4/2024 RECURSO CÍVEL Titular 267
+888 50823074820234025101 31/7/2023 11/4/2024 RECURSO CÍVEL Titular 268
+889 50830985120224025101 27/10/2022 27/8/2024 RECURSO CÍVEL Titular 130
+890 50834348420244025101 18/10/2024 18/10/2024 CONFLITO DE COMPETÊNCIA Titular 78
+891 50846761520234025101 5/8/2023 19/7/2024 RECURSO CÍVEL Titular 169
+892 50850298920224025101 4/11/2022 19/4/2024 RECURSO CÍVEL Titular 260
+893 50852997920234025101 8/8/2023 3/10/2024 RECURSO CÍVEL Titular 93
+894 50854868720234025101 8/8/2023 5/8/2024 RECURSO CÍVEL Titular 152
+895 50862568020234025101 10/8/2023 9/9/2024 RECURSO CÍVEL Titular 117
+896 50871249220224025101 15/11/2022 6/6/2024 RECURSO CÍVEL Titular 212
+897 50871661020234025101 14/8/2023 25/9/2024 RECURSO CÍVEL Titular 101
+898 50875454820234025101 15/8/2023 20/8/2024 RECURSO CÍVEL Titular 137
+899 50883162620234025101 17/8/2023 18/9/2024 RECURSO CÍVEL Titular 108
+900 50904921220224025101 25/11/2022 21/6/2024 RECURSO CÍVEL Titular 197
+901 50911535420234025101 28/8/2023 4/10/2024 RECURSO CÍVEL Titular 92
+902 50918856920224025101 30/11/2022 24/3/2024 RECURSO CÍVEL Titular 286
+903 50927895520234025101 31/8/2023 14/8/2024 RECURSO CÍVEL Titular 143
+904 50932875420234025101 1/9/2023 1/4/2024 RECURSO CÍVEL Titular 278
+905 50938678420234025101 4/9/2023 15/5/2024 RECURSO CÍVEL Titular 234
+906 50955526320224025101 9/12/2022 18/4/2024 RECURSO CÍVEL Titular 261
+907 50955618820234025101 11/9/2023 11/10/2024 RECURSO CÍVEL Titular 85
+908 50958199820234025101 12/9/2023 2/7/2024 RECURSO CÍVEL Titular 186
+909 50960659420234025101 13/9/2023 18/9/2024 RECURSO CÍVEL Titular 108
+910 50971253920224025101 14/12/2022 16/2/2024 RECURSO CÍVEL Titular 323
+911 50978661620214025101 8/9/2021 11/10/2024 RECURSO CÍVEL Titular 85
+912 51001981920224025101 28/12/2022 30/7/2024 RECURSO CÍVEL Titular 158
+913 51005342320224025101 30/12/2022 9/4/2024 RECURSO CÍVEL Titular 270
+44
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+914 51014788820234025101 28/9/2023 15/3/2024 RECURSO CÍVEL Titular 295
+915 51015966420234025101 28/9/2023 17/9/2024 RECURSO CÍVEL Titular 109
+916 51020426720234025101 29/9/2023 7/10/2024 RECURSO CÍVEL Titular 89
+917 51028056820234025101 3/10/2023 21/6/2024 RECURSO CÍVEL Titular 197
+918 51037202020234025101 4/10/2023 4/9/2024 RECURSO CÍVEL Titular 122
+919 51039688320234025101 5/10/2023 16/10/2024 RECURSO CÍVEL Titular 80
+920 51051024820234025101 10/10/2023 23/9/2024 RECURSO CÍVEL Titular 103
+921 51052401520234025101 10/10/2023 12/9/2024 RECURSO CÍVEL Titular 114
+922 51054280820234025101 11/10/2023 4/11/2024 RECURSO CÍVEL Titular 61
+923 51055439720214025101 28/9/2021 30/7/2024 RECURSO CÍVEL Titular 158
+924 51058715620234025101 13/10/2023 5/11/2024 RECURSO CÍVEL Titular 60
+925 51064422720234025101 16/10/2023 11/1/2024 RECURSO CÍVEL Titular 349
+926 51072364820234025101 18/10/2023 18/9/2024 RECURSO CÍVEL Titular 108
+927 51077231820234025101 18/10/2023 18/10/2024 RECURSO CÍVEL Titular 78
+928 51080047120234025101 19/10/2023 19/9/2024 RECURSO CÍVEL Titular 107
+929 51087260820234025101 23/10/2023 27/8/2024 RECURSO CÍVEL Titular 130
+930 51089495820234025101 23/10/2023 11/10/2024 RECURSO CÍVEL Titular 85
+931 51090344420234025101 24/10/2023 18/4/2024 RECURSO CÍVEL Titular 261
+932 51103620920234025101 26/10/2023 29/10/2024 RECURSO CÍVEL Titular 67
+933 51121003220234025101 3/11/2023 30/7/2024 RECURSO CÍVEL Titular 158
+934 51140082720234025101 9/11/2023 23/9/2024 RECURSO CÍVEL Titular 103
+935 51155784820234025101 13/11/2023 18/10/2024 RECURSO CÍVEL Titular 78
+936 51157075320234025101 13/11/2023 31/10/2024 RECURSO CÍVEL Titular 65
+937 51160268920214025101 1/11/2021 17/7/2024 RECURSO CÍVEL Titular 171
+938 51194628520234025101 16/11/2023 21/5/2024 RECURSO CÍVEL Titular 228
+939 51196135120234025101 16/11/2023 9/7/2024 RECURSO CÍVEL Titular 179
+940 51197252020234025101 16/11/2023 25/9/2024 RECURSO CÍVEL Titular 101
+941 51208121120234025101 21/11/2023 23/9/2024 RECURSO CÍVEL Titular 103
+942 51239698920234025101 29/11/2023 26/3/2024 RECURSO CÍVEL Titular 284
+943 51239906520234025101 29/11/2023 17/6/2024 RECURSO CÍVEL Titular 201
+944 51281694220234025101 10/12/2023 18/10/2024 RECURSO CÍVEL Titular 78
+45
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+945 51294919720234025101 13/12/2023 15/10/2024 RECURSO CÍVEL Titular 81
+946 51301025020234025101 14/12/2023 9/10/2024 RECURSO CÍVEL Titular 87
+947 51301865120234025101 14/12/2023 23/8/2024 RECURSO CÍVEL Titular 134
+948 51311305320234025101 18/12/2023 17/9/2024 RECURSO CÍVEL Titular 109
+949 51318432820234025101 19/12/2023 30/7/2024 RECURSO CÍVEL Titular 158
+950 51320587220214025101 16/12/2021 2/9/2024 RECURSO CÍVEL Titular 124
+951 51322088220234025101 19/12/2023 23/7/2024 RECURSO CÍVEL Titular 165
+952 51332073520234025101 26/12/2023 14/8/2024 RECURSO CÍVEL Titular 143
+953 51334349320214025101 21/12/2021 29/5/2024 RECURSO CÍVEL Titular 220
+954 51335997220234025101 27/12/2023 6/8/2024 RECURSO CÍVEL Titular 151
+9.3.2 Processos de Execuções fiscais Sem Movimentação pela Secretaria do Juízo há Mais
+de 120 Dias, Ressaltando-se que as Execuções de Valores Expressivos em Trâmite no
+Juízo serão Objeto de Verificação no Item 16 (art. 57, I, “b”, CNCR)
+Não há processos nessa situação.
+9.3.3 Processos Sem Movimentação pela Secretaria há Mais de 150 Dias (art. 57, II, “b”,
+CNCR)
+No momento da análise, existiam 481 processos nessa situação, listados abaixo.
+Listagem dos processos sem movimentação pela Secretaria há mais de 150 dias. Fonte: Painel de Indicadores
+(5/2/2025)
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+1 00530194220184025158 10/4/2018 8/1/2024 RECURSO CÍVEL Titular 349
+2 01860621220174025158 27/9/2017 9/7/2024 RECURSO CÍVEL Titular 179
+3 50000112720234025114 5/1/2023 24/4/2024 RECURSO CÍVEL Titular 255
+4 50000326920244025113 12/1/2024 29/7/2024 RECURSO CÍVEL Titular 159
+5 50000351520244025116 6/1/2024 3/7/2024 RECURSO CÍVEL Titular 185
+6 50000681720244025112 10/1/2024 8/5/2024 RECURSO CÍVEL Titular 241
+7 50000770720234025114 16/1/2023 31/7/2024 RECURSO CÍVEL Titular 157
+8 50000855320244025112 11/1/2024 5/8/2024 RECURSO CÍVEL Titular 152
+9 50000945220234025111 31/1/2023 31/7/2024 RECURSO CÍVEL Titular 157
+10 50001221420234025113 25/1/2023 19/3/2024 RECURSO CÍVEL Titular 291
+11 50001593220234025116 19/1/2023 5/8/2024 RECURSO CÍVEL Titular 152
+46
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+12 50001882520224025114 3/2/2022 25/1/2024 RECURSO CÍVEL Titular 345
+13 50001902120244025115 31/1/2024 29/7/2024 RECURSO CÍVEL Titular 159
+14 50002007420244025112 22/1/2024 6/8/2024 RECURSO CÍVEL Titular 151
+15 50002020820234025103 12/1/2023 15/2/2024 RECURSO CÍVEL Titular 324
+16 50002096420234025114 3/2/2023 23/7/2024 RECURSO CÍVEL Titular 165
+17 50002104620234025115 30/1/2023 18/6/2024 RECURSO CÍVEL Titular 200
+18 50002381620244025103 18/1/2024 29/6/2024 RECURSO CÍVEL Titular 189
+19 50002827020224025114 11/2/2022 3/6/2024 RECURSO CÍVEL Titular 215
+20 50002935820244025105 8/2/2024 29/7/2024 RECURSO CÍVEL Titular 159
+21 50002981820224025116 7/2/2022 29/2/2024 RECURSO CÍVEL Titular 310
+22 50003023620234025111 8/3/2023 7/3/2024 RECURSO CÍVEL Titular 303
+23 50003099820234025120 25/1/2023 10/4/2024 RECURSO CÍVEL Titular 269
+24 50003432720234025103 18/1/2023 19/3/2024 RECURSO CÍVEL Titular 291
+25 50003533120244025105 19/2/2024 25/6/2024 RECURSO CÍVEL Titular 193
+26 50003668220244025120 30/1/2024 22/7/2024 RECURSO CÍVEL Titular 166
+27 50003770520234025102 19/1/2023 2/8/2024 RECURSO CÍVEL Titular 155
+28 50003811520234025111 20/3/2023 11/6/2024 RECURSO CÍVEL Titular 207
+29 50003968620204025111 14/5/2020 18/6/2024 RECURSO CÍVEL Titular 200
+30 50004010220244025101 4/1/2024 5/7/2024 RECURSO CÍVEL Titular 183
+31 50004019120234025115 15/2/2023 6/8/2024 RECURSO CÍVEL Titular 151
+32 50004420420224025112 10/2/2022 29/1/2024 RECURSO CÍVEL Titular 341
+33 50004484020244025112 6/2/2024 23/7/2024 RECURSO CÍVEL Titular 165
+34 50004591820234025108 1/2/2023 25/6/2024 RECURSO CÍVEL Titular 193
+35 50004637320234025102 23/1/2023 11/1/2024 RECURSO CÍVEL Titular 349
+36 50004965420234025105 28/2/2023 26/1/2024 RECURSO CÍVEL Titular 344
+37 50004997520244025104 31/1/2024 2/8/2024 RECURSO CÍVEL Titular 155
+38 50005245220244025116 7/2/2024 22/7/2024 RECURSO CÍVEL Titular 166
+39 50005290720244025106 11/3/2024 30/7/2024 RECURSO CÍVEL Titular 158
+40 50005707520234025116 17/2/2023 11/7/2024 RECURSO CÍVEL Titular 177
+41 50005714820234025120 7/2/2023 14/3/2024 RECURSO CÍVEL Titular 296
+42 50005769120234025113 21/3/2023 9/7/2024 RECURSO CÍVEL Titular 179
+47
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+43 50005854120234025117 31/1/2023 16/5/2024 RECURSO CÍVEL Titular 233
+44 50005914420244025107 22/2/2024 23/7/2024 RECURSO CÍVEL Titular 165
+45 50006008920224025102 1/2/2022 6/8/2024 RECURSO CÍVEL Titular 151
+46 50006126420224025115 15/3/2022 5/3/2024 RECURSO CÍVEL Titular 305
+47 50006265420224025113 1/4/2022 3/4/2024 RECURSO CÍVEL Titular 276
+48 50006358220234025112 17/2/2023 1/4/2024 RECURSO CÍVEL Titular 278
+49 50006507520234025104 1/2/2023 23/1/2024 RECURSO CÍVEL Titular 347
+50 50006582520234025113 29/3/2023 17/6/2024 RECURSO CÍVEL Titular 201
+51 50006872920244025117 5/2/2024 22/7/2024 RECURSO CÍVEL Titular 166
+52 50006987320244025112 27/2/2024 24/7/2024 RECURSO CÍVEL Titular 164
+53 50007029520244025117 6/2/2024 1/8/2024 RECURSO CÍVEL Titular 156
+54 50007122720234025101 6/1/2023 6/2/2024 RECURSO CÍVEL Titular 333
+55 50007214420234025115 22/3/2023 26/2/2024 RECURSO CÍVEL Titular 313
+56 50007420720244025108 19/2/2024 22/7/2024 RECURSO CÍVEL Titular 166
+57 50007440520234025110 25/1/2023 29/4/2024 RECURSO CÍVEL Titular 250
+58 50007454620214025114 7/4/2021 23/7/2024 RECURSO CÍVEL Titular 165
+59 50007603820234025116 5/3/2023 2/7/2024 RECURSO CÍVEL Titular 186
+60 50007750720234025116 6/3/2023 18/7/2024 RECURSO CÍVEL Titular 170
+61 50007932820234025116 6/3/2023 25/3/2024 RECURSO CÍVEL Titular 285
+62 50008045020244025107 5/3/2024 18/6/2024 RECURSO CÍVEL Titular 200
+63 50008754920244025108 23/2/2024 16/7/2024 RECURSO CÍVEL Titular 172
+64 50009505220244025120 1/3/2024 17/6/2024 RECURSO CÍVEL Titular 201
+65 50009702720204025106 8/6/2020 2/5/2024 RECURSO CÍVEL Titular 247
+66 50009718320234025113 19/4/2023 6/7/2024 RECURSO CÍVEL Titular 182
+67 50009891020234025112 14/3/2023 15/5/2024 RECURSO CÍVEL Titular 234
+68 50010134320204025112 7/4/2020 7/8/2024 RECURSO CÍVEL Titular 150
+69 50010235420244025110 30/1/2024 2/7/2024 RECURSO CÍVEL Titular 186
+70 50010238920224025121 7/2/2022 17/6/2024 RECURSO CÍVEL Titular 201
+71 50010274320234025105 3/4/2023 1/3/2024 RECURSO CÍVEL Titular 309
+72 50010304020244025112 18/3/2024 6/8/2024 RECURSO CÍVEL Titular 151
+73 50010513820234025116 20/3/2023 6/8/2024 RECURSO CÍVEL Titular 151
+48
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+74 50010577520234025106 24/3/2023 29/4/2024 RECURSO CÍVEL Titular 250
+75 50010609120234025118 9/2/2023 28/3/2024 RECURSO CÍVEL Titular 282
+76 50010704120234025117 15/2/2023 28/6/2024 RECURSO CÍVEL Titular 190
+77 50010972420234025117 15/2/2023 4/4/2024 RECURSO CÍVEL Titular 275
+78 50011015220234025120 8/3/2023 14/5/2024 RECURSO CÍVEL Titular 235
+79 50011036420234025106 28/3/2023 22/4/2024 RECURSO CÍVEL Titular 257
+80 50011102320234025117 16/2/2023 2/7/2024 RECURSO CÍVEL Titular 186
+81 50011113520234025108 10/3/2023 24/6/2024 RECURSO CÍVEL Titular 194
+82 50011149620234025105 6/4/2023 17/6/2024 RECURSO CÍVEL Titular 201
+83 50011467720234025113 20/4/2023 14/12/2023 RECURSO CÍVEL Titular 355
+84 50011488720224025111 31/8/2022 31/7/2024 RECURSO CÍVEL Titular 157
+85 50011531220224025111 31/8/2022 31/7/2024 RECURSO CÍVEL Titular 157
+86 50011560920234025118 10/2/2023 1/5/2024 RECURSO CÍVEL Titular 248
+87 50011990620194025111 7/10/2019 19/2/2024 RECURSO CÍVEL Titular 320
+88 50012311820224025107 1/4/2022 6/7/2024 RECURSO CÍVEL Titular 182
+89 50012779620214025121 27/2/2021 19/7/2024 RECURSO CÍVEL Titular 169
+90 50012986820224025111 27/9/2022 1/7/2024 RECURSO CÍVEL Titular 187
+91 50013067620214025112 1/4/2021 2/7/2024 RECURSO CÍVEL Titular 186
+92 50013296620234025107 8/4/2023 18/6/2024 RECURSO CÍVEL Titular 200
+93 50013431720234025118 16/2/2023 17/4/2024 RECURSO CÍVEL Titular 262
+94 50014186420244025104 15/3/2024 2/7/2024 RECURSO CÍVEL Titular 186
+95 50014304020224025107 14/4/2022 19/3/2024 RECURSO CÍVEL Titular 291
+96 50014709720234025103 27/2/2023 5/6/2024 RECURSO CÍVEL Titular 213
+97 50014947020244025110 12/2/2024 2/8/2024 RECURSO CÍVEL Titular 155
+98 50015632420234025115 11/5/2023 5/3/2024 RECURSO CÍVEL Titular 305
+99 50015774520224025114 24/6/2022 26/2/2024 RECURSO CÍVEL Titular 313
+100 50016016120224025118 11/2/2022 16/4/2024 RECURSO CÍVEL Titular 263
+101 50016093120234025109 21/6/2023 23/2/2024 RECURSO CÍVEL Titular 316
+102 50016330520224025106 14/6/2022 9/5/2024 RECURSO CÍVEL Titular 240
+103 50016415520224025114 30/6/2022 24/4/2024 RECURSO CÍVEL Titular 255
+104 50016952020234025103 4/3/2023 6/7/2024 RECURSO CÍVEL Titular 182
+49
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+105 50017155720234025120 30/3/2023 6/2/2024 RECURSO CÍVEL Titular 333
+106 50017201520234025109 5/7/2023 13/5/2024 RECURSO CÍVEL Titular 236
+107 50017395520224025109 20/10/2022 18/6/2024 RECURSO CÍVEL Titular 200
+108 50017540920224025114 12/7/2022 12/7/2024 RECURSO CÍVEL Titular 176
+109 50017570920234025120 31/3/2023 25/6/2024 RECURSO CÍVEL Titular 193
+110 50017690220224025106 29/6/2022 9/2/2024 RECURSO CÍVEL Titular 330
+111 50018254520214025114 9/6/2021 19/7/2024 RECURSO CÍVEL Titular 169
+112 50018434720224025109 7/11/2022 2/3/2024 RECURSO CÍVEL Titular 308
+113 50018534520234025113 9/7/2023 23/7/2024 RECURSO CÍVEL Titular 165
+114 50018632820194025114 31/7/2019 24/4/2024 RECURSO CÍVEL Titular 255
+115 50018775420244025108 5/4/2024 10/5/2024 RECURSO CÍVEL Titular 239
+116 50019172520224025102 25/3/2022 30/4/2024 RECURSO CÍVEL Titular 249
+117 50019328020214025117 25/3/2021 18/12/2023 RECURSO CÍVEL Titular 351
+118 50019380720234025121 8/3/2023 24/7/2024 RECURSO CÍVEL Titular 164
+119 50019428720224025118 18/2/2022 10/5/2024 RECURSO CÍVEL Titular 239
+120 50019458420224025104 21/3/2022 16/5/2024 RECURSO CÍVEL Titular 233
+121 50019548220234025113 20/7/2023 17/6/2024 RECURSO CÍVEL Titular 201
+122 50019769820224025106 19/7/2022 9/7/2024 RECURSO CÍVEL Titular 179
+123 50019828120224025114 3/8/2022 27/2/2024 RECURSO CÍVEL Titular 312
+124 50020327620234025113 28/7/2023 28/5/2024 RECURSO CÍVEL Titular 221
+125 50020673620234025113 1/8/2023 29/4/2024 RECURSO CÍVEL Titular 250
+126 50020900920234025104 21/3/2023 7/2/2024 RECURSO CÍVEL Titular 332
+127 50021245320204025115 18/12/2020 26/1/2024 RECURSO CÍVEL Titular 344
+128 50021329520224025103 30/3/2022 4/3/2024 RECURSO CÍVEL Titular 306
+129 50021349820234025113 10/8/2023 13/6/2024 RECURSO CÍVEL Titular 205
+130 50021389320224025106 2/8/2022 1/3/2024 RECURSO CÍVEL Titular 309
+131 50021421120234025102 17/3/2023 25/7/2024 RECURSO CÍVEL Titular 163
+132 50021516820224025114 19/8/2022 3/6/2024 RECURSO CÍVEL Titular 215
+133 50021731020234025109 13/9/2023 9/7/2024 RECURSO CÍVEL Titular 179
+134 50021776620224025114 22/8/2022 31/7/2024 RECURSO CÍVEL Titular 157
+135 50022707420234025120 20/4/2023 8/5/2024 RECURSO CÍVEL Titular 241
+50
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+136 50023031520234025104 27/3/2023 18/6/2024 RECURSO CÍVEL Titular 200
+137 50023274620234025103 23/3/2023 6/7/2024 RECURSO CÍVEL Titular 182
+138 50023959120224025115 4/10/2022 3/4/2024 RECURSO CÍVEL Titular 276
+139 50024159020234025101 16/1/2023 9/7/2024 RECURSO CÍVEL Titular 179
+140 50024452520234025102 23/3/2023 2/8/2024 RECURSO CÍVEL Titular 155
+141 50024552420234025117 31/3/2023 18/6/2024 RECURSO CÍVEL Titular 200
+142 50024620720234025120 27/4/2023 8/5/2024 RECURSO CÍVEL Titular 241
+143 50024762420234025109 31/10/2023 21/6/2024 RECURSO CÍVEL Titular 197
+144 50025047320244025103 2/4/2024 2/8/2024 RECURSO CÍVEL Titular 155
+145 50025506620234025113 3/10/2023 8/7/2024 RECURSO CÍVEL Titular 180
+146 50025708820224025114 4/10/2022 18/4/2024 RECURSO CÍVEL Titular 261
+147 50026443820234025105 14/6/2023 25/3/2024 RECURSO CÍVEL Titular 285
+148 50026914320224025106 20/9/2022 18/6/2024 RECURSO CÍVEL Titular 200
+149 50027004720234025113 21/10/2023 2/8/2024 RECURSO CÍVEL Titular 155
+150 50027228420234025120 10/5/2023 6/7/2024 RECURSO CÍVEL Titular 182
+151 50027679420234025118 24/3/2023 15/2/2024 RECURSO CÍVEL Titular 324
+152 50027980320214025113 3/12/2021 2/5/2024 RECURSO CÍVEL Titular 247
+153 50028040320224025104 15/4/2022 10/6/2024 RECURSO CÍVEL Titular 208
+154 50028234220234025114 6/9/2023 31/7/2024 RECURSO CÍVEL Titular 157
+155 50028583620224025114 9/11/2022 26/1/2024 RECURSO CÍVEL Titular 344
+156 50029168120234025121 28/3/2023 18/6/2024 RECURSO CÍVEL Titular 200
+157 50029180820234025103 5/4/2023 22/2/2024 RECURSO CÍVEL Titular 317
+158 50029423020234025105 6/7/2023 6/2/2024 RECURSO CÍVEL Titular 333
+159 50029932620234025110 10/3/2023 14/6/2024 RECURSO CÍVEL Titular 204
+160 50030454020234025104 12/4/2023 30/1/2024 RECURSO CÍVEL Titular 340
+161 50030986420224025101 21/1/2022 4/7/2024 RECURSO CÍVEL Titular 184
+162 50031050820224025117 20/4/2022 18/6/2024 RECURSO CÍVEL Titular 200
+163 50031245620224025103 9/5/2022 15/3/2024 RECURSO CÍVEL Titular 295
+164 50031397920234025106 31/5/2023 28/2/2024 RECURSO CÍVEL Titular 311
+165 50031683820234025104 13/4/2023 5/3/2024 RECURSO CÍVEL Titular 305
+166 50031733120214025104 3/5/2021 2/2/2024 RECURSO CÍVEL Titular 337
+51
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+167 50032385520234025104 14/4/2023 5/3/2024 RECURSO CÍVEL Titular 305
+168 50032547320234025115 27/10/2023 28/5/2024 RECURSO CÍVEL Titular 221
+169 50033250220234025107 28/6/2023 11/5/2024 RECURSO CÍVEL Titular 238
+170 50033312120234025103 14/4/2023 23/4/2024 RECURSO CÍVEL Titular 256
+171 50033897020234025120 9/6/2023 7/6/2024 RECURSO CÍVEL Titular 211
+172 50034256620234025103 17/4/2023 28/5/2024 RECURSO CÍVEL Titular 221
+173 50034603220234025101 19/1/2023 22/4/2024 RECURSO CÍVEL Titular 257
+174 50034796020224025105 30/11/2022 3/2/2024 RECURSO CÍVEL Titular 336
+175 50034913520224025118 29/3/2022 14/6/2024 RECURSO CÍVEL Titular 204
+176 50035000220234025105 23/8/2023 26/1/2024 RECURSO CÍVEL Titular 344
+177 50035346820234025107 12/7/2023 10/7/2024 RECURSO CÍVEL Titular 178
+178 50035450620234025105 28/8/2023 1/3/2024 RECURSO CÍVEL Titular 309
+179 50035735720224025121 18/4/2022 13/6/2024 RECURSO CÍVEL Titular 205
+180 50035742620234025115 6/12/2023 15/3/2024 RECURSO CÍVEL Titular 295
+181 50037015820234025116 19/5/2023 26/1/2024 RECURSO CÍVEL Titular 344
+182 50037381820234025106 24/7/2023 9/5/2024 RECURSO CÍVEL Titular 240
+183 50037421320234025120 26/6/2023 25/6/2024 RECURSO CÍVEL Titular 193
+184 50037442220234025107 27/7/2023 3/8/2024 RECURSO CÍVEL Titular 154
+185 50038152520224025118 6/4/2022 8/2/2024 RECURSO CÍVEL Titular 331
+186 50038794620234025103 19/4/2023 13/7/2024 RECURSO CÍVEL Titular 175
+187 50039170720234025120 3/7/2023 2/2/2024 RECURSO CÍVEL Titular 337
+188 50039226820234025107 7/8/2023 2/3/2024 RECURSO CÍVEL Titular 308
+189 50039512120234025107 9/8/2023 26/3/2024 RECURSO CÍVEL Titular 284
+190 50040292120234025105 5/10/2023 13/7/2024 RECURSO CÍVEL Titular 175
+191 50040752220234025101 23/1/2023 7/8/2024 RECURSO CÍVEL Titular 150
+192 50040829620234025106 22/8/2023 26/2/2024 RECURSO CÍVEL Titular 313
+193 50040887820244025103 25/5/2024 31/7/2024 RECURSO CÍVEL Titular 157
+194 50041366620224025116 1/12/2022 11/7/2024 RECURSO CÍVEL Titular 177
+195 50042291920234025108 14/6/2023 21/5/2024 RECURSO CÍVEL Titular 228
+196 50042751120234025107 29/8/2023 16/7/2024 RECURSO CÍVEL Titular 172
+197 50043714520224025112 24/10/2022 18/6/2024 RECURSO CÍVEL Titular 200
+52
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+198 50043780220244025101 24/1/2024 29/5/2024 RECURSO CÍVEL Titular 220
+199 50044024920234025106 15/9/2023 16/4/2024 RECURSO CÍVEL Titular 263
+200 50044177320234025120 26/7/2023 21/2/2024 RECURSO CÍVEL Titular 318
+201 50044201320224025104 11/5/2022 26/3/2024 RECURSO CÍVEL Titular 284
+202 50044974920234025116 29/6/2023 3/6/2024 RECURSO CÍVEL Titular 215
+203 50046042320234025107 20/9/2023 10/7/2024 RECURSO CÍVEL Titular 178
+204 50046297720214025116 25/8/2021 4/7/2024 RECURSO CÍVEL Titular 184
+205 50046432020234025107 21/9/2023 12/7/2024 RECURSO CÍVEL Titular 176
+206 50046491220234025112 2/8/2023 9/7/2024 RECURSO CÍVEL Titular 179
+207 50046541920234025117 25/4/2023 31/7/2024 RECURSO CÍVEL Titular 157
+208 50046587020244025101 25/1/2024 12/7/2024 RECURSO CÍVEL Titular 176
+209 50046907620234025112 3/8/2023 7/5/2024 RECURSO CÍVEL Titular 242
+210 50048250720224025118 5/5/2022 22/2/2024 RECURSO CÍVEL Titular 317
+211 50048764820224025108 12/10/2022 3/7/2024 RECURSO CÍVEL Titular 185
+212 50049264920234025105 20/12/2023 30/7/2024 RECURSO CÍVEL Titular 158
+213 50049273120234025106 27/10/2023 26/1/2024 RECURSO CÍVEL Titular 344
+214 50050241320234025112 17/8/2023 5/2/2024 RECURSO CÍVEL Titular 334
+215 50050408320224025117 22/6/2022 29/2/2024 RECURSO CÍVEL Titular 310
+216 50050416820224025117 22/6/2022 26/2/2024 RECURSO CÍVEL Titular 313
+217 50050813820224025121 7/6/2022 5/8/2024 RECURSO CÍVEL Titular 152
+218 50051264220224025121 8/6/2022 21/6/2024 RECURSO CÍVEL Titular 197
+219 50053266020234025106 4/12/2023 2/5/2024 RECURSO CÍVEL Titular 247
+220 50053638720234025106 8/12/2023 15/7/2024 RECURSO CÍVEL Titular 173
+221 50054054820234025103 16/5/2023 13/6/2024 RECURSO CÍVEL Titular 205
+222 50054327720234025120 11/9/2023 23/7/2024 RECURSO CÍVEL Titular 165
+223 50054357420234025106 15/12/2023 7/6/2024 RECURSO CÍVEL Titular 211
+224 50054872820234025120 12/9/2023 5/6/2024 RECURSO CÍVEL Titular 213
+225 50055084320234025107 15/11/2023 13/6/2024 RECURSO CÍVEL Titular 205
+226 50055101020234025108 10/8/2023 5/7/2024 RECURSO CÍVEL Titular 183
+227 50056040720224025103 4/8/2022 21/6/2024 RECURSO CÍVEL Titular 197
+228 50056313320224025121 28/6/2022 2/8/2024 RECURSO CÍVEL Titular 155
+53
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+229 50056589420234025116 26/8/2023 3/5/2024 RECURSO CÍVEL Titular 246
+230 50057396220224025121 30/6/2022 17/7/2024 RECURSO CÍVEL Titular 171
+231 50057838020234025110 13/4/2023 21/6/2024 RECURSO CÍVEL Titular 197
+232 50057846620224025121 4/7/2022 21/6/2024 RECURSO CÍVEL Titular 197
+233 50058018320234025116 31/8/2023 29/5/2024 RECURSO CÍVEL Titular 220
+234 50058234420234025116 1/9/2023 11/7/2024 RECURSO CÍVEL Titular 177
+235 50058613920214025112 28/9/2021 26/1/2024 RECURSO CÍVEL Titular 344
+236 50059389220234025107 14/12/2023 6/8/2024 RECURSO CÍVEL Titular 151
+237 50060520420234025116 15/9/2023 18/7/2024 RECURSO CÍVEL Titular 170
+238 50060844820234025103 31/5/2023 11/4/2024 RECURSO CÍVEL Titular 268
+239 50060997220234025117 5/6/2023 11/4/2024 RECURSO CÍVEL Titular 268
+240 50061136320214025105 24/11/2021 6/2/2024 RECURSO CÍVEL Titular 333
+241 50061241020224025121 15/7/2022 29/7/2024 RECURSO CÍVEL Titular 159
+242 50061492320224025121 15/7/2022 15/7/2024 RECURSO CÍVEL Titular 173
+243 50061812020244025101 1/2/2024 17/7/2024 RECURSO CÍVEL Titular 171
+244 50061857720224025117 1/8/2022 22/4/2024 RECURSO CÍVEL Titular 257
+245 50062021320224025118 9/6/2022 11/4/2024 RECURSO CÍVEL Titular 268
+246 50062143020224025117 2/8/2022 18/3/2024 RECURSO CÍVEL Titular 292
+247 50062340220234025112 20/10/2023 9/7/2024 RECURSO CÍVEL Titular 179
+248 50062450720234025120 18/10/2023 30/7/2024 RECURSO CÍVEL Titular 158
+249 50063014920234025117 9/6/2023 19/6/2024 RECURSO CÍVEL Titular 199
+250 50063096820234025103 6/6/2023 30/1/2024 RECURSO CÍVEL Titular 340
+251 50063476020224025121 21/7/2022 2/8/2024 RECURSO CÍVEL Titular 155
+252 50063572420234025104 30/5/2023 14/6/2024 RECURSO CÍVEL Titular 204
+253 50063841020234025103 8/6/2023 28/6/2024 RECURSO CÍVEL Titular 190
+254 50065145520234025117 15/6/2023 8/5/2024 RECURSO CÍVEL Titular 241
+255 50065451720234025104 5/6/2023 16/7/2024 RECURSO CÍVEL Titular 172
+256 50065535520234025116 9/10/2023 10/5/2024 RECURSO CÍVEL Titular 239
+257 50065735820234025112 8/11/2023 27/5/2024 RECURSO CÍVEL Titular 222
+258 50066029620234025116 11/10/2023 17/5/2024 RECURSO CÍVEL Titular 232
+259 50066196320224025118 22/6/2022 15/7/2024 RECURSO CÍVEL Titular 173
+54
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+260 50066629720224025118 23/6/2022 12/4/2024 RECURSO CÍVEL Titular 267
+261 50066706520224025121 1/8/2022 21/6/2024 RECURSO CÍVEL Titular 197
+262 50068228920214025108 25/10/2021 16/7/2024 RECURSO CÍVEL Titular 172
+263 50068527720234025101 2/2/2023 17/7/2024 RECURSO CÍVEL Titular 171
+264 50068925320234025103 26/6/2023 21/6/2024 RECURSO CÍVEL Titular 197
+265 50069570620234025117 28/6/2023 5/8/2024 RECURSO CÍVEL Titular 152
+266 50069589120234025116 26/10/2023 9/5/2024 RECURSO CÍVEL Titular 240
+267 50069824120224025121 10/8/2022 19/1/2024 RECURSO CÍVEL Titular 349
+268 50070201320224025102 22/9/2022 2/8/2024 RECURSO CÍVEL Titular 155
+269 50070453520234025120 27/11/2023 12/6/2024 RECURSO CÍVEL Titular 206
+270 50070929720224025102 23/9/2022 22/3/2024 RECURSO CÍVEL Titular 288
+271 50071236520234025108 19/10/2023 16/4/2024 RECURSO CÍVEL Titular 263
+272 50071382220234025112 12/12/2023 6/8/2024 RECURSO CÍVEL Titular 151
+273 50071514020224025117 31/8/2022 26/7/2024 RECURSO CÍVEL Titular 162
+274 50071561620234025121 28/4/2023 15/7/2024 RECURSO CÍVEL Titular 173
+275 50072145820234025108 23/10/2023 29/7/2024 RECURSO CÍVEL Titular 159
+276 50072162820234025108 23/10/2023 23/7/2024 RECURSO CÍVEL Titular 165
+277 50073368620234025103 7/7/2023 19/3/2024 RECURSO CÍVEL Titular 291
+278 50073440920234025121 4/5/2023 1/4/2024 RECURSO CÍVEL Titular 278
+279 50073787520224025102 4/10/2022 26/4/2024 RECURSO CÍVEL Titular 253
+280 50073988720234025116 17/11/2023 11/6/2024 RECURSO CÍVEL Titular 207
+281 50074022720234025116 17/11/2023 10/6/2024 RECURSO CÍVEL Titular 208
+282 50075356320234025118 19/5/2023 1/5/2024 RECURSO CÍVEL Titular 248
+283 50076256720204025121 22/10/2020 14/5/2024 RECURSO CÍVEL Titular 235
+284 50076360420214025108 6/12/2021 8/2/2024 RECURSO CÍVEL Titular 331
+285 50076628920234025121 11/5/2023 22/2/2024 RECURSO CÍVEL Titular 317
+286 50076815220234025103 17/7/2023 26/6/2024 RECURSO CÍVEL Titular 192
+287 50078023520234025118 24/5/2023 28/5/2024 RECURSO CÍVEL Titular 221
+288 50078425120224025118 26/7/2022 18/4/2024 RECURSO CÍVEL Titular 261
+289 50078481520234025121 15/5/2023 22/3/2024 RECURSO CÍVEL Titular 288
+290 50079058420234025104 21/7/2023 4/4/2024 RECURSO CÍVEL Titular 275
+55
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+291 50079585320234025108 27/11/2023 30/4/2024 RECURSO CÍVEL Titular 249
+292 50079676420224025103 21/10/2022 23/2/2024 RECURSO CÍVEL Titular 316
+293 50080457620234025118 30/5/2023 12/3/2024 RECURSO CÍVEL Titular 298
+294 50080837020224025103 26/10/2022 2/5/2024 RECURSO CÍVEL Titular 247
+295 50080885520234025104 27/7/2023 24/7/2024 RECURSO CÍVEL Titular 164
+296 50081067920234025103 25/7/2023 6/2/2024 RECURSO CÍVEL Titular 333
+297 50081103320214025121 23/6/2021 4/5/2024 RECURSO CÍVEL Titular 245
+298 50081116220234025116 28/12/2023 12/7/2024 RECURSO CÍVEL Titular 176
+299 50081146920224025110 8/9/2022 8/4/2024 RECURSO CÍVEL Titular 271
+300 50081448320224025117 4/10/2022 20/6/2024 RECURSO CÍVEL Titular 198
+301 50081872520234025104 1/8/2023 29/7/2024 RECURSO CÍVEL Titular 159
+302 50082103420204025117 9/11/2020 7/2/2024 RECURSO CÍVEL Titular 332
+303 50082271020234025103 27/7/2023 25/2/2024 RECURSO CÍVEL Titular 314
+304 50082588220234025118 2/6/2023 9/5/2024 RECURSO CÍVEL Titular 240
+305 50082772120194025121 24/9/2019 6/5/2024 RECURSO CÍVEL Titular 243
+306 50082811320224025102 9/11/2022 30/4/2024 RECURSO CÍVEL Titular 249
+307 50083166420224025104 4/10/2022 12/6/2024 RECURSO CÍVEL Titular 206
+308 50083196820224025120 23/8/2022 29/4/2024 RECURSO CÍVEL Titular 250
+309 50083977120224025117 14/10/2022 29/7/2024 RECURSO CÍVEL Titular 159
+310 50085137020234025108 19/12/2023 18/6/2024 RECURSO CÍVEL Titular 200
+311 50085204520214025104 29/6/2021 29/7/2024 RECURSO CÍVEL Titular 159
+312 50086077020224025102 22/11/2022 12/6/2024 RECURSO CÍVEL Titular 206
+313 50086376820234025103 8/8/2023 30/4/2024 RECURSO CÍVEL Titular 249
+314 50086799720224025121 29/9/2022 2/8/2024 RECURSO CÍVEL Titular 155
+315 50086929620224025121 30/9/2022 27/7/2024 RECURSO CÍVEL Titular 161
+316 50087960820234025104 22/8/2023 26/4/2024 RECURSO CÍVEL Titular 253
+317 50088897120234025103 15/8/2023 21/6/2024 RECURSO CÍVEL Titular 197
+318 50089017720224025117 1/11/2022 21/6/2024 RECURSO CÍVEL Titular 197
+319 50089389220224025121 7/10/2022 14/5/2024 RECURSO CÍVEL Titular 235
+320 50089442820234025101 10/2/2023 9/7/2024 RECURSO CÍVEL Titular 179
+321 50089468620234025104 28/8/2023 21/6/2024 RECURSO CÍVEL Titular 197
+56
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+322 50090307020224025121 11/10/2022 11/3/2024 RECURSO CÍVEL Titular 299
+323 50090480620224025117 8/11/2022 29/7/2024 RECURSO CÍVEL Titular 159
+324 50090537920234025121 14/6/2023 4/4/2024 RECURSO CÍVEL Titular 275
+325 50090897820234025103 21/8/2023 2/7/2024 RECURSO CÍVEL Titular 186
+326 50091705820224025104 4/11/2022 15/4/2024 RECURSO CÍVEL Titular 264
+327 50091822120224025121 17/10/2022 7/3/2024 RECURSO CÍVEL Titular 303
+328 50092342920224025117 17/11/2022 29/7/2024 RECURSO CÍVEL Titular 159
+329 50092447820234025104 8/9/2023 14/6/2024 RECURSO CÍVEL Titular 204
+330 50093267020234025117 29/8/2023 13/6/2024 RECURSO CÍVEL Titular 205
+331 50094066520224025118 5/9/2022 5/3/2024 RECURSO CÍVEL Titular 305
+332 50094685020224025104 17/11/2022 26/2/2024 RECURSO CÍVEL Titular 313
+333 50094742620234025103 30/8/2023 26/7/2024 RECURSO CÍVEL Titular 162
+334 50095179120224025104 21/11/2022 6/5/2024 RECURSO CÍVEL Titular 243
+335 50095396420234025121 27/6/2023 30/7/2024 RECURSO CÍVEL Titular 158
+336 50095447420224025104 21/11/2022 7/2/2024 RECURSO CÍVEL Titular 332
+337 50096099320234025117 5/9/2023 9/5/2024 RECURSO CÍVEL Titular 240
+338 50096353320234025104 25/9/2023 5/8/2024 RECURSO CÍVEL Titular 152
+339 50097019320224025121 3/11/2022 26/3/2024 RECURSO CÍVEL Titular 284
+340 50097047120234025102 4/8/2023 15/5/2024 RECURSO CÍVEL Titular 234
+341 50097449320234025121 1/7/2023 21/6/2024 RECURSO CÍVEL Titular 197
+342 50097956120234025103 12/9/2023 21/6/2024 RECURSO CÍVEL Titular 197
+343 50098414220224025117 8/12/2022 29/5/2024 RECURSO CÍVEL Titular 220
+344 50098452120224025104 30/11/2022 29/5/2024 RECURSO CÍVEL Titular 220
+345 50098596320224025117 8/12/2022 1/3/2024 RECURSO CÍVEL Titular 309
+346 50098835420234025118 13/7/2023 13/7/2024 RECURSO CÍVEL Titular 175
+347 50099695020224025121 10/11/2022 22/2/2024 RECURSO CÍVEL Titular 317
+348 50100276520224025117 15/12/2022 21/6/2024 RECURSO CÍVEL Titular 197
+349 50102268420224025118 27/9/2022 23/2/2024 RECURSO CÍVEL Titular 316
+350 50102455620234025118 21/7/2023 6/6/2024 RECURSO CÍVEL Titular 212
+351 50102594020234025118 22/7/2023 6/2/2024 RECURSO CÍVEL Titular 333
+352 50103117020224025118 28/9/2022 26/6/2024 RECURSO CÍVEL Titular 192
+57
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+353 50103389520224025104 18/12/2022 26/1/2024 RECURSO CÍVEL Titular 344
+354 50104282720234025118 27/7/2023 9/7/2024 RECURSO CÍVEL Titular 179
+355 50104415120224025121 26/11/2022 31/5/2024 RECURSO CÍVEL Titular 218
+356 50104737620234025103 28/9/2023 21/6/2024 RECURSO CÍVEL Titular 197
+357 50105069720224025104 23/12/2022 27/6/2024 RECURSO CÍVEL Titular 191
+358 50105424220224025104 27/12/2022 7/2/2024 RECURSO CÍVEL Titular 332
+359 50105542220234025104 26/10/2023 16/5/2024 RECURSO CÍVEL Titular 233
+360 50105562620224025104 28/12/2022 16/7/2024 RECURSO CÍVEL Titular 172
+361 50105956920224025121 1/12/2022 24/6/2024 RECURSO CÍVEL Titular 194
+362 50106552020234025117 29/9/2023 29/4/2024 RECURSO CÍVEL Titular 250
+363 50107028820234025118 3/8/2023 11/7/2024 RECURSO CÍVEL Titular 177
+364 50108449220234025118 7/8/2023 6/2/2024 RECURSO CÍVEL Titular 333
+365 50109248120224025121 14/12/2022 29/4/2024 RECURSO CÍVEL Titular 250
+366 50109660820234025118 9/8/2023 14/6/2024 RECURSO CÍVEL Titular 204
+367 50109977320234025103 11/10/2023 13/6/2024 RECURSO CÍVEL Titular 205
+368 50110025020234025118 10/8/2023 16/4/2024 RECURSO CÍVEL Titular 263
+369 50110062420224025118 18/10/2022 2/2/2024 RECURSO CÍVEL Titular 337
+370 50111413020224025120 20/11/2022 29/7/2024 RECURSO CÍVEL Titular 159
+371 50112574220224025118 25/10/2022 17/1/2024 RECURSO CÍVEL Titular 349
+372 50113795520224025118 27/10/2022 26/4/2024 RECURSO CÍVEL Titular 253
+373 50115492720224025118 2/11/2022 2/8/2024 RECURSO CÍVEL Titular 155
+374 50116993320214025121 13/8/2021 9/2/2024 RECURSO CÍVEL Titular 330
+375 50117718620224025120 15/12/2022 9/4/2024 RECURSO CÍVEL Titular 270
+376 50118287920234025117 3/11/2023 16/7/2024 RECURSO CÍVEL Titular 172
+377 50118797820234025121 29/8/2023 6/2/2024 RECURSO CÍVEL Titular 333
+378 50118896220224025120 19/12/2022 20/3/2024 RECURSO CÍVEL Titular 290
+379 50119555920234025103 7/11/2023 29/5/2024 RECURSO CÍVEL Titular 220
+380 50119954720234025101 24/2/2023 12/7/2024 RECURSO CÍVEL Titular 176
+381 50120058220234025104 18/12/2023 24/7/2024 RECURSO CÍVEL Titular 164
+382 50121563020234025110 31/5/2023 31/1/2024 RECURSO CÍVEL Titular 339
+383 50121615220234025110 31/5/2023 24/6/2024 RECURSO CÍVEL Titular 194
+58
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+384 50122176120234025118 11/9/2023 6/8/2024 RECURSO CÍVEL Titular 151
+385 50122574320234025118 12/9/2023 14/5/2024 RECURSO CÍVEL Titular 235
+386 50122967420224025118 24/11/2022 19/4/2024 RECURSO CÍVEL Titular 260
+387 50123450820234025110 2/6/2023 2/2/2024 RECURSO CÍVEL Titular 337
+388 50124514320234025118 16/9/2023 26/7/2024 RECURSO CÍVEL Titular 162
+389 50125371720234025117 29/11/2023 17/6/2024 RECURSO CÍVEL Titular 201
+390 50125467320234025118 19/9/2023 19/6/2024 RECURSO CÍVEL Titular 199
+391 50125824220234025110 9/6/2023 13/3/2024 RECURSO CÍVEL Titular 297
+392 50127625120244025101 4/3/2024 24/7/2024 RECURSO CÍVEL Titular 164
+393 50127724020214025121 31/8/2021 1/3/2024 RECURSO CÍVEL Titular 309
+394 50128158620214025117 5/11/2021 28/6/2024 RECURSO CÍVEL Titular 190
+395 50130135220234025118 29/9/2023 3/8/2024 RECURSO CÍVEL Titular 154
+396 50130819020234025121 29/9/2023 15/7/2024 RECURSO CÍVEL Titular 173
+397 50133382720234025118 9/10/2023 12/7/2024 RECURSO CÍVEL Titular 176
+398 50135192820234025118 16/10/2023 17/4/2024 RECURSO CÍVEL Titular 262
+399 50136338120244025101 6/3/2024 6/8/2024 RECURSO CÍVEL Titular 151
+400 50139619120234025118 26/10/2023 30/6/2024 RECURSO CÍVEL Titular 188
+401 50139999420234025121 24/10/2023 9/7/2024 RECURSO CÍVEL Titular 179
+402 50143970420234025101 4/3/2023 7/6/2024 RECURSO CÍVEL Titular 211
+403 50144600220234025110 13/7/2023 6/2/2024 RECURSO CÍVEL Titular 333
+404 50149923720224025101 7/3/2022 3/4/2024 RECURSO CÍVEL Titular 276
+405 50150574420234025118 27/11/2023 18/7/2024 RECURSO CÍVEL Titular 170
+406 50150828120234025110 26/7/2023 16/4/2024 RECURSO CÍVEL Titular 263
+407 50158732620234025118 20/12/2023 5/7/2024 RECURSO CÍVEL Titular 183
+408 50158821220234025110 8/8/2023 26/3/2024 RECURSO CÍVEL Titular 284
+409 50161891020214025118 1/10/2021 8/7/2024 RECURSO CÍVEL Titular 180
+410 50163784120234025110 17/8/2023 19/3/2024 RECURSO CÍVEL Titular 291
+411 50166729320234025110 24/8/2023 23/3/2024 RECURSO CÍVEL Titular 287
+412 50166867720234025110 24/8/2023 30/1/2024 RECURSO CÍVEL Titular 340
+413 50170472420234025101 13/3/2023 9/5/2024 RECURSO CÍVEL Titular 240
+414 50177099020204025101 21/3/2020 6/5/2024 RECURSO CÍVEL Titular 243
+59
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+415 50177237420204025101 21/3/2020 7/5/2024 RECURSO CÍVEL Titular 242
+416 50177979620234025110 18/9/2023 26/3/2024 RECURSO CÍVEL Titular 284
+417 50179531420234025101 15/3/2023 13/5/2024 RECURSO CÍVEL Titular 236
+418 50182658720234025101 16/3/2023 7/8/2024 RECURSO CÍVEL Titular 150
+419 50185461620234025110 29/9/2023 16/7/2024 RECURSO CÍVEL Titular 172
+420 50190826520214025120 14/12/2021 4/4/2024 RECURSO CÍVEL Titular 275
+421 50194177320234025101 20/3/2023 26/7/2024 RECURSO CÍVEL Titular 162
+422 50198834020234025110 25/10/2023 6/2/2024 RECURSO CÍVEL Titular 333
+423 50201131220234025101 22/3/2023 9/7/2024 RECURSO CÍVEL Titular 179
+424 50214527620234025110 23/11/2023 17/4/2024 RECURSO CÍVEL Titular 262
+425 50224010320234025110 13/12/2023 11/6/2024 RECURSO CÍVEL Titular 207
+426 50239885320244025101 15/4/2024 25/4/2024 MANDADO DE SEGURANÇA TR CÍVEL Titular 254
+427 50302695920234025101 11/4/2023 11/7/2024 RECURSO CÍVEL Titular 177
+428 50307571420234025101 12/4/2023 19/7/2024 RECURSO CÍVEL Titular 169
+429 50355993720234025101 17/4/2023 19/7/2024 RECURSO CÍVEL Titular 169
+430 50450875020224025101 14/6/2022 10/4/2024 RECURSO CÍVEL Titular 269
+431 50477417320234025101 20/4/2023 23/7/2024 RECURSO CÍVEL Titular 165
+432 50506918920224025101 5/7/2022 16/5/2024 RECURSO CÍVEL Titular 233
+433 50508587220234025101 26/4/2023 26/3/2024 RECURSO CÍVEL Titular 284
+434 50515142920234025101 27/4/2023 21/6/2024 RECURSO CÍVEL Titular 197
+435 50519932220234025101 28/4/2023 10/4/2024 RECURSO CÍVEL Titular 269
+436 50574702620234025101 16/5/2023 21/6/2024 RECURSO CÍVEL Titular 197
+437 50604784520224025101 10/8/2022 5/8/2024 RECURSO CÍVEL Titular 152
+438 50607890220234025101 23/5/2023 13/6/2024 RECURSO CÍVEL Titular 205
+439 50613424920234025101 24/5/2023 31/7/2024 RECURSO CÍVEL Titular 157
+440 50637033920234025101 31/5/2023 26/3/2024 RECURSO CÍVEL Titular 284
+441 50638500220224025101 23/8/2022 15/3/2024 RECURSO CÍVEL Titular 295
+442 50692575220234025101 20/6/2023 6/8/2024 RECURSO CÍVEL Titular 151
+443 50695104020234025101 21/6/2023 5/3/2024 RECURSO CÍVEL Titular 305
+444 50695468220234025101 21/6/2023 13/6/2024 RECURSO CÍVEL Titular 205
+445 50708744720234025101 26/6/2023 30/7/2024 RECURSO CÍVEL Titular 158
+60
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+446 50743624420224025101 26/9/2022 25/3/2024 RECURSO CÍVEL Titular 285
+447 50751407720234025101 7/7/2023 21/2/2024 RECURSO CÍVEL Titular 318
+448 50781417020234025101 18/7/2023 7/2/2024 RECURSO CÍVEL Titular 332
+449 50790830520234025101 20/7/2023 12/3/2024 RECURSO CÍVEL Titular 298
+RECURSO DE MEDIDA CAUTELAR
+450 50803467220234025101 25/7/2023 18/6/2024 Titular 200
+CÍVEL
+451 50816296720224025101 21/10/2022 6/8/2024 RECURSO CÍVEL Titular 151
+452 50822506420224025101 25/10/2022 12/4/2024 RECURSO CÍVEL Titular 267
+453 50823074820234025101 31/7/2023 11/4/2024 RECURSO CÍVEL Titular 268
+454 50846761520234025101 5/8/2023 19/7/2024 RECURSO CÍVEL Titular 169
+455 50850298920224025101 4/11/2022 19/4/2024 RECURSO CÍVEL Titular 260
+456 50854868720234025101 8/8/2023 5/8/2024 RECURSO CÍVEL Titular 152
+457 50871249220224025101 15/11/2022 6/6/2024 RECURSO CÍVEL Titular 212
+458 50904921220224025101 25/11/2022 21/6/2024 RECURSO CÍVEL Titular 197
+459 50918856920224025101 30/11/2022 24/3/2024 RECURSO CÍVEL Titular 286
+460 50932875420234025101 1/9/2023 1/4/2024 RECURSO CÍVEL Titular 278
+461 50938678420234025101 4/9/2023 15/5/2024 RECURSO CÍVEL Titular 234
+462 50955526320224025101 9/12/2022 18/4/2024 RECURSO CÍVEL Titular 261
+463 50958199820234025101 12/9/2023 2/7/2024 RECURSO CÍVEL Titular 186
+464 50971253920224025101 14/12/2022 16/2/2024 RECURSO CÍVEL Titular 323
+465 51001981920224025101 28/12/2022 30/7/2024 RECURSO CÍVEL Titular 158
+466 51005342320224025101 30/12/2022 9/4/2024 RECURSO CÍVEL Titular 270
+467 51014788820234025101 28/9/2023 15/3/2024 RECURSO CÍVEL Titular 295
+468 51028056820234025101 3/10/2023 21/6/2024 RECURSO CÍVEL Titular 197
+469 51055439720214025101 28/9/2021 30/7/2024 RECURSO CÍVEL Titular 158
+470 51064422720234025101 16/10/2023 11/1/2024 RECURSO CÍVEL Titular 349
+471 51090344420234025101 24/10/2023 18/4/2024 RECURSO CÍVEL Titular 261
+472 51121003220234025101 3/11/2023 30/7/2024 RECURSO CÍVEL Titular 158
+473 51160268920214025101 1/11/2021 17/7/2024 RECURSO CÍVEL Titular 171
+474 51194628520234025101 16/11/2023 21/5/2024 RECURSO CÍVEL Titular 228
+475 51196135120234025101 16/11/2023 9/7/2024 RECURSO CÍVEL Titular 179
+476 51239698920234025101 29/11/2023 26/3/2024 RECURSO CÍVEL Titular 284
+61
+Último Tempo em
+Processo Autuação Classe Juiz
+Movimento Dias
+477 51239906520234025101 29/11/2023 17/6/2024 RECURSO CÍVEL Titular 201
+478 51318432820234025101 19/12/2023 30/7/2024 RECURSO CÍVEL Titular 158
+479 51322088220234025101 19/12/2023 23/7/2024 RECURSO CÍVEL Titular 165
+480 51334349320214025101 21/12/2021 29/5/2024 RECURSO CÍVEL Titular 220
+481 51335997220234025101 27/12/2023 6/8/2024 RECURSO CÍVEL Titular 151
+9.4 TUTELAS ANTECIPADAS E LIMINARES PENDENTES DE APRECIAÇÃO
+Foram encontrados 53 processos com pedidos de antecipação de tutela pendentes nos últimos 12
+meses.
+A equipe de correição analisou, por amostragem, os processos com pedidos de antecipação de tutela
+pendentes nos últimos 12 meses.
+Amostragem de processos com pedidos de antecipação de tutela pendentes. Fonte: E-proc (5/2/2025)
+Observação -
+Processo Autuação Classe/Assunto
+Recomendação
+Há referência à “tutela
+requerida” no campo
+de “informações
+adicionais”.
+Pedido de antecipação
+de tutela formulado na
+origem, indeferido na
+decisão do evento 4.
+1 50008993820244025121 8/2/2024 RECURSO CÍVEL / Deficiente
+O campo de
+“informações
+adicionais” deve ser
+atualizado pela
+unidade de origem,
+após a baixa e
+remessa dos autos.
+Não há recomendação
+para o Gabinete.
+Pedido de antecipação
+de tutela prejudicado,
+em razão da prolação
+da sentença (evento
+16).
+RECURSO CÍVEL / Aposentadoria
+2 50008754920244025108 23/2/2024
+por Invalidez (Art. 42/7) Não há opção mais
+adequada, portanto, a
+opção “requerida”
+pode ser mantida.
+Em conformidade.
+62
+Observação -
+Processo Autuação Classe/Assunto
+Recomendação
+Há referência à “tutela
+requerida” no campo
+de “informações
+adicionais”.
+Pedido de antecipação
+de tutela formulado na
+origem, indeferido na
+RECURSO CÍVEL / Revisão da Vida decisão do evento 3.
+3 50102811820244025101 23/2/2024 Toda (Tema 1102 de Repercussão
+Geral)
+O campo de
+“informações
+adicionais” deve ser
+atualizado pela
+unidade de origem,
+após a baixa e
+remessa dos autos.
+Não há recomendação
+para o Gabinete.
+Pedido de antecipação
+de tutela prejudicado,
+em razão da prolação
+da sentença (evento
+37).
+RECURSO CÍVEL / Aposentadoria
+4 50008547320244025108 23/2/2024
+por Invalidez (Art. 42/7) Não há opção mais
+adequada, portanto, a
+opção “requerida”
+pode ser mantida.
+Em conformidade.
+Há referência à
+“tutela requerida” no
+campo de
+“informações
+adicionais”, mas não
+há pedido de
+antecipação de tutela.
+O campo de
+5 50002449620244025111 28/2/2024 RECURSO CÍVEL / Deficiente
+“informações
+adicionais” deve ser
+retificado pela
+unidade de origem,
+após a baixa e
+remessa dos autos.
+Não há recomendação
+para o Gabinete.
+Links para os processos: 50008993820244025121, 50008754920244025108, 50102811820244025101,
+50008547320244025108, 50002449620244025111, 50115448520244025101, 50014584920244025103,
+50133340720244025101, 50136338120244025101, 50003635120244025113.
+63
+Destaca-se que o lançamento da informação de tutela requerida no sistema e-Proc pelas unidades
+jurisdicionais passou a ser exigido, para fins de correição, com o advento da Portaria nº TRF2-PTC-
+2021/00151, de 8 de junho de 2021, para os processos distribuídos após a sua edição.
+9.5 SUGESTÕES - ACERVO CONCLUSO E CUMPRIMENTO DE PRAZOS
+a) Manter o cumprimento do compromisso assumido no âmbito do Programa de
+Acompanhamento Especial, de reduzir mensalmente um percentual de processos parados há
+mais de 150 dias (movimentando também os parados há menos tempo, para que não
+cheguem à mesma situação) (item 9.3.3).
+10 PROCESSOS EM SEGREDO DE JUSTIÇA (ART. 48,
+V, CNCR)
+Constam 42 (quarenta e dois) processos com sigilo grau 1, mas nenhum acima disso.
+11 RPVS E PRECATÓRIOS
+A unidade não cadastrou precatórios nem requisitórios de pequeno valor nos últimos 12 meses.
+64
+12 ORGANIZAÇÃO DA UNIDADE, SETORIZAÇÃO E
+PROCESSAMENTO (ART. 48, V, CNCR)
+12.1 ORGANIZAÇÃO DA UNIDADE E SETORIZAÇÃO
+12.1.1 Organização da Unidade
+A forma de organização da unidade foi detalhada nos seguintes termos:
+“As atividades são assim distribuídas na unidade: 1. Chefe de Gabinete: (a) realizar a triagem
+inicial dos processos distribuídos e redistribuídos, de modo a verificar a correção da autuação, a
+tempestividade do(s) recurso(s) interpostos, a competência, a existência de prioridade legal e de
+pedido de tutela de urgência, a regularidade da representação processual das partes, entre outros,
+inserindo-os, em sequência, em localizadores alusivos ao mês e ano de distribuição e assunto
+objeto do recurso; (b) elaboração de minutas de atos ordinatórios, despachos, decisões e
+relatórios/votos, submetidas à revisão pelo magistrado; (c) gestão da unidade, o que abrange o
+controle dos e-mails institucionais, atendimento aos advogados por meio de e-mail, envio da
+frequência dos servidores e dos estagiários, solicitação de material de expediente,
+acompanhamento do cumprimento das metas internas estabelecidas pelo magistrado e das Metas
+Nacionais, bem como do Plano de Gestão elaborado pela unidade e encaminhado para a
+Corregedoria-Geral, em razão da inclusão no Plano de Acompanhamento Especial (PAE),
+avaliação de servidores e estagiários, requisição de férias dos servidores e recessos dos
+estagiários, recebimento de material do plantão judiciário e quaisquer outras demandas
+administrativas que se façam necessárias. 2. Servidores: elaboração de minutas de decisões e
+relatórios/votos, a serem revisadas e eventualmente retificadas pelo magistrado. Há uma divisão
+interna das matérias dos processos entre os servidores e a Chefe de Gabinete. O magistrado se
+encarrega diretamente de processos com temas menos frequentes, de processos que necessitem da
+elaboração de minutas com maior grau de dificuldade, da correção de todas as minutas elaboradas
+pelos servidores, da confecção de modelos de minutas a serem utilizados no Gabinete e da inclusão
+dos processos em pauta para julgamento. 3. Estagiários: Elaboração de minutas de decisões em
+processos de menor complexidade, posteriormente submetidas à conferência do magistrado.”
+12.1.2 Planejamento das Atividades da Unidade e das Metas Internas
+Quanto à sistemática de planejamento das atividades da unidade e à existência de metas internas, foi
+informado que:
+“O juiz federal Rafael Assis Alves assumiu a titularidade deste gabinete em 10/09/2024. Desde
+então, diversas medidas foram implementadas para acelerar os julgamentos, a exemplo da revisão
+dos processos de trabalho, ampliação da equipe e estabelecimento de reuniões semanais para
+alinhamento de objetivos de curto prazo. Em decorrência da inclusão da unidade no PAE, da
+Corregedoria, foi elaborado novo Plano de Gestão, em que foram estabelecidas as seguintes
+metas: 1. Direcionar 70% da produtividade mensal aos processos parados há mais de 150 dias. 2.
+Dedicar 30% da produtividade mensal aos processos em risco de atingir a faixa crítica 3.
+Implementar, até 22 de fevereiro de 2025, sistema automatizado de localizadores no EPROC para
+monitoramento dos processos paralisados há mais de 150 dias. 4. Desenvolver, até 22 de fevereiro
+de 2025, rotina automatizada de controle dos processos suspensos ou sobrestados. 5. Estabelecer,
+65
+até 22 de fevereiro de 2025, procedimento padronizado para atualização dos localizadores no
+EPROC. 6. Apresentar à Corregedoria Regional relatório mensal sobre a evolução do acervo e o
+cumprimento das metas estabelecidas. As metas assumidas pela unidade perante a Corregedoria
+Regional são as seguintes: 200 julgamentos em janeiro/2025 e 220 nos demais meses até
+abril/2025, quando as metas serão reavaliadas.”
+12.1.3 Avaliação Periódica dos Resultados das Atividades da Unidade
+Em relação à sistemática de avaliação periódica dos resultados das atividades da unidade
+esclareceu-se que:
+“O magistrado elaborou uma planilha de Excel, hospedada na ferramenta Teams, para o registro
+diário, pelos servidores e estagiários, das minutas de decisões e votos elaboradas. Ao final de cada
+semana, a Chefia de Gabinete e o Magistrado acompanham a produção e cumprimento das metas
+estabelecidas. Semanalmente, o Magistrado realiza reuniões com a equipe, ocasiões em que instrui
+a equipe acerca de posicionamentos a serem adotados na elaboração das minutas, cientifica sobre
+jurisprudência recente, indaga a respeito de dificuldades na análise dos processos e revisa as
+metas internas fixadas.”
+12.1.4 Processos Incluídos nas Metas do CNJ
+Quanto ao detalhamento do tratamento dado aos processos incluídos nas Metas do CNJ, feitos com
+prioridade legal e demais ações elencadas no art. 12, parágrafo único, da Resolução nº 496/2006 do
+CJF, foi informado que:
+“As Metas do CNJ aplicáveis à unidade são as de produtividade (Meta 1) e celeridade (Meta 2).
+Quanto à Meta 2, há apenas um processo pendente de julgamento (processo
+50498240420194025101). Embora o processo tenha sido distribuído em 2019, o recurso somente
+foi remetido a este Gabinete em 10/07/2024. Apesar disso, o processo será apreciado
+monocraticamente até o dia 03/02/2025. Na hipótese de ser necessário o julgamento colegiado,
+será pautado para a próxima sessão. Quanto à Meta 1, houve o atingimento de apenas 36,89% em
+2024. Contudo, é preciso explicar o que levou a esse baixo desempenho. Em setembro/2024, ao
+assumir a unidade, o magistrado encontrou um cenário crítico: produtividade em declínio,
+distribuição crescente e acervo em expansão. Para reverter esse quadro, foram implementadas
+medidas estruturantes: padronização de minutas, simplificação de rotinas e aprimoramento da
+automatização do eProc. Os resultados já são perceptíveis: em janeiro/2025, atingimos 310
+julgamentos (201 monocráticos e 109 votos para próxima sessão). As medidas adotadas e os
+resultados preliminares demonstram que o índice de cumprimento será substancialmente melhor
+em 2025. Finalmente, o Magistrado e a Chefia de Gabinete acompanham diariamente o Painel de
+Indicadores da Corregedoria, a fim de identificar possíveis falhas na organização do fluxo de
+trabalho e eventuais entraves ao cumprimento das Metas do CNJ.”
+12.1.5 Critérios de Julgamento para os Demais Feitos
+Quanto aos critérios de julgamento para os demais feitos, foi informado que:
+“Ressalvados os casos de tutela de urgência, a seleção dos processos para julgamento adota
+critério objetivo focado na gestão eficiente do acervo, priorizando-se aqueles que se encontram na
+faixa crítica de tramitação (paralisados há mais de 150 dias). A distribuição do trabalho considera
+a especialização dos servidores por matéria, permitindo o agrupamento de recursos que versem
+66
+sobre temas comuns para julgamento em bloco e o julgamento de casos simples, como aqueles que
+podem ser decididos com base em precedentes obrigatórios.”
+12.1.6 Fluxo dos Processos, Abertura da Conclusão e Controle do Prazo para Prolação de
+Sentenças
+Quanto ao fluxo de processos entre a secretaria e o gabinete, noticiou-se que:
+“No momento da inclusão dos processos em pauta de julgamento no sistema Eproc, tarefa
+realizada diretamente pelo Magistrado, eles são incluídos em localizador designado pela
+Secretaria para a sessão correspondente. Após a sessão, um servidor da Secretaria (GAG) realiza
+a intimação das partes e controla os prazos. Não havendo novo recurso, o servidor da Secretaria
+certifica o trânsito em julgado e realiza a baixa dos autos ao Juizado de origem. Havendo recurso
+contra o acórdão ou decisão, o servidor da Secretaria faz o direcionamento ao Juízo responsável
+pela análise do recurso veiculado. Em casos de decisões monocráticas ou despachos, a
+publicação/intimação é realizada pelo próprio Gabinete, que os agenda no sistema Eproc e
+controla os prazos. Em casos específicos, sendo necessário o auxílio da Secretaria para a
+realização de alguma intimação por meio de mandado ou encaminhamento de ofício, inclui-se o
+processo no localizador GAG – MESA SERVIDOR. Da mesma forma, havendo a necessidade de
+apreciação pelo Gabinete de algum processo já incluído em localizador da Secretaria (localizador
+da sessão de julgamento), ele é incluído no localizador GAB3 – APRECIAR.”
+12.1.7 Utilização de Automação de Localizadores
+Ao ser indagada se utiliza automação de localizadores, a unidade informou que:
+“A unidade adotou a automação de localizadores no Eproc segundo o tempo em que o processo se
+encontra sem movimentação (processos parados entre 120 e 150 dias e processos parados há mais
+de 150 dias). À medida que a unidade conseguir reduzir o número de processos que se encontram
+nessa condição, serão criados localizadores com prazo de paralisação de 80 dias, a fim de permitir
+que sejam apreciados antes de atingirem o prazo de 100 dias, adotado pela Corregedoria do
+Conselho Nacional de Justiça como prazo de duração razoável dos feitos. Estão em fase de teste
+mais duas automatizações relacionadas à triagem. A primeira busca identificar os embargos de
+declaração opostos contra decisão monocrática ou colegiada. A segunda objetiva destacar os
+agravos internos interpostos contra decisões monocráticas terminativas. Uma vez implementadas
+essas automatizações, os processos serão incluídos em localizador específico e o recorrido será
+automaticamente intimado para apresentar contrarrazões recursais.”
+12.1.8 Controle dos Prazos de Suspensão dos Processos
+No que respeita à maneira de como é feito o controle dos prazos de suspensão dos processos,
+esclareceu-se que:
+“Os processos suspensos são registrados nessa condição no sistema Eproc, com a vinculação ao
+motivo que ensejou a suspensão. Nas hipóteses de sobrestamento de processos em razão de
+vinculação a temas repetitivos ou de repercussão geral, ao proceder à confecção da decisão de
+suspensão, a unidade promove o registro do Tema que motivou o sobrestamento no Eproc, a fim de
+permitir o controle dos processos sobrestados em decorrência de cada tema. A Chefia de Gabinete
+acompanha, por e-mail e pelos grupos de whattssapp do Núcleo de Gerenciamento de Precedentes
+(NUGEP) do TRF2, os temas que ensejaram o sobrestamento e levantamento de suspensão dos
+67
+processos, assim como realiza o controle mensal dos processos suspensos pelo Painel de
+Indicadores da Corregedoria.”
+12.1.9 Pertinência do assunto cadastrado no processo
+Questionada se verifica a pertinência do assunto cadastrado no processo ao receber novos
+processos, para respeitar a padronização da terminologia de assuntos processuais imposta pelo CNJ,
+a unidade assim se manifestou:
+“A Chefia de Gabinete promove, diariamente, a triagem inicial dos processos distribuídos e
+redistribuídos à unidade, verificando a competência da unidade e a pertinência do assunto
+cadastrado. Em sendo constatado equívoco, procede-se, de imediato, à retificação.”
+12.1.10 Correspondência com a Tabela Unificada
+Indagada se possui algum processo sem assunto correspondente disponível na Tabela Unificada e,
+em caso positivo, se a situação foi relatada à SAJ ou CORETAB, a unidade informou que:
+“A unidade não possui processos com assuntos sem correspondente disponível na Tabela
+Unificada.”
+12.2 LOCALIZADORES DE ENTRADAS E RECEBIMENTOS DE PETIÇÕES
+No momento da extração dos dados pelo NUEST, em 06/02/2025, não havia processos nos
+localizadores de entrada e recebimentos de petições.
+Evidencia-se, portanto, um excelente controle dos localizadores de entrada das petições, por parte
+da Unidade correcionada.
+13 MATERIAIS ACAUTELADOS NA UNIDADE
+13.1 MATERIAIS ACAUTELADOS OU APREENDIDOS
+Quanto ao regramento do registro, guarda e destinação de materiais apreendidos e/ou acautelados,
+destacam-se (i) a Resolução CNJ n.º 63, de 16/12/2008, vigente até o advento da Resolução CNJ
+n. 483, de 19/12/2022, atualmente vigente, (ii) a Resolução CNJ n.º 134, de 21/06/2011, (iii) a
+Resolução CJN nº 356, de 27/11/2020, (iv) a Resolução CJF n.º 428, de 07/04/2005, vigente até o
+advento da Resolução CJF n. 780/2022, de 08/08/2022, atualmente vigente, e (vi) os arts. 180 e 181
+da CNCR.
+13.1.1 Quantidade de materiais (bens e documentos) acautelados/apreendidos na unidade
+(informados pela unidade)
+“A unidade não possui materiais acautelados ou apreendidos.”
+68
+13.2 PROCESSOS FÍSICOS
+13.2.1 Processos Extraviados
+“A unidade não possui processos físicos com carga às partes ou retirados por auxiliares do juízo
+além do prazo legal.”
+13.2.2 Ações de Restauração de Autos
+“A unidade não possui processos físicos com carga às partes ou retirados por auxiliares do juízo
+além do prazo legal, bem assim ações de restauração de autos.”
+14 LIVROS E PASTAS (ART. 47, III, CNCR)
+Segundo o questionário pré-correição, a unidade dispõe dos seguintes livros e pastas obrigatórios
+(art. 128, CNCR):
+“Os seguintes livros foram substituídos por registros informatizados (art. 132 da CNCR):
+(i) Livro de Registro de Remessa de Autos e Documentos pelos Correios (JFRJ-ADM-2022/00406);
+(ii) Livro de Registro de Reclamações, Sugestões e Elogios (JFRJ-ADM2022/00407);
+(iii) Livro de Registro de Frequência dos Estagiários (JFRJ-ADM-2022/00408); e
+(iv) Livro de Registro de Ponto dos Servidores (JFRJ-ADM-2022/00409).”
+Na visita, a equipe de correição verificou que a Secretaria única das Turmas Recursais mantém, no
+balcão de atendimento, formulários de reclamação impressos, como alternativa ao livro eletrônico
+aos que desejem realizar reclamações, sugestões ou elogios presencialmente (art. 128, §4º, da
+CNCR).
+14.1 SUGESTÕES – LIVROS E PASTAS
+a) Providenciar a criação das pastas eletrônicas no SEI para os registros e controles
+obrigatórios de (i) ponto dos servidores; (ii) frequência dos estagiários; (iii) reclamações,
+sugestões e elogios; e (iv) remessas de autos e documentos pelos Correios, conforme
+determinado pelo art. 128 da CNCR, com a redação dada pelo Provimento SEI nº 01/2024
+(item 14).
+15 INFRAESTRUTURA DE INFORMÁTICA E
+INSTALAÇÕES FÍSICAS (ART. 48, VIII, CNCR)
+A 2ª Turma Recursal - 3º Gabinete (RJ) está localizada na Av. Venezuela, 134, 9º andar, bloco B.
+Instada no questionário pré-correição a relatar situação das instalações físicas do setor (mobiliário,
+ar-condicionado etc.) e dos equipamentos de informática, informando eventuais problemas,
+dificuldades, bem como destacando se há mobiliário e/ou equipamentos de informática
+danificados/defeituosos sem previsão de reparo ou substituição já requerida à DIRFO, a unidade
+apresentou a seguinte resposta:
+69
+“Embora as instalações físicas sejam adequadas, há um sério problema de desempenho do
+computador do magistrado. Já foi aberto mais de um chamado para resolver a lentidão que
+diariamente o equipamento apresenta, mas a resposta obtida foi de que não é possível substituir o
+equipamento por outro melhor. Foram tentadas medidas paliativas, como a desfragmentação do
+disco, que não surtiram efeito. O Gabinete é dividido em duas partes: área de apoio e gabinete do
+Juiz. Na área de apoio, há 5 (cinco) computadores com duas telas de monitor e 1 (uma)
+impressora. Foi solicitada, pela Chefia de Gabinete, mais 1 (câmera), para a realização de
+reuniões via Teams, estando no aguardo de disponibilização. Em relação ao mobiliário, há, do
+acervo pessoal do juiz titular, Dr. Gustavo Pontes Mazzocchi, 1 (uma) mesa com tampo de vidro,
+utilizada pela Chefia de Gabinete, 1 (uma) cadeira de couro bege, também utilizada pela Chefia de
+Gabinete, e, na sala do juiz, 1 (uma) televisão (tombada como bem particular) e 2 (dois) móveis de
+madeira também tombados como bens particulares. O mobiliário é adequado e com bom estado de
+conservação. A área é bem iluminada, seja de forma natural ou artificial. Há uma copa e banheiros
+dos servidores e estagiários, compartilhados com a equipe de apoio de outro gabinete.”
+16 ANÁLISE DA SITUAÇÃO DA UNIDADE EM FACE
+DA INSPEÇÃO E DAS RECOMENDAÇÕES DA
+CORREIÇÃO ANTERIOR (ART. 48, VI, CNCR)
+A Unidade encaminhou a esta Corregedoria, por meio do Ofício nº JFRJ-OFI-2024/02341, o seu
+relatório circunstanciado de inspeção e o plano de gestão, referentes à Inspeção Unificada de 2024.
+Não houve qualquer comentário adicional ou esclarecimento solicitado pela Corregedoria.
+Por sua vez, o Processo nº 5016460-13.2022.4.02.0000, relativo à Correição Ordinária realizada de
+27 de fevereiro a 03 de março de 2023, foi baixado em 02/10/2023, sem pendências em relação às
+recomendações anteriores desta Corregedoria, consideradas cumpridas.
+17 DEMANDAS E BOAS PRÁTICAS (ART. 48, IX,
+CNCR)
+Instado a relacionar as boas práticas, eventuais dificuldades vivenciadas, bem como demandas e
+soluções propostas, inclusive quanto aos setores administrativos, o Juízo assim se manifestou:
+“A maior dificuldade decorre da pouca experiência da equipe. O juiz federal Rafael Assis Alves
+assumiu a titularidade deste gabinete em 10/09/2024. Até 02/12/2024, a unidade contava com
+apenas um servidor que elaborava minutas de decisões, o analista judiciário Marcelo Augusto
+Pinto, que foi lotado em janeiro/2024 sem prévia experiência em gabinete e atua, desde então,
+exclusivamente nos recursos relacionados a benefício assistencial de prestação continuada. O
+chefe de gabinete, substituído em janeiro/2025, não elaborava minutas de decisões e a servidora
+Ângela Cembranel Refatti Avril encontra-se afastada desde 23/08/2024. Além desses servidores,
+foram contratados 3 estagiários em setembro/2024, que atuam nos benefícios por incapacidade.
+Em 02/12/2024, foi lotada na unidade a técnica judiciária Larissa Lima Azevedo, sem experiência
+prévia na confecção de minutas de votos/decisões. Por força da inclusão do Gabinete no Programa
+de Acompanhamento Especial (PAE) da Corregedoria-Geral da Justiça Federal da 2.ª Região,
+foram disponibilizados 2 (dois) servidores do Grupo de Apoio da Corregedoria para prestarem
+70
+auxílio ao Gabinete. Contudo, eles não possuem experiência na elaboração de minutas de votos e
+decisões. Em 28/01/2024, foi lotada, na unidade, uma servidora recém-empossada, aprovada no
+último concurso de servidores, em substituição à servidora em licença para tratamento de saúde.
+Por isso, à exceção do servidor Marcelo Augusto Pinto, todos os servidores estão sendo treinados
+pelo magistrado. Em decorrência da inclusão da unidade no PAE, da Corregedoria, foi elaborado
+novo Plano de Gestão, em que foram estabelecidas as seguintes metas: 1. Julgar pelo menos 200
+recursos em janeiro e 220 nos meses seguintes; 2. Reduzir gradativamente a quantidade de
+processos parados há mais de 150 dias, atingindo o máximo de 330 nesta situação em abril/2025.
+3. Direcionar 70% da produtividade mensal aos processos parados há mais de 150 dias. 4. Dedicar
+30% da produtividade mensal aos processos em risco de atingir a faixa crítica. 5. Implementar, até
+22 de fevereiro de 2025, sistema automatizado de localizadores no EPROC para monitoramento
+dos processos paralisados há mais de 150 dias. 6. Desenvolver, até 22 de fevereiro de 2025, rotina
+automatizada de controle dos processos suspensos ou sobrestados. 7. Estabelecer, até 22 de
+fevereiro de 2025, procedimento padronizado para atualização dos localizadores no EPROC. 8.
+Apresentar à Corregedoria Regional relatório mensal sobre a evolução do acervo e o cumprimento
+das metas estabelecidas. A unidade já implementou a automação de localizadores no Eproc
+segundo o tempo em que o processo se encontra sem movimentação (processos parados entre 120 e
+150 dias e processos parados há mais de 150 dias). À medida que conseguir reduzir o número de
+processos que se encontram nessa condição, serão criados localizadores com prazo de paralisação
+de 80 dias, a fim de permitir que sejam apreciados antes de atingirem o prazo de 100 dias, adotado
+pela Corregedoria do Conselho Nacional de Justiça como prazo de duração razoável dos feitos. O
+magistrado elaborou uma planilha de Excel, hospedada na ferramenta Teams, para o registro
+diário, pelos servidores e estagiários, das minutas de decisões e votos elaboradas. Ao final de cada
+semana, a Chefia de Gabinete e o Magistrado acompanham a produção e cumprimento das metas
+estabelecidas. Semanalmente, o Magistrado realiza reuniões com a equipe, ocasiões em que instrui
+a equipe acerca de posicionamentos a serem adotados na elaboração das minutas, cientifica sobre
+jurisprudência recente, indaga a respeito de dificuldades na análise dos processos e revisa as
+metas internas fixadas. Esse relato não visa justificar o baixo desempenho anterior, mas
+contextualizar a atual fase de reestruturação da unidade. O comprometimento de toda a equipe
+com a melhoria dos indicadores, sem prejuízo da qualidade técnica, já se reflete nos resultados de
+janeiro/2025, que demonstram consistente evolução da produtividade.”
+18 RECOMENDAÇÕES DA EQUIPE DO SETOR DE
+CORREIÇÃO
+Diante da análise efetuada no presente Relatório Conclusivo, a equipe do Setor de Correição propõe
+à Excelentíssima Corregedora Regional da Justiça Federal da 2ª Região as seguintes recomendações
+ao Gabinete correcionado:
+ Manter a estratégia de gestão e as rotinas de trabalho, a fim de obter o cumprimento total
+das Metas Nacionais do CNJ para o ano de 2025 (item 4.2);
+ Manter o cumprimento do compromisso assumido no âmbito do Programa de
+Acompanhamento Especial, de reduzir mensalmente um percentual de processos parados há
+mais de 150 dias (movimentando também os parados há menos tempo, para que não
+cheguem à mesma situação) (item 9.3.3);
+71
+ Providenciar a criação das pastas eletrônicas no SEI para os registros e controles
+obrigatórios de (i) ponto dos servidores; (ii) frequência dos estagiários; (iii) reclamações,
+sugestões e elogios; e (iv) remessas de autos e documentos pelos Correios, conforme
+determinado pelo art. 128 da CNCR, com a redação dada pelo Provimento SEI nº 01/2024
+(item 14).
+19 ENCERRAMENTO
+Tudo verificado, submetemos a Vossa Excelência o presente relatório conclusivo, elaborado pelos
+servidores da Corregedoria Regional Matheus Henrique dos Santos da Escossia (Matrícula
+T212440) e Waleria Saraiva Santos Ornelas Rodrigues (Matrícula T216207), e revisado por nós,
+servidora Izabel Cravo de Azevedo (Matrícula T216053) e assessora Maria Gama Filho de
+Carvalho (Matrícula T212472), que o subscrevemos.
+Rio de Janeiro,
+IZABEL CRAVO DE AZEVEDO
+Analista Judiciária
+MARIA GAMA FILHO DE CARVALHO
+Assessora
+72
+--- FILE: docs\gabinete\inspecoes\4_FORM1.pdf ---
+PODER JUDICIÁRIO
+JUSTIÇA FEDERAL
+SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO
+QUESTIONÁRIO DE PRÉ-CORREIÇÃO JUDICIAL SIGA Nº JFRJ-FOR-2025/00406
+Processo Nº: 5000083-59.2025.4.02.0000
+Período de correição: de 10/02/2025 até 14/02/2025
+Período de levantamento: 12 meses anteriores
+Prazo de entrega: 10 (dez) dias antes do início da correição.
+Nas perguntas que não se insiram na competência da unidade, deve responder "não se aplica".
+1. INFORMAÇÕES DA UNIDADE
+Nome/Sigla: 02TR-GAB3
+Data da Instalação: 20/08/2012
+Competências (referir eventual alteração de competência ocorrida nos últimos 12 meses e
+respectivo ato normativo):
+Desde 03/12/2018, a 2ª Turma Recursal tem competência em matéria previdenciária e
+assistencial (RGPS/LOAS), nos termos do art. 11 da Resolução n.º TRF-RSP-201800050,
+bem assim para os processos que tenham por objeto seguro-desemprego.
+Houve redistribuição de processos:
+Sim. Segundo dados extraídos do Painel de Indicadores da Corregedoria-Geral da Justiça
+Federal da 2.ª Região, no ano de 2024, foram redistribuídos 76 (setenta e seis) processos
+para a unidade.
+2. MAGISTRADOS
+1. Nome: RAFAEL ASSIS ALVES
+Cargo: JUIZ SUBSTITUTO
+Tempo de atuação na unidade: Desde 10/09/2024 (ATO n.º TRF2-ATC-2024/00201,
+de 9 de setembro de 2024)
+Afastamentos superiores a 15 dias nos últimos 12 meses, especificando o período e o
+fundamento, conforme o caso:
+Não houve afastamento do magistrado por período superior a 15 (quinze) dias nos
+últimos 12 (doze) meses.
+Períodos de substituição, em férias, de outro magistrado:
+O magistrado não substituiu outro magistrado no gozo de férias.
+Classif. documental 90.05.02.01
+A604005202ROFJRFJ
+Assinado com senha por LARISSA FIGUEIREDO COELHO MAIA - 31/01/2025 às 19:31:49.
+Documento Nº: 4288059-524 - consulta à autenticidade em https://siga.jfrj.jus.br/sigaex/public/app/autenticar?n=4288059-524
+PODER JUDICIÁRIO
+JUSTIÇA FEDERAL
+SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO
+Qual a modalidade de trabalho adotada pelo Magistrado no Juízo? (art. 2º, TRF2-
+PVC-2023/00002):
+O magistrado realiza as suas atividades presencialmente durante 3 (três) dias na
+semana e, remotamente, durante 2 (dois) dias.
+Como é realizado o atendimento aos advogados/procuradores? (art. 3º, TRF2-PVC-
+2023/00002):
+O atendimento aos advogados/procuradores é realizado presencial e virtualmente.
+Nesse último caso, por meio de telefone, e-mail e aplicativo Zoom.
+3. AUXÍLIOS prestados e recebidos nos últimos 12 meses:
+Em razão de a unidade ter sido incluída no Plano de Acompanhamento Especial (PAE), da
+Corregedoria-Geral da Justiça Federal da 2.ª Região, nos termos da Portaria n.º TRF2-PTC-
+2024/000298, de 28 de novembro de 2024, foi disponibilizado o auxílio por 2 (servidores)
+do Grupo de Servidores de Apoio (GSA), com início em janeiro de 2025, nos termos da
+Portaria SEI COR/TRF2 n.º 25, de 12 de dezembro de 2024. Impende, contudo, assinalar
+que esses dois servidores não possuem experiência na confecção de minutas de decisões e
+/ou relatórios/votos. Demais disso, um dos servidores não possui formação jurídica. Por fim,
+é relevante consignar que a servidora disponibilizada encontra-se em gozo de férias, de
+modo que o seu auxílio ao Gabinete somente terá início no dia 04/02/2025.
+4. SERVIDORES
+1. Discriminar a quantidade de cargos prevista na lotação e a quantidade efetivamente
+existente no tocante aos analistas judiciários, técnicos judiciários (área administrativa
+e segurança e transportes), requisitados ou outros:
+Analistas Técnicos Técnicos Jud. Requisitados Total de Quadro
+Data
+Judiciários Judiciários de Segurança ou outros servidores Previsto
+Última
+2 1 0 0 3 3
+correição
+Atualme
+2 1 0 1 4 4
+nte
+2. Quantidade de servidores em teletrabalho em observância do limite máximo previsto
+no art. 5º da Resolução nº TRF2-RSP-2019/00046, alterada pela Resolução n.º TRF2-
+RSP-2023/00002 (30% do quadro permanente), bem como se é encaminhado o
+relatório semestral de avaliação, previsto no art. 13, III, da referida Resolução: 0
+3. Nome dos servidores lotados na unidade e respectivos cargos efetivos (analistas,
+técnicos, etc.), bem como se exercem cargo em comissão / função comissionada,
+exercício de chefia, direção ou assessoramento:
+Larissa Figueiredo Coelho Maia: Analista Judiciária, Área Judiciária, cedida pelo
+Tribunal Regional Federal da 2.ª Região para ocupar o cargo em comissão de Chefe
+de Gabinete de Turma Recursal (CJ1).
+Marcelo Augusto Pinto, Analista Judiciário, Área Judiciária, designado para exercer a
+função comissionada de Assistente III (FC3).
+Bianca Gonçalves de Faria: Analista Judiciária, Área Judiciária. Não ocupa função
+2
+A604005202ROFJRFJ
+Assinado com senha por LARISSA FIGUEIREDO COELHO MAIA - 31/01/2025 às 19:31:49.
+Documento Nº: 4288059-524 - consulta à autenticidade em https://siga.jfrj.jus.br/sigaex/public/app/autenticar?n=4288059-524
+PODER JUDICIÁRIO
+JUSTIÇA FEDERAL
+SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO
+comissionada.
+Larissa Lima Azevedo: Técnica Judiciária, Área Administrativa. Não ocupa função
+comissionada.
+4. Nome e número de servidores sem vínculo com o serviço público:
+Não há, na unidade, servidores sem vínculo com o serviço público.
+5. Nome e número de servidores em auxílio (cedidos por outros setores) ou requisitados
+(com vínculo com o serviço público):
+Há 1 (uma) servidora requisitada do Tribunal Regional Federal da 2.ª Região: Larissa
+Figueiredo Coelho Maia, Analista Judiciária, Área Judiciária, para ocupar o cargo em
+comissão de Chefe de Gabinete de Turma Recursal (CJ1), e 2 (dois) servidores do
+Grupo de Servidores de Apoio (GSA), cedidos provisoriamente pela Corregedoria-
+Geral da Justiça Federal da 2.ª Região para prestarem auxílio: Alexandre Rocha do
+Nascimento, Técnico Judiciário, Área Administrativa, e Brenda Bazilio Aguilar
+Marques de Oliveira, Técnica Judiciária, Área Administrativa.
+5. ESTAGIÁRIOS
+1. Número de estagiários previstos para unidade, discriminando se de nível superior ou
+médio:
+São previstos para a unidade 4 estagiários de nível superior e 0 de nível médio.
+2. Número de estagiários efetivamente lotados na unidade, discriminando se de nível
+superior ou médio:
+Há 3 de nível superior e 0 de nível médio lotados na unidade.
+6. INSTALAÇÕES FÍSICAS E INFRAESTRUTURA
+1. Relatar a situação das instalações físicas do setor (mobiliário, ar condicionado, etc.) e
+dos equipamentos de informática, informando eventuais problemas, dificuldades,
+bem como destacando se há mobiliário e/ou equipamentos de informática danificados
+/defeituosos sem previsão de reparo ou substituição já requerida à DIRFO:
+Embora as instalações físicas sejam adequadas, há um sério problema de desempenho
+do computador do magistrado. Já foi aberto mais de um chamado para resolver a
+lentidão que diariamente o equipamento apresenta, mas a resposta obtida foi de que
+não é possível substituir o equipamento por outro melhor. Foram tentadas medidas
+paliativas, como a desfragmentação do disco, que não surtiram efeito.
+O Gabinete é dividido em duas partes: área de apoio e gabinete do Juiz.
+Na área de apoio, há 5 (cinco) computadores com duas telas de monitor e 1 (uma)
+impressora. Foi solicitada, pela Chefia de Gabinete, mais 1 (câmera), para a
+realização de reuniões via Teams, estando no aguardo de disponibilização.
+Em relação ao mobiliário, há, do acervo pessoal do juiz titular, Dr. Gustavo Pontes
+Mazzocchi, 1 (uma) mesa com tampo de vidro, utilizada pela Chefia de Gabinete, 1
+(uma) cadeira de couro bege, também utilizada pela Chefia de Gabinete, e, na sala do
+juiz, 1 (uma) televisão (tombada como bem particular) e 2 (dois) móveis de madeira
+também tombados como bens particulares.
+O mobiliário é adequado e com bom estado de conservação.
+A área é bem iluminada, seja de forma natural ou artificial.
+3
+A604005202ROFJRFJ
+Assinado com senha por LARISSA FIGUEIREDO COELHO MAIA - 31/01/2025 às 19:31:49.
+Documento Nº: 4288059-524 - consulta à autenticidade em https://siga.jfrj.jus.br/sigaex/public/app/autenticar?n=4288059-524
+PODER JUDICIÁRIO
+JUSTIÇA FEDERAL
+SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO
+Há uma copa e banheiros dos servidores e estagiários, compartilhados com a equipe
+de apoio de outro gabinete.
+7. LIVROS E PASTAS
+1. Quais os livros e pastas utilizados pela Vara Federal, Juizado Especial ou Turma
+Recursal?:
+A unidade correcionada dispõe dos seguintes livros e pastas obrigatórios (art. 128,
+CNCR), a saber:
+(i) Livro de ponto dos servidores;
+(ii) Livro de reclamação, sugestões e elogios;
+(iii) Pasta de registro de remessas de autos e documentos pelos Correios;
+(iv) Pasta de pedidos de materiais;
+(v) Pasta de registro de impedimento, suspeições, afastamento de magistrado atuante
+no Juízo;
+(vi) Pasta de preservação da Memória Institucional;
+(vii) Pasta de controle de frequência dos estagiários;
+(viii) Pasta de registro de documentos, bens e materiais acautelados no juízo ou em
+local por ele designado;
+(ix) Pasta das atas das sessões de julgamento.
+O controle da frequência dos estagiários é feito por meio do sistema SIGA.
+2. Algum livro ou pasta em papel foi substituído por registro informatizado (art. 132 da
+CNCR)? Quais?:
+Os seguintes livros foram substituídos por registros informatizados (art. 132 da
+CNCR):
+(i) Livro de Registro de Remessa de Autos e Documentos pelos Correios (JFRJ-
+ADM-2022/00406);
+(ii) Livro de Registro de Reclamações, Sugestões e Elogios (JFRJ-ADM2022/00407);
+(iii) Livro de Registro de Frequência dos Estagiários (JFRJ-ADM-2022/00408); e
+(iv) Livro de Registro de Ponto dos Servidores (JFRJ-ADM-2022/00409).
+3. Informar quais as Pastas/Livros Eletrônicos de controle obrigatório existentes no
+Siga, com a descrição dos expedientes que lhes corresponda:
+(i) Livro de Registro de Remessa de Autos e Documentos pelos Correios (JFRJ-
+ADM-2022/00406);
+(ii) Livro de Registro de Reclamações, Sugestões e Elogios (JFRJ-ADM2022/00407);
+(iii) Livro de Registro de Frequência dos Estagiários (JFRJ-ADM-2022/00408); e
+(iv) Livro de Registro de Ponto dos Servidores (JFRJ-ADM-2022/00409).
+8. ORGANIZAÇÃO DA UNIDADE E SETORIZAÇÃO (todas as unidades)
+1. Detalhar, sucintamente, a forma de organização da unidade, destacando as atribuições
+do Diretor (a) de Secretaria; Supervisores; e demais servidores:
+As atividades são assim distribuídas na unidade:
+1. Chefe de Gabinete:
+(a) realizar a triagem inicial dos processos distribuídos e redistribuídos, de modo a
+verificar a correção da autuação, a tempestividade do(s) recurso(s) interpostos, a
+competência, a existência de prioridade legal e de pedido de tutela de urgência, a
+regularidade da representação processual das partes, entre outros, inserindo-os, em
+sequência, em localizadores alusivos ao mês e ano de distribuição e assunto objeto do
+4
+A604005202ROFJRFJ
+Assinado com senha por LARISSA FIGUEIREDO COELHO MAIA - 31/01/2025 às 19:31:49.
+Documento Nº: 4288059-524 - consulta à autenticidade em https://siga.jfrj.jus.br/sigaex/public/app/autenticar?n=4288059-524
+PODER JUDICIÁRIO
+JUSTIÇA FEDERAL
+SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO
+recurso;
+(b) elaboração de minutas de atos ordinatórios, despachos, decisões e relatórios/votos,
+submetidas à revisão pelo magistrado;
+(c) gestão da unidade, o que abrange o controle dos e-mails institucionais,
+atendimento aos advogados por meio de e-mail, envio da frequência dos servidores e
+dos estagiários, solicitação de material de expediente, acompanhamento do
+cumprimento das metas internas estabelecidas pelo magistrado e das Metas
+Nacionais, bem como do Plano de Gestão elaborado pela unidade e encaminhado
+para a Corregedoria-Geral, em razão da inclusão no Plano de Acompanhamento
+Especial (PAE), avaliação de servidores e estagiários, requisição de férias dos
+servidores e recessos dos estagiários, recebimento de material do plantão judiciário e
+quaisquer outras demandas administrativas que se façam necessárias.
+2. Servidores: elaboração de minutas de decisões e relatórios/votos, a serem revisadas
+e eventualmente retificadas pelo magistrado. Há uma divisão interna das matérias dos
+processos entre os servidores e a Chefe de Gabinete.
+O magistrado se encarrega diretamente de processos com temas menos frequentes, de
+processos que necessitem da elaboração de minutas com maior grau de dificuldade,
+da correção de todas as minutas elaboradas pelos servidores, da confecção de
+modelos de minutas a serem utilizados no Gabinete e da inclusão dos processos em
+pauta para julgamento.
+3. Estagiários: Elaboração de minutas de decisões em processos de menor
+complexidade, posteriormente submetidas à conferência do magistrado.
+2. Informar, sucintamente, sobre a sistemática de planejamento das atividades da
+unidade e a existência de metas internas, detalhando conforme o caso:
+O juiz federal Rafael Assis Alves assumiu a titularidade deste gabinete em 10/09/2024
+. Desde então, diversas medidas foram implementadas para acelerar os julgamentos, a
+exemplo da revisão dos processos de trabalho, ampliação da equipe e estabelecimento
+de reuniões semanais para alinhamento de objetivos de curto prazo. Em decorrência
+da inclusão da unidade no PAE, da Corregedoria, foi elaborado novo Plano de
+Gestão, em que foram estabelecidas as seguintes metas:
+1. Direcionar 70% da produtividade mensal aos processos parados há mais de 150
+dias.
+2. Dedicar 30% da produtividade mensal aos processos em risco de atingir a faixa
+crítica
+3. Implementar, até 22 de fevereiro de 2025, sistema automatizado de localizadores
+no EPROC para monitoramento dos processos paralisados há mais de 150 dias.
+4. Desenvolver, até 22 de fevereiro de 2025, rotina automatizada de controle dos
+processos suspensos ou sobrestados.
+5. Estabelecer, até 22 de fevereiro de 2025, procedimento padronizado para
+atualização dos localizadores no EPROC.
+6. Apresentar à Corregedoria Regional relatório mensal sobre a evolução do acervo e
+o cumprimento das metas estabelecidas.
+As metas assumidas pela unidade perante a Corregedoria Regional são as seguintes:
+200 julgamentos em janeiro/2025 e 220 nos demais meses até abril/2025, quando as
+metas serão reavaliadas.
+3. Informar, sucintamente, sobre a sistemática de avaliação periódica dos resultados das
+atividades da unidade:
+O magistrado elaborou uma planilha de Excel, hospedada na ferramenta Teams, para
+o registro diário, pelos servidores e estagiários, das minutas de decisões e votos
+elaboradas. Ao final de cada semana, a Chefia de Gabinete e o Magistrado
+acompanham a produção e cumprimento das metas estabelecidas. Semanalmente, o
+5
+A604005202ROFJRFJ
+Assinado com senha por LARISSA FIGUEIREDO COELHO MAIA - 31/01/2025 às 19:31:49.
+Documento Nº: 4288059-524 - consulta à autenticidade em https://siga.jfrj.jus.br/sigaex/public/app/autenticar?n=4288059-524
+PODER JUDICIÁRIO
+JUSTIÇA FEDERAL
+SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO
+Magistrado realiza reuniões com a equipe, ocasiões em que instrui a equipe acerca de
+posicionamentos a serem adotados na elaboração das minutas, cientifica sobre
+jurisprudência recente, indaga a respeito de dificuldades na análise dos processos e
+revisa as metas internas fixadas.
+4. Detalhar o tratamento dado aos processos incluídos nas Metas do CNJ, feitos com
+prioridade legal e demais ações elencadas no art. 12, parágrafo único, da Resolução
+nº 496/2006 do CJF:
+As Metas do CNJ aplicáveis à unidade são as de produtividade (Meta 1) e celeridade
+(Meta 2).
+Quanto à Meta 2, há apenas um processo pendente de julgamento (processo
+50498240420194025101). Embora o processo tenha sido distribuído em 2019, o
+recurso somente foi remetido a este Gabinete em 10/07/2024. Apesar disso, o
+processo será apreciado monocraticamente até o dia 03/02/2025. Na hipótese de ser
+necessário o julgamento colegiado, será pautado para a próxima sessão.
+Quanto à Meta 1, houve o atingimento de apenas 36,89% em 2024. Contudo, é
+preciso explicar o que levou a esse baixo desempenho. Em setembro/2024, ao
+assumir a unidade, o magistrado encontrou um cenário crítico: produtividade em
+declínio, distribuição crescente e acervo em expansão. Para reverter esse quadro,
+foram implementadas medidas estruturantes: padronização de minutas, simplificação
+de rotinas e aprimoramento da automatização do eProc. Os resultados já são
+perceptíveis: em janeiro/2025, atingimos 310 julgamentos (201 monocráticos e 109
+votos para próxima sessão).
+As medidas adotadas e os resultados preliminares demonstram que o índice de
+cumprimento será substancialmente melhor em 2025.
+Finalmente, o Magistrado e a Chefia de Gabinete acompanham diariamente o Painel
+de Indicadores da Corregedoria, a fim de identificar possíveis falhas na organização
+do fluxo de trabalho e eventuais entraves ao cumprimento das Metas do CNJ.
+5. Critérios de julgamento para os demais feitos:
+Ressalvados os casos de tutela de urgência, a seleção dos processos para julgamento
+adota critério objetivo focado na gestão eficiente do acervo, priorizando-se aqueles
+que se encontram na faixa crítica de tramitação (paralisados há mais de 150 dias). A
+distribuição do trabalho considera a especialização dos servidores por matéria,
+permitindo o agrupamento de recursos que versem sobre temas comuns para
+julgamento em bloco e o julgamento de casos simples, como aqueles que podem ser
+decididos com base em precedentes obrigatórios.
+6. Informar, sucintamente, como ocorre o fluxo dos processos entre a secretaria e o
+gabinete, a abertura da conclusão e a forma de controle do prazo para prolação de
+sentenças:
+No momento da inclusão dos processos em pauta de julgamento no sistema Eproc,
+tarefa realizada diretamente pelo Magistrado, eles são incluídos em localizador
+designado pela Secretaria para a sessão correspondente. Após a sessão, um servidor
+da Secretaria (GAG) realiza a intimação das partes e controla os prazos. Não havendo
+novo recurso, o servidor da Secretaria certifica o trânsito em julgado e realiza a baixa
+dos autos ao Juizado de origem. Havendo recurso contra o acórdão ou decisão, o
+servidor da Secretaria faz o direcionamento ao Juízo responsável pela análise do
+recurso veiculado. Em casos de
+decisões monocráticas ou despachos, a publicação/intimação é realizada pelo próprio
+Gabinete, que os agenda no sistema Eproc e controla os prazos. Em casos específicos,
+sendo necessário o auxílio da Secretaria para a realização de alguma intimação por
+6
+A604005202ROFJRFJ
+Assinado com senha por LARISSA FIGUEIREDO COELHO MAIA - 31/01/2025 às 19:31:49.
+Documento Nº: 4288059-524 - consulta à autenticidade em https://siga.jfrj.jus.br/sigaex/public/app/autenticar?n=4288059-524
+PODER JUDICIÁRIO
+JUSTIÇA FEDERAL
+SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO
+meio de mandado ou encaminhamento de ofício, inclui-se o processo no localizador
+GAG – MESA SERVIDOR. Da mesma forma, havendo a necessidade de apreciação
+pelo Gabinete de algum processo já incluído em localizador da Secretaria (localizador
+da sessão de julgamento), ele é incluído no localizador GAB3 – APRECIAR.
+7. Há utilização de automação de localizadores (e-Proc) na unidade?:
+A unidade adotou a automação de localizadores no Eproc segundo o tempo em que o
+processo se encontra sem movimentação (processos parados entre 120 e 150 dias e
+processos parados há mais de 150 dias). À medida que a unidade conseguir reduzir o
+número de processos que se encontram nessa condição, serão criados localizadores
+com prazo de paralisação de 80 dias, a fim de permitir que sejam apreciados antes de
+atingirem o prazo de 100 dias, adotado pela Corregedoria do Conselho Nacional de
+Justiça como prazo de duração razoável dos feitos.
+Estão em fase de teste mais duas automatizações relacionadas à triagem. A primeira
+busca identificar os embargos de declaração opostos contra decisão monocrática ou
+colegiada. A segunda objetiva destacar os agravos internos interpostos contra
+decisões monocráticas terminativas. Uma vez implementadas essas automatizações,
+os processos serão incluídos em localizador específico e o recorrido será
+automaticamente intimado para apresentar contrarrazões recursais.
+8. Como é feito o controle dos prazos de suspensão dos processos? Há inserção em local
+(físico ou virtual) específico, com a anotação do motivo de suspensão e a data do
+término?:
+Os processos suspensos são registrados nessa condição no sistema Eproc, com a
+vinculação ao motivo que ensejou a suspensão. Nas hipóteses de sobrestamento de
+processos em razão de vinculação a temas repetitivos ou de repercussão geral, ao
+proceder à confecção da decisão de suspensão, a unidade promove o registro do Tema
+que motivou o sobrestamento no Eproc, a fim de permitir o controle dos processos
+sobrestados em decorrência de cada tema.
+A Chefia de Gabinete acompanha, por e-mail e pelos grupos de whattssapp do Núcleo
+de Gerenciamento de Precedentes (NUGEP) do TRF2, os temas que ensejaram o
+sobrestamento e levantamento de suspensão dos processos, assim como realiza o
+controle mensal dos processos suspensos pelo Painel de Indicadores da Corregedoria.
+9. A unidade verifica a pertinência do assunto cadastrado no processo quando recebe
+novos processos, garantindo que todos os processos do acervo possuam assunto folha
+(último nível) ou de nível 3 ou mais, respeitando a padronização da terminologia de
+assuntos processuais imposta pelo CNJ?:
+A Chefia de Gabinete promove, diariamente, a triagem inicial dos processos
+distribuídos e redistribuídos à unidade, verificando a competência da unidade e a
+pertinência do assunto cadastrado. Em sendo constatado equívoco, procede-se, de
+imediato, à retificação.
+10. A unidade possui algum processo em que não há assunto correspondente disponível
+na Tabela Unificada? A situação foi informada à SAJ ou CORETAB?:
+A unidade não possui processos com assuntos sem correspondente disponível na
+Tabela Unificada.
+9. MATERIAIS ACAUTELADOS NA UNIDADE
+7
+A604005202ROFJRFJ
+Assinado com senha por LARISSA FIGUEIREDO COELHO MAIA - 31/01/2025 às 19:31:49.
+Documento Nº: 4288059-524 - consulta à autenticidade em https://siga.jfrj.jus.br/sigaex/public/app/autenticar?n=4288059-524
+PODER JUDICIÁRIO
+JUSTIÇA FEDERAL
+SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO
+1. Indicar a quantidade de materiais (bens e documentos) acautelados e apreendidos na
+unidade (separadamente):
+A unidade não possui materiais acautelados ou apreendidos.
+2. Indicar a quantidade de processos com bens acautelados/apreendidos na unidade:
+A unidade não possui materiais acautelados ou apreendidos.
+3. Todos os bens acautelados apresentam exata correspondência com os termos de
+acautelamento mantidos pela Secretaria?:
+A unidade não possui materiais acautelados ou apreendidos.
+4. Dentre os bens acautelados/apreendidos na unidade, informar (i) quais possuem
+conteúdo econômico passível de perdimento ou expropriação; (ii) se há dinheiro em
+espécie, títulos de crédito, joias acauteladas ou moeda falsa; (iii) se a moeda falsa está
+devidamente identificada; e (iv) qual a localização desses bens e a situação atual dos
+respectivos processos:
+A unidade não possui materiais acautelados ou apreendidos.
+5. Dentre os bens acautelados/apreendidos na unidade, informar quais estão cadastrados
+no SNGB, por se tratarem de bens alcançados pelo cumprimento de decisões judiciais
+(art. 1º da Resolução nº 483/2022 do CNJ):
+A unidade não possui materiais acautelados ou apreendidos.
+6. A unidade tem tido alguma dificuldade na utilização do SNGB?:
+A unidade não possui materiais acautelados ou apreendidos.
+7. A unidade possuía registros ativos no SNBA na data da implementação do SNGB
+(Resolução nº 483/2022 do CNJ)?:
+A unidade não possui materiais acautelados ou apreendidos.
+8. Em caso positivo, a migração manual dos registros do SNBA para o SNGB foi
+finalizada? Se não, quais são as medidas que estão sendo implementadas para que
+isso ocorra e qual é o cronograma (detalhado) para regularização total dos cadastros?:
+A unidade não possui materiais acautelados ou apreendidos.
+9. A unidade possui cofre ou sala de acautelados e é examinada a regularidade dos bens
+ali guardados?:
+A unidade não possui materiais acautelados ou apreendidos.
+10. Detalhar as providências adotadas para o acautelamento/apreensão de bens em geral:
+A unidade não possui materiais acautelados ou apreendidos.
+11. Detalhar as providências adotadas para alienação antecipada de bens, quando
+necessário:
+8
+A604005202ROFJRFJ
+Assinado com senha por LARISSA FIGUEIREDO COELHO MAIA - 31/01/2025 às 19:31:49.
+Documento Nº: 4288059-524 - consulta à autenticidade em https://siga.jfrj.jus.br/sigaex/public/app/autenticar?n=4288059-524
+PODER JUDICIÁRIO
+JUSTIÇA FEDERAL
+SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO
+A unidade não possui materiais acautelados ou apreendidos.
+12. Juntar aos autos do processo de correção ordinária, no E-proc, as fotos dos bens
+acautelados, salvas em PDF, observando-se o seguinte:
+1 (uma) foto por bem acautelado, onde se visualize, apenas externamente, o
+termo de acautelamento que nele se encontre afixado;
+No termo de acautelamento deve constar a descrição do bem acautelado e a
+identificação precisa do local em que se encontra;
+Caso o bem se encontre em local diverso da Secretaria por designação do
+Juízo, indicar o expediente no Siga criado para tal registro, na forma do art. 2º,
+§3º, da Portaria TRF2-PTC-2022/00071.
+13. Os bens acautelados devem estar registrados como “Anexo Físico” no E-Proc, em
+"Informações adicionais", de forma a possibilitar o seu controle por meio da extração
+de Relatório Geral no Sistema Processual.
+No conteúdo da informação do “Anexo Físico”, deve constar a descrição do bem
+acautelado, a localização precisa em que se encontra e a indicação da existência de
+termo de acautelamento e do evento/folha correspondente no processo eletrônico (art.
+2º, § 1º, da Portaria TRF2-PTC-2022/00071);
+Devem ser excluídos/desativados os “Anexos Físicos” nas “Informações Adicionais”
+dos processos eletrônicos que não possuam bens acautelados (art. 2º, § 2º, da Portaria
+TRF2-PTC-2022/00071).
+14. PROCESSOS FÍSICOS EM CARGA OU RETIRADOS
+1. Há processos físicos com carga às partes ou retirados por auxiliares do juízo
+além do prazo legal?:
+Não
+2. Identificar os processos extraviados, as datas da ocorrência e as providências:
+A unidade não possui processos físicos com carga às partes ou retirados por
+auxiliares do juízo além do prazo legal.
+3. Identificar as ações de restauração de autos, no período do levantamento:
+A unidade não possui processos físicos com carga às partes ou retirados por
+auxiliares do juízo além do prazo legal, bem assim ações de restauração de
+autos.
+15. SESSÃO DE JULGAMENTO/AUDIÊNCIAS
+1. Número de sessões de julgamento agendadas e realizadas:
+Em 2024, foram realizadas 23 (vinte e três) sessões de julgamento.
+Em janeiro de 2025, há 07 sessões de julgamento designadas entre 18/02/2025
+e 17/06/2025.
+2. Como é feito o controle da inclusão, adiamento e retirada de pauta de
+processos?:
+9
+A604005202ROFJRFJ
+Assinado com senha por LARISSA FIGUEIREDO COELHO MAIA - 31/01/2025 às 19:31:49.
+Documento Nº: 4288059-524 - consulta à autenticidade em https://siga.jfrj.jus.br/sigaex/public/app/autenticar?n=4288059-524
+PODER JUDICIÁRIO
+JUSTIÇA FEDERAL
+SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO
+O controle da inclusão dos processos em pauta de julgamento é feito pela
+Chefia de Gabinete, por meio da guia, constante do sistema EProc,
+denominada cronograma de sessões de julgamento”, na qual há a fixação das
+datas limites para inclusão em pauta. Até a data limite, os processos já
+minutados, revisados pelo Magistrado e inseridos no localizador “GAG-
+SESSÃO ORDINÁRIA", acrescido da data da sessão de julgamento
+respectiva, são pautados.
+O controle e lançamentos dos eventos de adiamento e retirada de pauta são
+efetuados pela Secretaria - Seção de Julgamento (TR-SJU). Se, no entanto, a
+determinação de retirada de pauta ocorrer previamente à sessão, a Chefia de
+Gabinete promove o controle, efetuando o respectivo lançamento no sistema,
+com intimação das partes acerca da decisão que determinou a retirada.
+3. Qual o intervalo de tempo médio entre o pedido de dia/inclusão em pauta e a
+realização da sessão de julgamento?:
+O intervalo de tempo médio entre o pedido de dia/inclusão em pauta e a
+realização da sessão de julgamento é de aproximadamente 20 (vinte) dias
+corridos.
+4. A unidade utiliza o registro audiovisual de sessões de julgamento?:
+O registro audiovisual das sessões de julgamento fica a cargo da Secretaria,
+especificamente do setor TR-SJU.
+5. Foi detectada alguma falha no registro audiovisual de sessões de julgamento
+nos últimos 12 meses comprometendo seu conteúdo? Quais as falhas e quais as
+soluções adotadas para saná-las?:
+O registro audiovisual das sessões de julgamento fica a cargo da Secretaria,
+especificamente do setor TR-SJU.
+6. Houve alguma audiência de custódia, realizada em plantão, nos últimos 12
+meses? Quantas? Em caso positivo, indicar o número dos processos. É
+utilizado o Sistema de Audiência de Custódia (SISTAC), para gravar as
+audiências?:
+A unidade não realizou, nos últimos 12 (doze) meses, nenhuma audiência de
+custódia em plantão.
+7. Foi realizada alguma audiência de forma remota nos últimos dois anos? Em
+quais processos? (art. 4º, TRF2-PVC-2023/00002):
+A unidade não detém competência para realizar audiências de instrução.
+16. CUMPRIMENTO DE DETERMINAÇÕES DE INSPEÇÕES E CORREIÇÕES
+ANTERIORES
+1. A unidade cumpriu todas as metas estabelecidas na inspeção anterior?:
+Não.
+2. A unidade regularizou todas as pendências apontadas na última Correição ou
+Inspeção de Avaliação da Corregedoria?:
+10
+A604005202ROFJRFJ
+Assinado com senha por LARISSA FIGUEIREDO COELHO MAIA - 31/01/2025 às 19:31:49.
+Documento Nº: 4288059-524 - consulta à autenticidade em https://siga.jfrj.jus.br/sigaex/public/app/autenticar?n=4288059-524
+PODER JUDICIÁRIO
+JUSTIÇA FEDERAL
+SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO
+Não.
+Em sendo negativa a resposta de algum dos itens acima, justificar o eventual
+não cumprimento:
+O juiz federal Rafael Assis Alves assumiu a titularidade deste gabinete em
+10/09/2024. Desde então, diversas medidas foram implementadas para acelerar
+os julgamentos, a exemplo da revisão dos processos de trabalho, ampliação da
+equipe e estabelecimento de reuniões semanais para alinhamento de objetivos
+de curto prazo.
+A unidade contava apenas com 3 (três) servidores, incluindo o Chefe de
+Gabinete, que não elaborava minutas de decisões. Do quadro, uma servidora
+encontrava-se em licença para tratamento da própria saúde desde 23/08/2024.
+Em 02/12/2024, a Diretoria do Foro disponibilizou uma quarta servidora, a
+qual ainda está em período de adaptação e aprendizagem. Em janeiro de 2025,
+foram disponibilizados, para auxílio, 2 (dois) servidores do GSA. Desses, um
+não possui formação jurídica, tampouco experiência na elaboração de minutas
+de decisões e votos, de modo que está sendo treinado pelo Gabinete. A outra
+servidora do GSA ainda não iniciou as suas atividades no gabinete, porquanto
+encontra-se no gozo de férias e licença eleitoral, com data de término em
+03/02/2024. Em 28/01/2024, foi lotada, na unidade, uma servidora recém-
+nomeada, aprovada no último concurso de servidores, em substituição à
+servidora que está de licença para tratamento de saúde.
+17. BOAS PRÁTICAS E DIFICULDADES
+1. Relacionar as boas práticas, eventuais dificuldades vivenciadas na unidade,
+bem como demandas e soluções propostas, inclusive quanto aos setores
+administrativos:
+A maior dificuldade decorre da pouca experiência da equipe.
+O juiz federal Rafael Assis Alves assumiu a titularidade deste gabinete em
+10/09/2024. Até 02/12/2024, a unidade contava com apenas um servidor que
+elaborava minutas de decisões, o analista judiciário Marcelo Augusto Pinto,
+que foi lotado em janeiro/2024 sem prévia experiência em gabinete e atua,
+desde então, exclusivamente nos recursos relacionados a benefício assistencial
+de prestação continuada.
+O chefe de gabinete, substituído em janeiro/2025, não elaborava minutas de
+decisões e a servidora Ângela Cembranel Refatti Avril encontra-se afastada
+desde 23/08/2024. Além desses servidores, foram contratados 3 estagiários em
+setembro/2024, que atuam nos benefícios por incapacidade.
+Em 02/12/2024, foi lotada na unidade a técnica judiciária Larissa Lima
+Azevedo, sem experiência prévia na confecção de minutas de votos/decisões.
+Por força da inclusão do Gabinete no Programa de Acompanhamento Especial
+(PAE) da Corregedoria-Geral da Justiça Federal da 2.ª Região, foram
+disponibilizados 2 (dois) servidores do Grupo de Apoio da Corregedoria para
+prestarem auxílio ao Gabinete. Contudo, eles não possuem experiência na
+elaboração de minutas de votos e decisões.
+Em 28/01/2024, foi lotada, na unidade, uma servidora recém-empossada,
+aprovada no último concurso de servidores, em substituição à servidora em
+licença para tratamento de saúde.
+Por isso, à exceção do servidor Marcelo Augusto Pinto, todos os servidores
+estão sendo treinados pelo magistrado.
+Em decorrência da inclusão da unidade no PAE, da Corregedoria, foi
+elaborado novo Plano de Gestão, em que foram estabelecidas as seguintes
+11
+A604005202ROFJRFJ
+Assinado com senha por LARISSA FIGUEIREDO COELHO MAIA - 31/01/2025 às 19:31:49.
+Documento Nº: 4288059-524 - consulta à autenticidade em https://siga.jfrj.jus.br/sigaex/public/app/autenticar?n=4288059-524
+PODER JUDICIÁRIO
+JUSTIÇA FEDERAL
+SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO
+metas:
+1. Julgar pelo menos 200 recursos em janeiro e 220 nos meses seguintes;
+2. Reduzir gradativamente a quantidade de processos parados há mais de 150
+dias, atingindo o máximo de 330 nesta situação em abril/2025.
+3. Direcionar 70% da produtividade mensal aos processos parados há mais de
+150 dias.
+4. Dedicar 30% da produtividade mensal aos processos em risco de atingir a
+faixa crítica.
+5. Implementar, até 22 de fevereiro de 2025, sistema automatizado de
+localizadores no EPROC para monitoramento dos processos paralisados há
+mais de 150 dias.
+6. Desenvolver, até 22 de fevereiro de 2025, rotina automatizada de controle
+dos processos suspensos ou sobrestados.
+7. Estabelecer, até 22 de fevereiro de 2025, procedimento padronizado para
+atualização dos localizadores no EPROC.
+8. Apresentar à Corregedoria Regional relatório mensal sobre a evolução do
+acervo e o cumprimento das metas estabelecidas.
+A unidade já implementou a automação de localizadores no Eproc segundo o
+tempo em que o processo se encontra sem movimentação (processos parados
+entre 120 e 150 dias e processos parados há mais de 150 dias). À medida que
+conseguir reduzir o número de processos que se encontram nessa condição,
+serão criados localizadores com prazo de paralisação de 80 dias, a fim de
+permitir que sejam apreciados antes de atingirem o prazo de 100 dias, adotado
+pela Corregedoria do Conselho Nacional de Justiça como prazo de duração
+razoável dos feitos.
+O magistrado elaborou uma planilha de Excel, hospedada na ferramenta
+Teams, para o registro diário, pelos servidores e estagiários, das minutas de
+decisões e votos elaboradas. Ao final de cada semana, a Chefia de Gabinete e o
+Magistrado acompanham a produção e cumprimento das metas estabelecidas.
+Semanalmente, o Magistrado realiza reuniões com a equipe, ocasiões em que
+instrui a equipe acerca de posicionamentos a serem adotados na elaboração das
+minutas, cientifica sobre jurisprudência recente, indaga a respeito de
+dificuldades na análise dos processos e revisa as metas internas fixadas.
+Esse relato não visa justificar o baixo desempenho anterior, mas contextualizar
+a atual fase de reestruturação da unidade. O comprometimento de toda a
+equipe com a melhoria dos indicadores, sem prejuízo da qualidade técnica, já
+se reflete nos resultados de janeiro/2025, que demonstram consistente
+evolução da produtividade.
+Rio de Janeiro, 31 de janeiro de 2025.
+LARISSA FIGUEIREDO COELHO MAIA
+CHEFE DE GABINETE
+2ª TURMA RECURSAL - GABINETE DO 3º JUIZ RELATOR
+12
+A604005202ROFJRFJ
+Assinado com senha por LARISSA FIGUEIREDO COELHO MAIA - 31/01/2025 às 19:31:49.
+Documento Nº: 4288059-524 - consulta à autenticidade em https://siga.jfrj.jus.br/sigaex/public/app/autenticar?n=4288059-524

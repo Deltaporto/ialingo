@@ -4,7 +4,12 @@
       "Bash(python -c:*)",
       "Bash(ls:*)",
       "Bash(copy:*)",
-      "Bash(copy \"CAMPOS_FORMULARIO_REGRAS.md\" \"referencia\\\\CAMPOS_FORMULARIO.md\")"
+      "Bash(copy \"CAMPOS_FORMULARIO_REGRAS.md\" \"referencia\\\\CAMPOS_FORMULARIO.md\")",
+      "Bash(pandoc:*)",
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(python scripts/gerar_docx_plano.py:*)",
+      "Bash(python scripts/gerar_docx_plano_prosa.py:*)"
     ]
   }
 }
